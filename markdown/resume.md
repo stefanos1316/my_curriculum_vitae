@@ -21,7 +21,7 @@ Education
 2013-2015
 :   **MSc, Pervasive Computing and Communications for Sustainable Development (PERCCOM)**; Erasmus Mundus Joint Master Degree 
       
-	ITMO University of Saint-Petersburg (Russia) *Thesis title: Implementating Green IT approach for tansferring Big Data over Parallel Data Links*
+	ITMO University of Saint-Petersburg (Russia) *Thesis title: Implementating Green IT approach for transferring Big Data over Parallel Data Links*
 	
 	Lulea University of Technology (Sweden) *Semester 3: Resource Efficient Pervasive Computing Systems and Communications*	
 	
@@ -91,11 +91,11 @@ Grands, Awards, Languages, and Living Abroad
 * Staying Abroad:
 
     * Borned in Gyula, Hungary but grown up in Nicosia, Cyprus.
-    * Livied in Lorraine, France and eating baguette (Winter Semester of 2013) 
+    * Lived in Lorraine, France and eating baguette (Winter Semester of 2013) 
     * Had many sauna sessions in Lappeenranta, Finland (Summer Semester of 2014)
     * How to fish from ice-lake in Lulea, Sweden (Winter Semseter of 2014)
     * How to drink a proper dose of vodka in Saint-Petersburg, Russia (Summer Semester of 2015)
-    * Eating fetta and visting islands in Athens, Greece (Winter Semester of 2016 till now) 
+    * Eating fetta in Athens and visiting islands in Greece (Winter Semester of 2016 till now) 
 
 ----
 
