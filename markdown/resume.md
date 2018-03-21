@@ -58,7 +58,7 @@ Knowledge
 :   *Tools and Practices:* GitHub and plugins (Travis CI, Coveralls, maven-plugins, GH-pages)
  
 Projects
-: *Measuring Energy Consumption:* [semt](https://github.com/stefanos1316/SEMTs_Comparisson) and hemt
+: *Measuring Energy Consumption:* [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
 : *Programming II website:* [course](https://github.com/stefanos1316/courses)
 : *Rosetta Code Experiement:* [link](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
 
