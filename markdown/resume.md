@@ -43,20 +43,25 @@ Experience
 
 Assisting my PhD advisor at Programming II course (Winter Semester of 2017 and 2018). 
 Main responsibilities are giving tutorial and Lab sessions, guiding students on team assignments and preparing presentations.
-Secondary, providing lectures and tutorial sessions for BootCamp (Oct. 2017 - May 2018)
+Secondary, providing lectures and tutorials for 1rst and 2nd BootCamps (Oct. 2017 - May 2018) [Link](https://github.com/codeandwork/courses)
   
 **Proposals writing:**
 
-Assisting Singular Logic's European Project Department for writing proposals and participating in project's telco.
+Assisting Singular Logic's European Project Department for writing proposals and participating in project's telco meetings.
 
 
 Technical Experience
 --------------------
 
-Knowledge in
+Knowledge
 :   *Programming Languages:* Bash, Java, Python, C, and C++
-:   *Tools and Practices:* GitHub and plugins (Travis CI, coveralls, maven-plugins)
+:   *Tools and Practices:* GitHub and plugins (Travis CI, Coveralls, maven-plugins, GH-pages)
  
+Projects
+: *Measuring Energy Consumption:* [semt](https://github.com/stefanos1316/SEMTs_Comparisson) and hemt
+: *Programming II website:* [course](https://github.com/stefanos1316/courses)
+: *Rosetta Code Experiement:* [link](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
+
 
 Research Publications
 ---------------------
