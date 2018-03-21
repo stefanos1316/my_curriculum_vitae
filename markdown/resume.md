@@ -12,9 +12,11 @@ Education
 ---------
 
 2016-2019 (expected)
-:   **PhD, Management Science and Technologu**; Athens University of Economics and Business
+:   **PhD, Management Science and Technology**; Athens University of Economics and Business
 
     *Thesis title: Energy and Performance Implications for Software Development Practices*
+ 
+    *PhD advisor: [Prof. Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/)*
 
 2013-2015
 :   **MSc, Pervasive Computing and Communications for Sustainable Development (PERCCOM)**; Erasmus Mundus Joint Master Degree 
@@ -31,7 +33,7 @@ Education
 2013-2008
 :   **BSc, Networks and Systems Programming**; University of Cyprus 
 
-    * Thesis title: *
+    *Thesis title:*
 
 
 Experience
@@ -43,64 +45,52 @@ Assisting my PhD advisor at Programming II course (Winter Semester of 2017 and 2
 Main responsibilities are giving tutorial and Lab sessions, guiding students on team assignments and preparing presentations.
 Secondary, providing lectures and tutorial sessions for BootCamp (Oct. 2017 - May 2018)
   
+**Proposals writing:**
+
+Assisting Singular Logic's European Project Department for writing proposals and participating in project's telco.
 
 
 Technical Experience
 --------------------
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Knowledge in
+:   *Programming Languages:* Bash, Java, Python, C, and C++
+:   *Tools and Practices:* GitHub and plugins (Travis CI, coveralls, maven-plugins)
+ 
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Research Publications
+---------------------
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+* Conference Publications
+   
+     * Stefanos Georgiou, Maria Kechagia Panos Louridas, and Diomidis Spinellis. What are your programming language’s energy-delay implications? In 15th International Conference on Mining Software Repositories: Technical Track, MSR '18. New York, NY, USA, May 2018. Association for Computing Machinery. [Link](../publications/conferences/GKLS18.pdf).
+     * Stefanos Georgiou, Maria Kechagia, and Diomidis Spinellis. Analyzing programming languages' energy consumption: an empirical study. In PCI 2017: Proceedings of the 21st Pan-Hellenic Conference on Informatics, ACM International Conference Proceeding Series. ACM Press, September 2017. [Link](../publications/conferences/GKS17.pdf)
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
-
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
-
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
-
-[ref]: https://github.com/githubuser/superlongprojectname
-
-Languages and living abroad
+Grands, Awards, Languages, and Living Abroad
 ---------------------------
+
+* Grands and awards:
+
+     * Marie Skłodowska-Curie funds, SENECA (2016-2019)
+     * Erasmus Mundus Masters Scholarship, PERCCOM (2013-2015)\
+
 
 * Human Languages:
 
-     * Greek/Hungarian (native speker)
-     * English (fluet speaker)
+     * Greek/Hungarian (Native speker)
+     * English (Fluet speaker)
      * Russian/ France (Basic knowledge)
+
 
 * Staying Abroad:
 
-    * Borng in Gyula, Hungary but grown up in Nicosia, Cyprus.
+    * Borned in Gyula, Hungary but grown up in Nicosia, Cyprus.
     * Livied in Lorraine, France and eating baguette (Winter Semester of 2013) 
     * Had many sauna sessions in Lappeenranta, Finland (Summer Semester of 2014)
-    * Learned how to fish from ice-lake in Lulea, Sweden (Winter Semseter of 2014)
-    * Learned how to drink a proper dose of vodka in Saint-Petersburg, Russia (Summer Semester of 2015)
-    * Enjoying fetta and the beauty of Greek islands in Athens, Greece (from Winter Semester of 2016 till now) 
+    * How to fish from ice-lake in Lulea, Sweden (Winter Semseter of 2014)
+    * How to drink a proper dose of vodka in Saint-Petersburg, Russia (Summer Semester of 2015)
+    * Eating fetta and visting islands in Athens, Greece (Winter Semester of 2016 till now) 
 
 ----
 

@@ -28,9 +28,10 @@ structure       > sectioning > section @ level 3 : 0.0.1 -> Stefanos Georgiou
 structure       > sectioning > subsection @ level 4 : 0.0.1.1 -> Education
 structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Experience
 structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Technical Experience
+structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Research Publications
 backend         > xmp > using file '/usr/share/texlive/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml'
 pages           > flushing realpage 1, userpage 1
-structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Languages and living abroad
+structure       > sectioning > subsection @ level 4 : 0.0.1.5 -> Grands, Awards, Languages, and Living Abroad
 pages           > flushing realpage 2, userpage 2
 close source    > 2 > 4 > output/resume.tex
 close source    > 1 > 4 > /usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv
@@ -45,9 +46,9 @@ system          > structure > stop used structure
 system          > files > start used files
 
 used file       >    1: filename=cont-yes.mkiv filetype=tex foundname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
-used file       >    2: filename=publ-imp-default.lua filetype=scripts foundname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+used file       >    2: filename=publ-imp-default.lua filetype=lua foundname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
 used file       >    3: filename=cont-new.mkiv filetype=tex foundname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
-used file       >    4: filename=lang-us.lua filetype=scripts foundname=/usr/share/texlive/texmf-dist/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+used file       >    4: filename=lang-us.lua filetype=lua foundname=/usr/share/texlive/texmf-dist/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
 used file       >    5: filename=output/resume.tex foundname=output/resume.tex usedmethod=direct
 used file       >    6: filename=type-imp-texgyre.mkiv filetype=tex foundname=/usr/share/texlive/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv usedmethod=database
 used file       >    7: filename=lm.lfg filetype=tex foundname=/usr/share/texlive/texmf-dist/tex/context/fonts/mkiv/lm.lfg usedmethod=database
@@ -55,17 +56,18 @@ used file       >    8: filename=texgyreheros-regular filetype=otf format=otf fo
 used file       >    9: filename=latinmodern-math.otf filetype=opentypefonts foundname=/usr/share/texlive/texmf-dist/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
 used file       >   10: filename=texgyreheros-bold filetype=otf format=otf foundname=/usr/share/texlive/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf usedmethod=database
 used file       >   11: filename=texgyreheros-italic filetype=otf format=otf foundname=/usr/share/texlive/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf usedmethod=database
-used file       >   12: filename=lpdf-pdx.xml filetype=tex foundname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+used file       >   12: filename=texgyreheros-bolditalic filetype=otf format=otf foundname=/usr/share/texlive/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf usedmethod=database
+used file       >   13: filename=lpdf-pdx.xml filetype=tex foundname=/usr/share/texlive/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
 
 system          > files > stop used files
 
 
 system          > options > start commandline options
 
-used option     > currentrun="1"
+used option     > currentrun="2"
 used option     > fulljobname="output/resume.tex"
 used option     > input="output/resume.tex"
-used option     > kindofrun="1"
+used option     > kindofrun="2"
 used option     > maxnofruns="9"
 used option     > no-parse-first-line="true"
 used option     > result="output/resume.pdf"
@@ -81,26 +83,26 @@ system          > options > stop commandline files
 
 mkiv lua stats  > used config file: /usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: /home/sgeorgiou/.cache/texlive/luatex-cache/context/c8ffba5311d077c16376bba44d5fa793
-mkiv lua stats  > resource resolver: loadtime 0.541 seconds, 1 scans with scantime 0.538 seconds, 0 shared scans, 12 found files, scanned paths: /usr/share/texlive/texmf-dist
-mkiv lua stats  > stored bytecode data: 387 modules (0.727 sec), 82 tables (0.008 sec), 469 chunks (0.735 sec)
+mkiv lua stats  > resource resolver: loadtime 0.622 seconds, 1 scans with scantime 0.619 seconds, 0 shared scans, 13 found files, scanned paths: /usr/share/texlive/texmf-dist
+mkiv lua stats  > stored bytecode data: 387 modules (0.843 sec), 82 tables (0.015 sec), 469 chunks (0.858 sec)
 mkiv lua stats  > traced context: maxstack: 1175, freed: 0, unreachable: 1175
 mkiv lua stats  > cleaned up reserved nodes: 56 nodes, 9 lists of 444
 mkiv lua stats  > node memory usage: 13 glue, 2 penalty, 35 attribute, 38 glue_spec, 10 attribute_list, 2 temp
-mkiv lua stats  > node list callback tasks: 6 unique task lists, 7 instances (re)created, 323 calls
-mkiv lua stats  > h-node processing time: 0.010 seconds including kernel
+mkiv lua stats  > node list callback tasks: 6 unique task lists, 7 instances (re)created, 329 calls
+mkiv lua stats  > h-node processing time: 0.011 seconds including kernel
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
 mkiv lua stats  > jobdata time: 0.001 seconds saving, 0.001 seconds loading
-mkiv lua stats  > callbacks: 688 direct, 749 indirect, 1437 total
-mkiv lua stats  > randomizer: resumed with value 0.83580946262731
+mkiv lua stats  > callbacks: 710 direct, 753 indirect, 1463 total
+mkiv lua stats  > randomizer: resumed with value 0.070441406718661
 mkiv lua stats  > loaded patterns: en::2, load time: 0.000
-mkiv lua stats  > interactive elements: 3 references, 11 destinations
+mkiv lua stats  > interactive elements: 4 references, 10 destinations
 mkiv lua stats  > result saved in file: output/resume.pdf.pdf, compresslevel 3, objectcompresslevel 3
-mkiv lua stats  > loaded fonts: 4 files: latinmodern-math.otf, texgyreheros-bold.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 10 instances, 4 shared in backend, 0 common vectors, 4 common hashes, load time 0.165 seconds 
-mkiv lua stats  > pdf annotations: 3 links (3 unique), 0 special
+mkiv lua stats  > loaded fonts: 5 files: latinmodern-math.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
+mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 11 instances, 4 shared in backend, 0 common vectors, 4 common hashes, load time 0.204 seconds 
+mkiv lua stats  > pdf annotations: 4 links (4 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
 mkiv lua stats  > luatex banner: this is luatex, version 0.95.0 (tex live 2016)
-mkiv lua stats  > control sequences: 44142 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua, used memory: 90 MB (ctx: 90 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 1.047 seconds, 2 processed pages, 2 shipped pages, 1.910 pages/second
+mkiv lua stats  > control sequences: 44140 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua, used memory: 93 MB (ctx: 92 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 1.248 seconds, 2 processed pages, 2 shipped pages, 1.603 pages/second
 

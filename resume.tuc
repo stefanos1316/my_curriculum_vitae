@@ -19,7 +19,7 @@ if not utilitydata.job.variables then utilitydata.job.variables = { } end
 
 utilitydata.job.variables.collected={
  ["macros"]={},
- ["randomseed"]=0.070441406718661,
+ ["randomseed"]=0.83580946262731,
  ["sectionblockorder"]={},
 }
 
@@ -231,7 +231,7 @@ utilitydata.structures.lists.collected={
    ["section"]=4,
   },
   ["titledata"]={
-   ["title"]="Knowledge in",
+   ["title"]="My Cool Side Project",
   },
  },
  {
@@ -256,12 +256,12 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=10,
    ["realpage"]=2,
-   ["reference"]="grands-awards-languages-and-living-abroad",
+   ["reference"]="award-languages-and-living-abroad",
    ["section"]=6,
   },
   ["titledata"]={
    ["label"]="subsection",
-   ["title"]="Grands, Awards, Languages, and Living Abroad",
+   ["title"]="Award, Languages, and living abroad",
   },
  },
 }
@@ -296,8 +296,7 @@ if not utilitydata.structures then utilitydata.structures = { } end
 if not utilitydata.structures.references then utilitydata.structures.references = { } end
 
 utilitydata.structures.references.referred={
- { 1, 1 },
- { 2, 2 },
+ { 2, 1 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end
