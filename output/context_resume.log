@@ -36,26 +36,6 @@ open source     > 3 > 4 > /usr/share/texlive/texmf-dist/tex/context/fonts/mkiv/t
 close source    > 3 > 4 > /usr/share/texlive/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv
 structure       > sectioning > section @ level 3 : 0.0.1 -> Stefanos Georgiou
 structure       > sectioning > subsection @ level 4 : 0.0.1.1 -> Education
-fonts           > otf loading > loading '/usr/share/texlive/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf', hash 'texgyreheros-bolditalic'
-otf reader      > found cmaps:
-otf reader      >   platform 0: unicode
-otf reader      >     encoding 3: unicode 2.0 bmp
-otf reader      >       formats: 4
-otf reader      >   platform 1: macintosh (unsupported)
-otf reader      >     encoding 0: roman (unsupported)
-otf reader      >       formats: 6 (unsupported)
-otf reader      >   platform 3: windows
-otf reader      >     encoding 1: unicode bmp
-otf reader      >       formats: 4
-otf reader      > cmap checked: platform 3 (windows), encoding 1 (unicode bmp), format 4, new unicodes 1053
-otf reader      > cmap checked: platform 0 (unicode), encoding 3 (unicode 2.0 bmp), format 4, new unicodes 0
-otf reader      > not unicoded: dblgrave.ts1 idotaccent.sc
-otf reader      > 47 bogus names removed (verbose unicode)
-fonts           > otf loading > loading done
-fonts           > otf loading > saving '/usr/share/texlive/texmf-dist/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf' in cache
-system          > lua > compiling '/home/sgeorgiou/.cache/texlive/luatex-cache/context/c8ffba5311d077c16376bba44d5fa793/fonts/otl/texgyreheros-bolditalic.tma' into '/home/sgeorgiou/.cache/texlive/luatex-cache/context/c8ffba5311d077c16376bba44d5fa793/fonts/otl/texgyreheros-bolditalic.tmc'
-system          > lua > dumping '/home/sgeorgiou/.cache/texlive/luatex-cache/context/c8ffba5311d077c16376bba44d5fa793/fonts/otl/texgyreheros-bolditalic.tma' into '/home/sgeorgiou/.cache/texlive/luatex-cache/context/c8ffba5311d077c16376bba44d5fa793/fonts/otl/texgyreheros-bolditalic.tmc' stripped
-fonts           > otf loading > loading, optimizing, packing and caching time 0.195
 structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Experience
 structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Technical Experience
 structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Research Publications
@@ -68,8 +48,8 @@ close source    > 1 > 4 > /usr/share/texlive/texmf-dist/tex/context/base/mkiv/co
 
 mkiv lua stats  > used config file: /usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: /home/sgeorgiou/.cache/texlive/luatex-cache/context/c8ffba5311d077c16376bba44d5fa793
-mkiv lua stats  > resource resolver: loadtime 0.650 seconds, 1 scans with scantime 0.647 seconds, 0 shared scans, 13 found files, scanned paths: /usr/share/texlive/texmf-dist
-mkiv lua stats  > stored bytecode data: 387 modules (0.829 sec), 82 tables (0.008 sec), 469 chunks (0.837 sec)
+mkiv lua stats  > resource resolver: loadtime 0.542 seconds, 1 scans with scantime 0.539 seconds, 0 shared scans, 13 found files, scanned paths: /usr/share/texlive/texmf-dist
+mkiv lua stats  > stored bytecode data: 387 modules (0.723 sec), 82 tables (0.008 sec), 469 chunks (0.731 sec)
 mkiv lua stats  > traced context: maxstack: 1175, freed: 0, unreachable: 1175
 mkiv lua stats  > cleaned up reserved nodes: 56 nodes, 9 lists of 444
 mkiv lua stats  > node memory usage: 13 glue, 2 penalty, 35 attribute, 38 glue_spec, 10 attribute_list, 2 temp
@@ -82,79 +62,13 @@ mkiv lua stats  > loaded patterns: en::2, load time: 0.000
 mkiv lua stats  > interactive elements: 4 references, 10 destinations
 mkiv lua stats  > result saved in file: output/resume.pdf.pdf, compresslevel 3, objectcompresslevel 3
 mkiv lua stats  > loaded fonts: 5 files: latinmodern-math.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 11 instances, 4 shared in backend, 0 common vectors, 4 common hashes, load time 0.385 seconds 
+mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 11 instances, 4 shared in backend, 0 common vectors, 4 common hashes, load time 0.172 seconds 
 mkiv lua stats  > pdf annotations: 4 links (4 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
 mkiv lua stats  > luatex banner: this is luatex, version 0.95.0 (tex live 2016)
 mkiv lua stats  > control sequences: 44141 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua, used memory: 109 MB (ctx: 108 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 1.397 seconds, 2 processed pages, 2 shipped pages, 1.432 pages/second
-
-mtx-context     | run 2: luatex --fmt="/home/sgeorgiou/.cache/texlive/luatex-cache/context/c8ffba5311d077c16376bba44d5fa793/formats/luatex/cont-en" --jobname="resume" --lua="/home/sgeorgiou/.cache/texlive/luatex-cache/context/c8ffba5311d077c16376bba44d5fa793/formats/luatex/cont-en.lui" --no-parse-first-line --c:currentrun=2 --c:fulljobname="output/resume.tex" --c:input="output/resume.tex" --c:kindofrun=2 --c:maxnofruns=9 --c:result="output/resume.pdf" "cont-yes.mkiv"
-This is LuaTeX, Version 0.95.0 (TeX Live 2016) 
- system commands enabled.
-
-resolvers       > trees > analyzing '/usr/share/texlive/texmf-dist'
-
-resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
-
-resolvers       > globbing > confusing filename, name: 'Readme.txt', lower: 'readme.txt', already: 'README.txt'
-
-resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
-
-resolvers       > globbing > confusing filename, name: 'Changes', lower: 'changes', already: 'CHANGES'
-
-resolvers       > globbing > confusing filename, name: 'News', lower: 'news', already: 'NEWS'
-open source     > 1 > 1 > /usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv
-
-ConTeXt  ver: 2016.05.17 19:20 MKIV current  fmt: 2018.3.21  int: english/english
-
-system          > 'cont-new.mkiv' loaded
-open source     > 2 > 2 > /usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-new.mkiv
-close source    > 2 > 2 > /usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-new.mkiv
-system          > files > jobname 'resume', input 'output/resume', result 'output/resume.pdf'
-fonts           > latin modern fonts are not preloaded
-languages       > language 'en' is active
-open source     > 2 > 3 > output/resume.tex
-colors          > defining > unknown library 'hex'
-open source     > 3 > 4 > /usr/share/texlive/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv
-close source    > 3 > 4 > /usr/share/texlive/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv
-structure       > sectioning > section @ level 3 : 0.0.1 -> Stefanos Georgiou
-structure       > sectioning > subsection @ level 4 : 0.0.1.1 -> Education
-structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Experience
-structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Technical Experience
-structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Research Publications
-backend         > xmp > using file '/usr/share/texlive/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml'
-pages           > flushing realpage 1, userpage 1
-structure       > sectioning > subsection @ level 4 : 0.0.1.5 -> Grands, Awards, Languages, and Living Abroad
-pages           > flushing realpage 2, userpage 2
-close source    > 2 > 4 > output/resume.tex
-close source    > 1 > 4 > /usr/share/texlive/texmf-dist/tex/context/base/mkiv/cont-yes.mkiv
-
-mkiv lua stats  > used config file: /usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
-mkiv lua stats  > used cache path: /home/sgeorgiou/.cache/texlive/luatex-cache/context/c8ffba5311d077c16376bba44d5fa793
-mkiv lua stats  > resource resolver: loadtime 0.622 seconds, 1 scans with scantime 0.619 seconds, 0 shared scans, 13 found files, scanned paths: /usr/share/texlive/texmf-dist
-mkiv lua stats  > stored bytecode data: 387 modules (0.843 sec), 82 tables (0.015 sec), 469 chunks (0.858 sec)
-mkiv lua stats  > traced context: maxstack: 1175, freed: 0, unreachable: 1175
-mkiv lua stats  > cleaned up reserved nodes: 56 nodes, 9 lists of 444
-mkiv lua stats  > node memory usage: 13 glue, 2 penalty, 35 attribute, 38 glue_spec, 10 attribute_list, 2 temp
-mkiv lua stats  > node list callback tasks: 6 unique task lists, 7 instances (re)created, 329 calls
-mkiv lua stats  > h-node processing time: 0.011 seconds including kernel
-mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
-mkiv lua stats  > jobdata time: 0.001 seconds saving, 0.001 seconds loading
-mkiv lua stats  > callbacks: 710 direct, 753 indirect, 1463 total
-mkiv lua stats  > randomizer: resumed with value 0.070441406718661
-mkiv lua stats  > loaded patterns: en::2, load time: 0.000
-mkiv lua stats  > interactive elements: 4 references, 10 destinations
-mkiv lua stats  > result saved in file: output/resume.pdf.pdf, compresslevel 3, objectcompresslevel 3
-mkiv lua stats  > loaded fonts: 5 files: latinmodern-math.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 11 instances, 4 shared in backend, 0 common vectors, 4 common hashes, load time 0.204 seconds 
-mkiv lua stats  > pdf annotations: 4 links (4 unique), 0 special
-mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
-mkiv lua stats  > luatex banner: this is luatex, version 0.95.0 (tex live 2016)
-mkiv lua stats  > control sequences: 44140 of 65536 + 100000
 mkiv lua stats  > lua properties: engine: lua, used memory: 93 MB (ctx: 92 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 1.248 seconds, 2 processed pages, 2 shipped pages, 1.603 pages/second
+mkiv lua stats  > runtime: 1.070 seconds, 2 processed pages, 2 shipped pages, 1.869 pages/second
 
 mtx-context     | result renamed to: output/resume
-system          | total runtime: 3.118 seconds
+system          | total runtime: 1.273 seconds

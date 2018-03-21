@@ -3,8 +3,8 @@ Stefanos Georgiou
 
 ----
 
->  *On profession*: Passionated with coding, performing research studies, and learning new technologies.
->  *On spare-time*: Enjoying Working out, sporting, and going crazy for travelling and eating.
+>  *On profession*: Passionated with coding, performing experiments, learning, and combining new technologies.
+>  *On spare-time*: Enjoying Working out, sporting, and going crazy for travelling and food.
 
 ----
 
