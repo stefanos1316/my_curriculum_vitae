@@ -48,28 +48,28 @@ close source    > 1 > 4 > /usr/share/texlive/texmf-dist/tex/context/base/mkiv/co
 
 mkiv lua stats  > used config file: /usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: /home/sgeorgiou/.cache/texlive/luatex-cache/context/c8ffba5311d077c16376bba44d5fa793
-mkiv lua stats  > resource resolver: loadtime 0.546 seconds, 1 scans with scantime 0.543 seconds, 0 shared scans, 13 found files, scanned paths: /usr/share/texlive/texmf-dist
-mkiv lua stats  > stored bytecode data: 387 modules (0.743 sec), 82 tables (0.008 sec), 469 chunks (0.751 sec)
+mkiv lua stats  > resource resolver: loadtime 0.545 seconds, 1 scans with scantime 0.542 seconds, 0 shared scans, 13 found files, scanned paths: /usr/share/texlive/texmf-dist
+mkiv lua stats  > stored bytecode data: 387 modules (0.725 sec), 82 tables (0.009 sec), 469 chunks (0.734 sec)
 mkiv lua stats  > traced context: maxstack: 1175, freed: 0, unreachable: 1175
 mkiv lua stats  > cleaned up reserved nodes: 56 nodes, 9 lists of 444
 mkiv lua stats  > node memory usage: 13 glue, 2 penalty, 35 attribute, 38 glue_spec, 10 attribute_list, 2 temp
-mkiv lua stats  > node list callback tasks: 6 unique task lists, 7 instances (re)created, 350 calls
+mkiv lua stats  > node list callback tasks: 6 unique task lists, 7 instances (re)created, 356 calls
 mkiv lua stats  > h-node processing time: 0.011 seconds including kernel
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
-mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.002 seconds loading
-mkiv lua stats  > callbacks: 741 direct, 766 indirect, 1507 total
+mkiv lua stats  > jobdata time: 0.001 seconds saving, 0.001 seconds loading
+mkiv lua stats  > callbacks: 753 direct, 771 indirect, 1524 total
 mkiv lua stats  > randomizer: resumed with value 0.99831349635418
 mkiv lua stats  > loaded patterns: en::2, load time: 0.000
-mkiv lua stats  > interactive elements: 8 references, 11 destinations
+mkiv lua stats  > interactive elements: 9 references, 11 destinations
 mkiv lua stats  > result saved in file: output/resume.pdf.pdf, compresslevel 3, objectcompresslevel 3
 mkiv lua stats  > loaded fonts: 5 files: latinmodern-math.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 11 instances, 4 shared in backend, 0 common vectors, 4 common hashes, load time 0.193 seconds 
-mkiv lua stats  > pdf annotations: 8 links (8 unique), 0 special
+mkiv lua stats  > font engine: otf 3.020, afm 1.512, tfm 1.000, 11 instances, 4 shared in backend, 0 common vectors, 4 common hashes, load time 0.197 seconds 
+mkiv lua stats  > pdf annotations: 9 links (9 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
 mkiv lua stats  > luatex banner: this is luatex, version 0.95.0 (tex live 2016)
 mkiv lua stats  > control sequences: 44141 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua, used memory: 87 MB (ctx: 86 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 1.136 seconds, 2 processed pages, 2 shipped pages, 1.761 pages/second
+mkiv lua stats  > lua properties: engine: lua, used memory: 89 MB (ctx: 88 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 1.114 seconds, 2 processed pages, 2 shipped pages, 1.795 pages/second
 
 mtx-context     | result renamed to: output/resume
-system          | total runtime: 1.354 seconds
+system          | total runtime: 1.324 seconds

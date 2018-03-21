@@ -3,8 +3,8 @@ Stefanos Georgiou
 
 ----
 
->  *On profession*: Passionated with coding, performing experiments, learning, and combining new technologies.
->  *On spare-time*: Enjoying Working out, sporting, and going crazy for travelling and food.
+>  *On profession*: Passionated with coding, performing experiments, learning and combining new technologies.
+>  *On spare-time*: Enjoying sports, reading books, and going crazy for travelling and food.
 
 ----
 
@@ -16,7 +16,7 @@ Education
 
     *Thesis title: Energy and Performance Implications for Software Development Practices*
  
-    *PhD advisor: [Prof. Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/)*
+    *PhD advisors: [Prof. Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/) and [Prof. Panos Louridas](https://www.balab.aueb.gr/panos-panagiotis-louridas.html)*
 
 2013-2015
 :   **MSc, Pervasive Computing and Communications for Sustainable Development (PERCCOM)**; Erasmus Mundus Joint Master Degree 
@@ -30,7 +30,7 @@ Education
 	Unversity of Lorraine (France) *Semester 1: Sustainable Computer Network Engineering*
 
 
-2013-2008
+2008-2013
 :   **BSc, Networks and Systems Programming**; University of Cyprus 
 
     *Thesis title:*
@@ -43,7 +43,7 @@ Experience
 
 Assisting my PhD advisor at Programming II course (Winter Semester of 2017 and 2018). 
 Main responsibilities are giving tutorial and Lab sessions, guiding students on team assignments and preparing presentations.
-Secondary, providing lectures and tutorials for 1rst and 2nd BootCamps (Oct. 2017 - May 2018) [Link](https://github.com/codeandwork/courses)
+Secondary, providing lectures and tutorials for 1st and 2nd BootCamp (Oct. 2017 - May 2018) [Link](https://github.com/codeandwork/courses)
   
 **Proposals writing:**
 
@@ -83,7 +83,7 @@ Grands, Awards, Languages, and Living Abroad
 
 * Human Languages:
 
-     * Greek/Hungarian (Native speker)
+     * Greek/Hungarian (Native speaker)
      * English (Fluet speaker)
      * Russian/ France (Basic knowledge)
 
@@ -91,11 +91,12 @@ Grands, Awards, Languages, and Living Abroad
 * Staying Abroad:
 
     * Borned in Gyula, Hungary but grown up in Nicosia, Cyprus.
-    * Lived in Lorraine, France and eating baguette (Winter Semester of 2013) 
+    * Stayed in Lorraine, France and eating baguette (Winter Semester of 2013) 
     * Had many sauna sessions in Lappeenranta, Finland (Summer Semester of 2014)
     * How to fish from ice-lake in Lulea, Sweden (Winter Semseter of 2014)
     * How to drink a proper dose of vodka in Saint-Petersburg, Russia (Summer Semester of 2015)
     * Eating fetta in Athens and visiting islands in Greece (Winter Semester of 2016 till now) 
+    * PhD secondment in Delft, Nethelands to enjoy calm life (half of Sept. 2017)
 
 ----
 
