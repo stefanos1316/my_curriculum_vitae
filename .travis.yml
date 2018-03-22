@@ -8,7 +8,7 @@ install:
 addons:
   apt_packages:
   - pandoc
-script: bash make
+script: make
 after_success:
   - coveralls
 env:
