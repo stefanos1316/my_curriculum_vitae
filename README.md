@@ -10,4 +10,4 @@ Feel free to mdify it and use it for your own purposes.
 
 Contact: sgeorgiou@aueb.gr
 
-[View online CV](https://stefanos1316.github.io/my_curriculum_vitae/web/index.html)
+[View online CV](https://stefanos1316.github.io/my_curriculum_vitae/index.html)
