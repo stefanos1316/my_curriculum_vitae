@@ -73,9 +73,9 @@ if [ -n "$DEBUG" ] ; then
   set -x
 fi
 
-chmod 600 deploy_key
+chmod 600 deploy_key_cv
 eval `ssh-agent -s`
-ssh-add deploy_key
+ssh-add deploy_key_cv
 
 # Now that we're all set up, we can push.
 git push $SSH_REPO $TARGET_BRANCH
