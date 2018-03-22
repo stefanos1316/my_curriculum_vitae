@@ -1,0 +1,17 @@
+language: python
+python:
+- '3.5'
+sudo: required
+dist: trusty
+install:
+- pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
+addons:
+  apt_packages:
+  - pandoc
+script: bash make
+after_success:
+  - coveralls
+env:
+  global:
+  - ENCRYPTION_LABEL: b88dab5c5665
+  - COMMIT_AUTHOR_EMAIL: stefanos1316@gmail.com
