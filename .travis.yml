@@ -9,7 +9,7 @@ install:
 addons:
   apt_packages:
   - pandoc
-script: make
+script: bash tools/travis-deploy.sh
 after_success:
   - coveralls
 env:
