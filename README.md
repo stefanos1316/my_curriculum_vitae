@@ -1,7 +1,7 @@
 [![Build Status](https://travis-ci.org/stefanos1316/my_curriculum_vitae.svg?branch=master)](https://travis-ci.org/stefanos1316/my_curriculum_vitae)
 
 About the online CV
-==================
+===================
 
 It is a work replicated from this [link](mszep/pandoc_resume), however, modified to my own needs.
 In adddion, it offers automation on the build process and push from travis back to Github repository while the output is created.
