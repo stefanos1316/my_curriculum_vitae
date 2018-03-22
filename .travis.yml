@@ -5,6 +5,7 @@ sudo: required
 dist: trusty
 install:
 - pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
+- sudo apt-get install gcc-multilib
 addons:
   apt_packages:
   - pandoc
