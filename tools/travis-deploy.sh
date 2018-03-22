@@ -42,7 +42,6 @@ rm -rf web/**/* || exit 0
 
 # Run our compile script
 doCompile
-cp -r publications/ web/
 
 # Now let's go have some fun with the cloned repo
 cd web
@@ -54,6 +53,9 @@ if git diff --quiet ; then
     echo "No changes to the output on this push; exiting."
     exit 0
 fi
+
+# add pulbications 
+cp publications/conferences/* ./
 
 # Commit the "changes", i.e. the new version.
 # The delta will show diffs between new and old versions.
