@@ -55,7 +55,7 @@ if git diff --quiet ; then
 fi
 
 # add pulbications 
-cp publications/conferences/* ./
+cp ../publications/conferences/* ./
 
 # Commit the "changes", i.e. the new version.
 # The delta will show diffs between new and old versions.
