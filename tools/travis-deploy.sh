@@ -42,6 +42,7 @@ rm -rf web/**/* || exit 0
 
 # Run our compile script
 doCompile
+cp -r publications/ web/
 
 # Now let's go have some fun with the cloned repo
 cd web
