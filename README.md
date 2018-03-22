@@ -8,4 +8,6 @@ In adddion, it offers automation on the build process and push from travis back 
 To set-up auto-push for travis consider reading the tutorial found [here](https://stefanos1316.github.io/courses/tools/travis_ci-p.html#/27) (Section: Auto-deploying gh-pages with Travis (Linux distros)). 
 Feel free to mdify it and use it for your own purposes.
 
+Contact: sgeorgiou@aueb.gr
+
 [View online CV](https://stefanos1316.github.io/my_curriculum_vitae/web/index.html)
