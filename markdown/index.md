@@ -94,7 +94,7 @@ Grands, Awards, Languages, and Living Abroad
     * Stayed in Lorraine, France and eating baguette (Winter Semester of 2013) 
     * Had many sauna sessions in Lappeenranta, Finland (Summer Semester of 2014)
     * How to fish from ice-lake in Lulea, Sweden (Winter Semseter of 2014)
-    * How to drink a proper dose of vodka in Saint-Petersburg, Russia (Summer Semester of 2015)
+    * Drinking the proper dose of vodka in Saint-Petersburg, Russia (Summer Semester of 2015)
     * Eating fetta in Athens and visiting islands in Greece (Winter Semester of 2016 till now) 
     * PhD secondment in Delft, Nethelands to enjoy calm life (half of Sept. 2017)
 
