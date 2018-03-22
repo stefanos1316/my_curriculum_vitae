@@ -14,5 +14,5 @@ after_success:
   - coveralls
 env:
   global:
-  - ENCRYPTION_LABEL: b88dab5c5665
+  - ENCRYPTION_LABEL: dc3e238ed4e4
   - COMMIT_AUTHOR_EMAIL: stefanos1316@gmail.com
