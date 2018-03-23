@@ -21,7 +21,7 @@ Education
 2013-2015
 :   **MSc, Pervasive Computing and Communications for Sustainable Development (PERCCOM)**; Erasmus Mundus Joint Master Degree 
       
-	ITMO University of Saint-Petersburg (Russia) *Thesis title: Implementating Green IT approach for transferring Big Data over Parallel Data Links*
+	ITMO University of Saint-Petersburg (Russia) *Thesis title: Implementating Green IT Approach for Transferring Big Data over Parallel Data Links*; [Link](msc_thesis.pdf)
 	
 	Lulea University of Technology (Sweden) *Semester 3: Resource Efficient Pervasive Computing Systems and Communications*	
 	
@@ -33,7 +33,7 @@ Education
 2008-2013
 :   **BSc, Networks and Systems Programming**; University of Cyprus 
 
-    *Thesis title:*
+    *Thesis title: Implementation and Evaluation of the Biologically -- Inspired AntHocNet Routing Protocol in Sensor Network*; [Link](bsc_thesis.pdf)
 
 
 Experience
