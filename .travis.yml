@@ -9,7 +9,7 @@ dist: trusty
 
 before_install:
 - sudo apt-get update 
-- sudo apt-get install texlive-latex-base
+- sudo apt-get install texlive-latex-extra
 
 install:
 - pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
