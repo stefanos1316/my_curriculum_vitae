@@ -6,7 +6,7 @@ sudo: required
 dist: trusty
 
 install:
-- sidp apt-get install texlive-full
+- sudo apt-get install texlive-full
 - pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
 addons:
   apt_packages:
