@@ -1,17 +1,22 @@
 language: python
+
 python:
 - '3.5'
+
 sudo: required
+
 dist: trusty
+
 install:
 - pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
-- sudo apt-get install gcc-multilib
+- sudo apt-get install -y --no-install-recommends texlive-fonts-recommended texlive-latex-extra texlive-fonts-extra dvipng texlive-latex-recommended
+
 addons:
   apt_packages:
   - pandoc
+
 script: bash tools/travis-deploy.sh
-after_success:
-  - coveralls
+
 env:
   global:
   - ENCRYPTION_LABEL: dc3e238ed4e4
