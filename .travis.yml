@@ -8,8 +8,9 @@ sudo: required
 dist: trusty
 
 before_install:
-- sudo apt-get update 
-- sudo apt-get install texlive-latex-recommended
+- sudo apt-get update -qq
+- sudo apt-get install texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-fonts-extra  texlive-science
+- sudo apt-get install lmodern
 
 install:
 - pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
