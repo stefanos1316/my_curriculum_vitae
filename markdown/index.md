@@ -55,12 +55,12 @@ Technical Experience
 
 Knowledge
 :   *Programming Languages:* Bash, Java, Python, C, and C++
-:   *Tools and Practices:* GitHub and plugins (Travis CI, Coveralls, maven-plugins, GH-pages)
+:   *Tools and Practices:* GitHub (Travis CI, Coveralls, maven-plugins, GH-pages) Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports), Python (Pandas framework, statistics, matplotlib, seaborn)
 
 Projects
 :   *Measuring Energy Consumption:* [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
-:   *Programming II website:* [course](https://github.com/stefanos1316/courses)
-:   *Rosetta Code Experiement:* [link](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
+:   *Programming II website:* [Course](https://github.com/stefanos1316/courses)
+:   *Rosetta Code Experiement:* [Repository](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
 
 
 Research Publications
@@ -84,19 +84,19 @@ Grands, Awards, Languages, and Living Abroad
 * Human Languages:
 
      * Greek/Hungarian (Native speaker)
-     * English (Fluet speaker)
+     * English (Fluent speaker)
      * Russian/ France (Basic knowledge)
 
 
 * Staying Abroad:
 
     * Borned in Gyula, Hungary but grown up in Nicosia, Cyprus.
-    * Stayed in Lorraine, France and eating baguette (Winter Semester of 2013) 
-    * Had many sauna sessions in Lappeenranta, Finland (Summer Semester of 2014)
-    * How to fish from ice-lake in Lulea, Sweden (Winter Semseter of 2014)
-    * Drinking the proper dose of vodka in Saint-Petersburg, Russia (Summer Semester of 2015)
-    * Eating fetta in Athens and visiting islands in Greece (Winter Semester of 2016 till now) 
-    * PhD secondment in Delft, Nethelands to enjoy calm life (half of Sept. 2017)
+    * Eating baguettes and drinking wine in Lorraine, France (Winter Semester of 2013) 
+    * Taking many sauna sessions in Lappeenranta, Finland (Summer Semester of 2014)
+    * Fishing beers from ice-cold lakes in Lulea, Sweden (Winter Semseter of 2014)
+    * Drinking vodka and eating borsh in Saint-Petersburg, Russia (Summer Semester of 2015)
+    * Teaching in Athens and visiting islands in Greece (Winter Semester of 2016 till now) 
+    * Visiting Delft, Nethelands for my PhD secondment (Half month of Sept. 2017)
 
 ----
 
