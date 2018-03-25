@@ -100,5 +100,5 @@ Grands, Awards, Languages, and Living Abroad
 
 ----
 
-> <sgeorgiou@aueb.gr>\
-> Troias 2, ground floor, Room 03 - Athens, Greece
+> <sgeorgiou@aueb.gr, sgeorgiou@singularlogic.eu>\
+> Troias 2, ground floor, Room 03 or - Axais & Troizinias, second floor - Athens, Greece
