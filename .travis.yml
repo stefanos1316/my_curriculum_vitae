@@ -6,7 +6,7 @@ sudo: required
 dist: trusty
 
 install:
-- sudo apt-get install install texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-context
+- sudo apt-get install texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-context
 - pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
 addons:
   apt_packages:
