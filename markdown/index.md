@@ -88,7 +88,7 @@ Grands, Awards, Languages, and Living Abroad
      * Russian/ France (Basic knowledge)
 
 
-* Staying Abroad:
+* Living Abroad:
 
     * Borned in Gyula, Hungary but grown up in Nicosia, Cyprus.
     * Eating baguettes and drinking wine in Lorraine, France (Winter Semester of 2013) 
