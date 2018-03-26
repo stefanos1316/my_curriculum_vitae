@@ -25,7 +25,7 @@ h1 {
     margin-bottom:15px;
 }
 h1:hover {
-    background-color: #757575;
+    background-color: #FFA726;
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
 }
@@ -33,7 +33,9 @@ h1:hover {
 /* Titles of categories */
 h2 {
     /* This is called "sectioncolor" in the ConTeXt stylesheet. */
-    color: #397249;
+   /* color: #397249;*/
+   color: #FFFFFF;
+   background-color: #FFA726;
 }
 /* There is a bar just before each category */
 h2:before {
@@ -43,10 +45,11 @@ h2:before {
     width: 16%;
     height: 10px;
     /* This is called "rulecolor" in the ConTeXt stylesheet. */
-    background-color: #9CB770;
+    /*background-color: #9CB770;*/
+    background-color: #FBC26E;
 }
 h2:hover {
-    background-color: #397249;
+    background-color: #FFA726;
     color: #FFFFFF;
     text-shadow: 1px 1px 1px #333;
 }
@@ -74,10 +77,11 @@ blockquote {
 /* Links */
 a {
     text-decoration: none;
-    color: #397249;
+    color: #FFA726;
+    font-weight: 900;
 }
 a:hover, a:active {
-    background-color: #397249;
+    background-color: #FFA726;
     color: #FFFFFF;
     text-decoration: none;
     text-shadow: 1px 1px 1px #333;
