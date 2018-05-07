@@ -10,4 +10,4 @@ Feel free to mdify it and use it for your own purposes.
 
 Contact: sgeorgiou(at)aueb.gr, sgeorgiou(at).singularlogic.eu, and stefanos1316(at)gmail.com
 
-[View online CV](https://stefanos1316.github.io/my_curriculum_vitae/index.html)
+[View online CV](https://aueb-balab.github.io/my_curriculum_vitae/index.html)
