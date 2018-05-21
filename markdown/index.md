@@ -77,7 +77,7 @@ Grands, Awards, Languages, and Living Abroad
 
 * Grands and awards:
 
-     * Received best paper awards at the 15th Annual DMST Student Conference (2018)
+     * Best paper award from the 15th Annual DMST Student Conference (2018)
      * Marie Skłodowska-Curie funds, SENECA (2016-2019)
      * Erasmus Mundus Masters Scholarship, PERCCOM (2013-2015)
 
