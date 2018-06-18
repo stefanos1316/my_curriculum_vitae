@@ -56,6 +56,7 @@ fi
 
 # add pulbications 
 cp ../publications/*/* ./
+cp ../talks/* ./
 
 # Commit the "changes", i.e. the new version.
 # The delta will show diffs between new and old versions.
