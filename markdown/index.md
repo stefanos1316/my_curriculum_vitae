@@ -23,11 +23,11 @@ Education
       
 	ITMO University of Saint-Petersburg (Russia) *Thesis title: Implementating Green IT Approach for Transferring Big Data over Parallel Data Links*; [Link](msc_thesis.pdf)
 	
-	Lulea University of Technology (Sweden) *Semester 3: Resource Efficient Pervasive Computing Systems and Communications*	
+	Lulea University of Technology (Sweden) *Semester 3: Resource Efficient Pervasive Computing Systems and Communications* [Degree](msc_lulea.pdf)
 	
-	Lappeenranta University of Technology (Finland) *Semester 2: Smart Software and Services*
+	Lappeenranta University of Technology (Finland) *Semester 2: Smart Software and Services* [Degree](msc_lappeenranta.pdf)
 	
-	Unversity of Lorraine (France) *Semester 1: Sustainable Computer Network Engineering*
+	Unversity of Lorraine (France) *Semester 1: Sustainable Computer Network Engineering* [Degree](msc_lorraine.pdf)
 
 
 2008-2013
