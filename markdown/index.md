@@ -43,7 +43,7 @@ Experience
 
 Assisting my PhD advisor at Programming II course (Winter Semester of 2017 and 2018). 
 Main responsibilities are giving tutorial and Lab sessions, guiding students on team assignments and preparing presentations.
-Secondary, providing lectures and tutorials for 1st and 2nd BootCamp (Oct. 2017 - May 2018) [Link](https://github.com/codeandwork/courses)
+Secondary, providing lectures and tutorials for 1st and 2nd BootCamp (Oct. 2017 - May 2018) [Repository](https://github.com/codeandwork/courses)
   
 **Proposals writing:**
 
@@ -59,7 +59,7 @@ Knowledge
 
 Projects
 :   *Measuring Energy Consumption:* [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
-:   *Programming II website:* [Course](https://github.com/stefanos1316/courses)
+:   *Programming II website:* [Repository](https://github.com/stefanos1316/courses)
 :   *Rosetta Code Experiement:* [Repository](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
 :   *ValidateLinks:* [Repository](https://github.com/stefanos1316/validateLinks)
 
@@ -77,7 +77,7 @@ Tutorials
 :	*Travis CI with CV template tutorial* presented on 7th of June 2018 at ITMO Univesity of Saint Petersburg for PERCCOM Master students in Saint-Petersburg, Russia.
 
 Research
-:	*What are your programming language's energy-delay implications?* presented on 12th of June 2018 at PERCCOM's Summer School in Lappeenranta, Finland. [Link](perccom_summer_school_2018.pdf)  
+:	*What are your programming language's energy-delay implications?* presented on 12th of June 2018 at PERCCOM's Summer School in Lappeenranta, Finland. [Proof](perccom_summer_school_2018.pdf)  
 
 Grands, Awards, Languages, and Living Abroad
 ---------------------------
