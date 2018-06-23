@@ -70,6 +70,7 @@ Research Publications
    
      * Stefanos Georgiou, Maria Kechagia Panos Louridas, and Diomidis Spinellis. What are your programming language’s energy-delay implications? In 15th International Conference on Mining Software Repositories: Technical Track, MSR '18. New York, NY, USA, May 2018. Association for Computing Machinery. [Link](GKLS18.pdf).
      * Stefanos Georgiou, Maria Kechagia, and Diomidis Spinellis. Analyzing programming languages' energy consumption: an empirical study. In PCI 2017: Proceedings of the 21st Pan-Hellenic Conference on Informatics, ACM International Conference Proceeding Series. ACM Press, September 2017. [Link](GKS17.pdf)
+     * Stefanos Georgiou, Stamatia Rizou, and Diomidis Spinellis. Software Development Life Cycle for Energy-Efficiency: Techniques and Tools. In ACM Computing Surveys [Submitted for review on May of 2017]
 
 Invited Talks
 -------------
