@@ -4,6 +4,7 @@ Stefanos Georgiou
 ----
 
 >  *On profession*: Passionated with coding, performing experiments, learning and combining new technologies.
+
 >  *On spare-time*: Enjoying sports, reading books, and going crazy for travelling and food.
 
 ----
@@ -61,15 +62,18 @@ Projects
 :   *Measuring Energy Consumption:* [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
 :   *Programming II website:* [Repository](https://github.com/stefanos1316/courses)
 :   *Rosetta Code Experiement:* [Repository](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
-:   *ValidateLinks:* [Repository](https://github.com/stefanos1316/validateLinks)
+:   *Validate Links:* [Repository](https://github.com/stefanos1316/validateLinks)
 
 Research Publications
 ---------------------
 
-* Conference Publications
+* Conference Papers
    
      * Stefanos Georgiou, Maria Kechagia Panos Louridas, and Diomidis Spinellis. What are your programming language’s energy-delay implications? In 15th International Conference on Mining Software Repositories: Technical Track, MSR '18. New York, NY, USA, May 2018. Association for Computing Machinery. [Link](GKLS18.pdf).
      * Stefanos Georgiou, Maria Kechagia, and Diomidis Spinellis. Analyzing programming languages' energy consumption: an empirical study. In PCI 2017: Proceedings of the 21st Pan-Hellenic Conference on Informatics, ACM International Conference Proceeding Series. ACM Press, September 2017. [Link](GKS17.pdf)
+ 
+* Jounral Articles
+
      * Stefanos Georgiou, Stamatia Rizou, and Diomidis Spinellis. Software Development Life Cycle for Energy-Efficiency: Techniques and Tools. In ACM Computing Surveys [Submitted for review on May of 2017]
 
 Invited Talks
