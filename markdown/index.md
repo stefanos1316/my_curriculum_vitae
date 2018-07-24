@@ -4,6 +4,7 @@ Stefanos Georgiou
 ----
 
 >  *On profession*: Passionated with coding, performing experiments, learning and combining new technologies.
+
 >  *On spare-time*: Enjoying sports, reading books, and going crazy for travelling and food.
 
 ----
@@ -41,9 +42,10 @@ Experience
 
 **Teaching and tutoring:**
 
-Assisting my PhD advisor at Programming II course (Winter Semester of 2017 and 2018). 
+Assisting my PhD advisor at Programming II course (Winter Semester of 2017 and 2018) at AUEB. 
 Main responsibilities are giving tutorial and Lab sessions, guiding students on team assignments and preparing presentations.
-Secondary, providing lectures and tutorials for 1st and 2nd BootCamp (Oct. 2017 - May 2018) [Repository](https://github.com/codeandwork/courses)
+
+Providing lectures and tutorials for 1st and 2nd Coding Boot Camp in Athens, Greece (Oct. 2017 - May 2018) [Repository](https://github.com/codeandwork/courses)
   
 **Proposals writing:**
 
@@ -61,15 +63,21 @@ Projects
 :   *Measuring Energy Consumption:* [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
 :   *Programming II website:* [Repository](https://github.com/stefanos1316/courses)
 :   *Rosetta Code Experiement:* [Repository](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
-:   *ValidateLinks:* [Repository](https://github.com/stefanos1316/validateLinks)
+:   *Validate Links:* [Repository](https://github.com/stefanos1316/validateLinks)
 
 Research Publications
 ---------------------
 
-* Conference Publications
-   
-     * Stefanos Georgiou, Maria Kechagia Panos Louridas, and Diomidis Spinellis. What are your programming language’s energy-delay implications? In 15th International Conference on Mining Software Repositories: Technical Track, MSR '18. New York, NY, USA, May 2018. Association for Computing Machinery. [Link](GKLS18.pdf).
-     * Stefanos Georgiou, Maria Kechagia, and Diomidis Spinellis. Analyzing programming languages' energy consumption: an empirical study. In PCI 2017: Proceedings of the 21st Pan-Hellenic Conference on Informatics, ACM International Conference Proceeding Series. ACM Press, September 2017. [Link](GKS17.pdf)
+* Conference Papers
+     * Stefanos Georgiou and Diomidis Spinellis. Energy-Delay Investigation of Remote Inter-Process Communication Technologies. In IPCCC 2018 [Submitted for review on 3rd of August 2018] 
+     * Stefanos Georgiou, Maria Kechagia Panos Louridas, and Diomidis Spinellis. What Are Your Programming Language’s Energy-Delay Implications? In 15th International Conference on Mining Software Repositories: Technical Track, MSR '18. New York, NY, USA, May 2018. Association for Computing Machinery. <br /> 
+[[Paper](GKLS18.pdf)] [[Presentation](https://www.slideshare.net/GeorgiouStefanos/what-are-your-programming-languages-energydelay-implications-106251480)] [[Data-set](https://github.com/stefanos1316/Rosetta_Code_Data_Set)]
+     * Stefanos Georgiou, Maria Kechagia, and Diomidis Spinellis. Analyzing Programming Languages' Energy Consumption: An Empirical Study. In PCI 2017: Proceedings of the 21st Pan-Hellenic Conference on Informatics, ACM International Conference Proceeding Series. ACM Press, September 2017. <br/>
+[[Paper](GKS17.pdf)] [[Presentation](https://www.slideshare.net/GeorgiouStefanos/programming-languages-energy-consumption-an-empirical-study)] [[Data-Set](https://github.com/stefanos1316/Rosetta_Code_Data_Set)]
+ 
+* Jounral Articles
+
+     * Stefanos Georgiou, Stamatia Rizou, and Diomidis Spinellis. Software Development Life Cycle for Energy-Efficiency: Techniques and Tools. In ACM Computing Surveys [Submitted for review on May of 2017]
 
 Invited Talks
 -------------
