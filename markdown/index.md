@@ -69,7 +69,7 @@ Research Publications
 ---------------------
 
 * Conference Papers
-     * Stefanos Georgiou and Diomidis Spinellis. Energy-Delay Investigation of Remote Inter-Process Communication Technologies. In IPCCC 2018 [Submitted for review on 3rd of August 2018] 
+     * Stefanos Georgiou and Diomidis Spinellis. Energy-Delay Investigation of Remote Inter-Process Communication Technologies. In IPCCC 2018 [To be submitted for review on 3rd of August 2018] 
      * Stefanos Georgiou, Maria Kechagia Panos Louridas, and Diomidis Spinellis. What Are Your Programming Language’s Energy-Delay Implications? In 15th International Conference on Mining Software Repositories: Technical Track, MSR '18. New York, NY, USA, May 2018. Association for Computing Machinery. <br /> 
 [[Paper](GKLS18.pdf)] [[Presentation](https://www.slideshare.net/GeorgiouStefanos/what-are-your-programming-languages-energydelay-implications-106251480)] [[Data-set](https://github.com/stefanos1316/Rosetta_Code_Data_Set)]
      * Stefanos Georgiou, Maria Kechagia, and Diomidis Spinellis. Analyzing Programming Languages' Energy Consumption: An Empirical Study. In PCI 2017: Proceedings of the 21st Pan-Hellenic Conference on Informatics, ACM International Conference Proceeding Series. ACM Press, September 2017. <br/>
