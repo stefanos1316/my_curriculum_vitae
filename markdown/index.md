@@ -3,9 +3,9 @@ Stefanos Georgiou
 
 ----
 
->  *On profession*: Passionated with coding, performing experiments, learning and combining new technologies.
+>  **Contact details**: stefanos1316@gmail.com, sgeorgiou@aueb.gr, sgeorgiou@singularlogic.eu
 
->  *On spare-time*: Enjoying sports, reading books, and going crazy for travelling and food.
+>  **About me**: I am passionated with coding, performing experiments studies, learning and combining new technologies. On free time I enjoying sports, reading books, and going crazy for travelling and food.
 
 ----
 
@@ -57,7 +57,7 @@ Technical Experience
 
 Knowledge
 :   *Programming Languages:* Bash, Java, Python, C, and C++
-:   *Tools and Practices:* GitHub (Travis CI, Coveralls, maven-plugins, GH-pages) Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports), Python (Pandas framework, statistics, matplotlib, seaborn)
+:   *Tools and Practices:* GitHub (Travis CI, Coveralls, maven-plugins, GH-pages) Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test,statistics, matplotlib, seaborn)
 
 Projects
 :   *Measuring Energy Consumption:* [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
@@ -82,7 +82,7 @@ Research Publications
 Invited Talks
 -------------
 Tutorials
-:	*Travis CI with CV template tutorial* presented on 7th of June 2018 at ITMO Univesity of Saint Petersburg for PERCCOM Master students in Saint-Petersburg, Russia.
+:	*Travis CI with CV template tutorial* presented on 7th of June 2018 at ITMO Univesity of Saint Petersburg for PERCCOM Master students in Saint-Petersburg, Russia. [Presentation](https://aueb-balab.github.io/courses/tools/travis_ci_cv_template-p.html#/)
 
 Research
 :	*What are your programming language's energy-delay implications?* presented on 12th of June 2018 at PERCCOM's Summer School in Lappeenranta, Finland. [Proof](perccom_summer_school_2018.pdf)  
