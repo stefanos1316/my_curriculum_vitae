@@ -5,7 +5,7 @@ Stefanos Georgiou
 
 >  **Contact details**: stefanos1316@gmail.com, sgeorgiou@aueb.gr, sgeorgiou@singularlogic.eu
 
->  **About me**: I am passionated with coding, performing experiments studies, learning and combining new technologies. On free time I enjoying sports, reading books, and going crazy for travelling and food.
+>  **About me**: I am passionated with coding, performing experimental studies, learning and combining new technologies. On free time I enjoying sports, reading books, and going crazy for travelling and food. 
 
 ----
 
