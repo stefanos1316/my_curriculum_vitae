@@ -107,11 +107,11 @@ Grands, Awards, Languages, and Living Abroad
 * Living Abroad:
 
     * Borned in Gyula, Hungary but grown up in Nicosia, Cyprus.
-    * Ate baguettes and drunk wine in Lorraine, France (Winter Semester of 2013) 
-    * Took many sauna sessions in Lappeenranta, Finland (Summer Semester of 2014)
-    * Fished beers from ice-cold lakes in Lulea, Sweden (Winter Semseter of 2014)
-    * Drunk vodka and ate borsh in Saint-Petersburg, Russia (Summer Semester of 2015)
-    * Teaching in Athens and visiting islands in Greece (Winter Semester of 2016 till now) 
+    * Ate baguettes and drunk wine in Lorraine, France (Fall Semester of 2013) 
+    * Took many sauna sessions in Lappeenranta, Finland (Spring Semester of 2014)
+    * Fished beers from ice-cold lakes in Lulea, Sweden (Fall Semseter of 2014)
+    * Drunk vodka and ate borsh in Saint-Petersburg, Russia (Spring Semester of 2015)
+    * Teaching in Athens and visiting islands in Greece (Fall Semester of 2016 till now) 
     * Visited Delft, Nethelands for my PhD secondment (Half month of Sept. 2017)
 
 ----
