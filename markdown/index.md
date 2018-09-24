@@ -3,9 +3,9 @@ Stefanos Georgiou
 
 ----
 
->  *On profession*: Passionated with coding, performing experiments, learning and combining new technologies.
+>  **Contact details**: stefanos1316@gmail.com, sgeorgiou@aueb.gr, sgeorgiou@singularlogic.eu
 
->  *On spare-time*: Enjoying sports, reading books, and going crazy for travelling and food.
+>  **About me**: I am passionated with coding, performing experimental studies, learning and combining new technologies. On free time I enjoy sporting, reading books, and going crazy for travelling and food. 
 
 ----
 
@@ -57,7 +57,7 @@ Technical Experience
 
 Knowledge
 :   *Programming Languages:* Bash, Java, Python, C, and C++
-:   *Tools and Practices:* GitHub (Travis CI, Coveralls, maven-plugins, GH-pages) Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports), Python (Pandas framework, statistics, matplotlib, seaborn)
+:   *Tools and Practices:* GitHub (Travis CI, Coveralls, maven-plugins, GH-pages) Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test,statistics, matplotlib, seaborn)
 
 Projects
 :   *Measuring Energy Consumption:* [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
@@ -69,7 +69,7 @@ Research Publications
 ---------------------
 
 * Conference Papers
-     * Stefanos Georgiou and Diomidis Spinellis. Energy-Delay Investigation of Remote Inter-Process Communication Technologies. In IPCCC 2018 [Submitted for review on 3rd of August 2018] 
+     * Stefanos Georgiou and Diomidis Spinellis. Energy-Delay Investigation of Remote Inter-Process Communication Technologies. In IPCCC 2018 [To be submitted for review on 3rd of August 2018] 
      * Stefanos Georgiou, Maria Kechagia Panos Louridas, and Diomidis Spinellis. What Are Your Programming Language’s Energy-Delay Implications? In 15th International Conference on Mining Software Repositories: Technical Track, MSR '18. New York, NY, USA, May 2018. Association for Computing Machinery. <br /> 
 [[Paper](GKLS18.pdf)] [[Presentation](https://www.slideshare.net/GeorgiouStefanos/what-are-your-programming-languages-energydelay-implications-106251480)] [[Data-set](https://github.com/stefanos1316/Rosetta_Code_Data_Set)]
      * Stefanos Georgiou, Maria Kechagia, and Diomidis Spinellis. Analyzing Programming Languages' Energy Consumption: An Empirical Study. In PCI 2017: Proceedings of the 21st Pan-Hellenic Conference on Informatics, ACM International Conference Proceeding Series. ACM Press, September 2017. <br/>
@@ -82,7 +82,7 @@ Research Publications
 Invited Talks
 -------------
 Tutorials
-:	*Travis CI with CV template tutorial* presented on 7th of June 2018 at ITMO Univesity of Saint Petersburg for PERCCOM Master students in Saint-Petersburg, Russia.
+:	*Travis CI with CV template tutorial* presented on 7th of June 2018 at ITMO Univesity of Saint Petersburg for PERCCOM Master students in Saint-Petersburg, Russia. [Presentation](https://aueb-balab.github.io/courses/tools/travis_ci_cv_template-p.html#/)
 
 Research
 :	*What are your programming language's energy-delay implications?* presented on 12th of June 2018 at PERCCOM's Summer School in Lappeenranta, Finland. [Proof](perccom_summer_school_2018.pdf)  
@@ -107,11 +107,11 @@ Grands, Awards, Languages, and Living Abroad
 * Living Abroad:
 
     * Borned in Gyula, Hungary but grown up in Nicosia, Cyprus.
-    * Ate baguettes and drunk wine in Lorraine, France (Winter Semester of 2013) 
-    * Took many sauna sessions in Lappeenranta, Finland (Summer Semester of 2014)
-    * Fished beers from ice-cold lakes in Lulea, Sweden (Winter Semseter of 2014)
-    * Drunk vodka and ate borsh in Saint-Petersburg, Russia (Summer Semester of 2015)
-    * Teaching in Athens and visiting islands in Greece (Winter Semester of 2016 till now) 
+    * Ate baguettes and drunk wine in Lorraine, France (Fall Semester of 2013) 
+    * Took many sauna sessions in Lappeenranta, Finland (Spring Semester of 2014)
+    * Fished beers from ice-cold lakes in Lulea, Sweden (Fall Semseter of 2014)
+    * Drunk vodka and ate borsh in Saint-Petersburg, Russia (Spring Semester of 2015)
+    * Teaching in Athens and visiting islands in Greece (Fall Semester of 2016 till now) 
     * Visited Delft, Nethelands for my PhD secondment (Half month of Sept. 2017)
 
 ----
