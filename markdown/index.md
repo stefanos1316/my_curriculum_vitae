@@ -77,7 +77,7 @@ Research Publications
  
 * Jounral Articles
 
-     * Stefanos Georgiou, Stamatia Rizou, and Diomidis Spinellis. Software Development Life Cycle for Energy-Efficiency: Techniques and Tools. In ACM Computing Surveys [Submitted for review on May of 2017]
+     * Stefanos Georgiou, Stamatia Rizou, and Diomidis Spinellis. Software Development Life Cycle for Energy-Efficiency: Techniques and Tools. In ACM Computing Surveys [Going through major revision Sept. 2018]
 
 Invited Talks
 -------------
