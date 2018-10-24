@@ -58,6 +58,7 @@ fi
 cp ../publications/*/* ./
 cp ../talks/* ./
 cp ../degress/* ./
+cp -r ../github_activity_overview ./
 
 # Commit the "changes", i.e. the new version.
 # The delta will show diffs between new and old versions.
