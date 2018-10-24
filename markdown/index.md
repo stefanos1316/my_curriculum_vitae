@@ -87,8 +87,33 @@ Tutorials
 Research
 :	*What are your programming language's energy-delay implications?* presented on 12th of June 2018 at PERCCOM's Summer School in Lappeenranta, Finland. [Proof](perccom_summer_school_2018.pdf)  
 
+
+Open Source Software Contribution
+---------------------------------
+
+<head>
+  <meta charset="UTF-8">
+  <title>GitHub Calendar</title>
+  <link rel="stylesheet" href="../github_activity_overview/css/style.css">
+</head>
+  <body>
+   <div class="bag fixed">
+   <div class="calendar">
+   <img src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" class="spinner"/>
+   <p class="spinner-text monospace">Crunching <a href="https://github.com/IonicaBizau">@IonicaBizau</a>'s contributions just for you.</p>
+   </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-promise/3.0.2/es6-promise.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/0.10.1/fetch.min.js"></script>
+  <script src="../github_activity_overview/dist/github-calendar.min.js"></script>
+  <script src="../github_activity_overview/js/main.js"></script>
+  </div>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.0.0/highlight.min.js"></script>
+  <script>hljs.highlightBlock(document.querySelector("pre"))</script>
+ </body>
+
+
 Grands, Awards, Languages, and Living Abroad
----------------------------
+--------------------------------------------
 
 * Grands and awards:
 
@@ -115,6 +140,5 @@ Grands, Awards, Languages, and Living Abroad
     * Visited Delft, Nethelands for my PhD secondment (Half month of Sept. 2017)
 
 ----
-
 > <sgeorgiou@aueb.gr, sgeorgiou@singularlogic.eu>\
 > Troias 2, ground floor, Room 03 or - Axais & Troizinias, second floor - Athens, Greece
