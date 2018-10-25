@@ -94,7 +94,7 @@ Open Source Software Contribution
 <head>
   <meta charset="UTF-8">
   <title>GitHub Calendar</title>
-  <link rel="stylesheet" href="github_activity_overview/css/style.css">
+  <link rel="stylesheet" href="../github_activity_overview/css/style.css">
 </head>
   <body>
    <div class="bag fixed">
@@ -104,8 +104,8 @@ Open Source Software Contribution
    </div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-promise/3.0.2/es6-promise.min.js"></script>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/0.10.1/fetch.min.js"></script>
-  <script src="github_activity_overview/dist/github-calendar.min.js"></script>
-  <script src="github_activity_overview/js/main.js"></script>
+  <script src="../github_activity_overview/dist/github-calendar.min.js"></script>
+  <script src="../github_activity_overview/js/main.js"></script>
   </div>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.0.0/highlight.min.js"></script>
   <script>hljs.highlightBlock(document.querySelector("pre"))</script>
