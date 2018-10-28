@@ -19,7 +19,11 @@ body {
 //    font-family: 'Cutive Mono', monospace;
 }
 
+<<<<<<< HEAD
 @media(min-width:950px){.bag.fixed{max-width: 950px;}}
+=======
+@media(min-width:992px){.bag.fixed{width: 950px;}}
+>>>>>>> 91a3d323e3a00f2fef560bef9552a9ed9a500613
 
 pre {
     background: white;
