@@ -90,9 +90,8 @@ Research
 
 Open Source Software Contribution
 ---------------------------------
-
-<head>
-   <meta charset="UTF-8">
+ <head>
+    <meta charset="UTF-8">
    <title>GitHub Calendar</title>
    <link rel="stylesheet" href="github_activity_overview/css/style.css">
 </head>
