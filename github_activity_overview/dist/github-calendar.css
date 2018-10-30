@@ -4,7 +4,7 @@
     border: 1px solid #DDDDDD;
     border-radius: 3px;
     min-height: 242px;
-    text-align: center;
+    text-align: left;
 }
 
 .calendar-graph text.wday,
