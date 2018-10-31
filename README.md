@@ -16,7 +16,7 @@ Original source of:
 Illustrate Page
 ===============
 
-https://github.com/IonicaBizau/github-calendar
+[View online CV](https://stefanos1316.github.io/my_curriculum_vitae/index.html)	
 
 
 Contact
