@@ -3,13 +3,24 @@
 About the online CV
 ===================
 
-It is a work replicated from this [link](https://github.com/mszep/pandoc_resume), but modified to my own needs.
+This is a work replicated from this [link](https://github.com/mszep/pandoc_resume), but modified to my own needs.
 In adddion, it automates the build process by creating a new branch on travis and backing it back the Github repository after a success compilation.
-To set-up auto-push for travis consider reading the tutorial found [here](https://aueb-balab.github.io/courses/tools/travis_ci_cv_template-p.html#/) (Section: Auto-deploying gh-pages with Travis (Linux distros)). 
-Feel free to modify it or extend it.
+To set-up auto-push from Travis (creates a new branch) consider reading this [tutorial](https://aueb-balab.github.io/courses/tools/travis_ci_cv_template-p.html#/) (Section: Auto-deploying gh-pages with Travis (Linux distros)). 
 
-Original source of this [markdown CV](https://github.com/mszep/pandoc_resume.git)
 
-Contact: sgeorgiou(at)aueb.gr, sgeorgiou(at).singularlogic.eu, and stefanos1316(at)gmail.com
+Original source of:
+* [Markdown CV](https://github.com/mszep/pandoc_resume.git)
+* [GitHub's Activity Overview](https://github.com/IonicaBizau/github-calendar.git)
 
-[View online CV](https://stefanos1316.github.io/my_curriculum_vitae/index.html)
+
+Illustrate Page
+===============
+
+[View online CV](https://stefanos1316.github.io/my_curriculum_vitae/index.html)	
+
+
+Contact
+=======
+
+sgeorgiou(at)aueb.gr, sgeorgiou(at).singularlogic.eu, and stefanos1316(at)gmail.com
+
