@@ -73,19 +73,18 @@ Research Publications
      * Stefanos Georgiou, Maria Kechagia Panos Louridas, and Diomidis Spinellis. What Are Your Programming Language’s Energy-Delay Implications? In 15th International Conference on Mining Software Repositories: Technical Track, MSR '18. New York, NY, USA, May 2018. Association for Computing Machinery. <br /> 
 [[Paper](GKLS18.pdf)] [[BibTex](GKLS18.bib)] [[Presentation](https://www.slideshare.net/GeorgiouStefanos/what-are-your-programming-languages-energydelay-implications-106251480)] [[Data-set](https://github.com/stefanos1316/Rosetta_Code_Data_Set)]
      * Stefanos Georgiou, Maria Kechagia, and Diomidis Spinellis. Analyzing Programming Languages' Energy Consumption: An Empirical Study. In PCI 2017: Proceedings of the 21st Pan-Hellenic Conference on Informatics, ACM International Conference Proceeding Series. ACM Press, September 2017. <br/>
-[[Paper](GKS17.pdf)] [[BibTex](GKS19.bib)] [[Presentation](https://www.slideshare.net/GeorgiouStefanos/programming-languages-energy-consumption-an-empirical-study)] [[[Data-Set](https://github.com/stefanos1316/Rosetta_Code_Data_Set)]
+[[Paper](GKS17.pdf)] [[BibTex](GKS19.bib)] [[Presentation](https://www.slideshare.net/GeorgiouStefanos/programming-languages-energy-consumption-an-empirical-study)] [[Data-Set](https://github.com/stefanos1316/Rosetta_Code_Data_Set)]
 
 * Jounral Articles
-
      * Stefanos Georgiou, Stamatia Rizou, and Diomidis Spinellis. Software Development Life Cycle for Energy-Efficiency: Techniques and Tools. In ACM Computing Surveys [Going through major revision Sept. 2018]
 
 Invited Talks
 -------------
 Tutorials
-:	*Travis CI with CV template tutorial* presented on 7th of June 2018 at ITMO Univesity of Saint Petersburg for PERCCOM Master students in Saint-Petersburg, Russia. [Presentation](https://aueb-balab.github.io/courses/tools/travis_ci_cv_template-p.html#/)
+:   *Travis CI with CV template tutorial* presented on 7th of June 2018 at ITMO Univesity of Saint Petersburg for PERCCOM Master students in Saint-Petersburg, Russia. [Presentation](https://aueb-balab.github.io/courses/tools/travis_ci_cv_template-p.html#/)
 
 Research
-:	*What are your programming language's energy-delay implications?* presented on 12th of June 2018 at PERCCOM's Summer School in Lappeenranta, Finland. [Proof](perccom_summer_school_2018.pdf)  
+:   *What are your programming language's energy-delay implications?* presented on 12th of June 2018 at PERCCOM's Summer School in Lappeenranta, Finland. [Proof](perccom_summer_school_2018.pdf)  
 
 
 <head>
