@@ -55,11 +55,11 @@ Assisting Singular Logic's European Project Department for writing proposals and
 Technical Experience
 --------------------
 
-Knowledge
+*Knowledge*
 :   *Programming Languages:* Bash, Java, Python, C, and C++
 :   *Tools and Practices:* GitHub (Travis CI, Coveralls, maven-plugins, GH-pages) Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test,statistics, matplotlib, seaborn)
 
-Projects
+*Projects*
 :   *Measuring Energy Consumption:* [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
 :   *Programming II website:* [Repository](https://github.com/stefanos1316/courses)
 :   *Rosetta Code Experiement:* [Repository](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
@@ -106,23 +106,15 @@ Research
 
 Grands, Awards, Languages, and Living Abroad
 --------------------------------------------
-
 * Grands and awards:
-
      * Best paper award from the 15th Annual DMST Student Conference (2018)
      * Marie Skłodowska-Curie funds, SENECA (2016-2019)
      * Erasmus Mundus Masters Scholarship, PERCCOM (2013-2015)
-
-
 * Human Languages:
-
      * Greek/Hungarian (Native speaker)
      * English (Fluent speaker)
      * Russian/ France (Basic knowledge)
-
-
 * Living Abroad:
-
     * Borned in Gyula, Hungary but grown up in Nicosia, Cyprus.
     * Ate baguettes and drunk wine in Lorraine, France (Fall Semester of 2013) 
     * Took many sauna sessions in Lappeenranta, Finland (Spring Semester of 2014)
