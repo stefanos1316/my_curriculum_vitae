@@ -42,10 +42,10 @@ Experience
 
 **Teaching and tutoring:**
 
-Assisting my PhD advisor at Programming II course (Winter Semester of 2017 and 2018) at AUEB. 
+Assisting my PhD advisor at Programming II course (Winter Semester of 2016, 2017, and 2018) at AUEB. 
 Main responsibilities are giving tutorial and Lab sessions, guiding students on team assignments and preparing presentations.
 
-Providing lectures and tutorials for 1st and 2nd Coding Boot Camp in Athens, Greece (Oct. 2017 - May 2018) [Repository](https://github.com/codeandwork/courses)
+Gave  lectures and tutorials for 1st and 2nd Coding Boot Camp in Athens, Greece (Oct. 2017 - May 2018) [Repository](https://github.com/codeandwork/courses)
   
 **Proposals writing:**
 
@@ -115,13 +115,13 @@ Grands, Awards, Languages, and Living Abroad
      * English (Fluent speaker)
      * Russian/ France (Basic knowledge)
 * Living Abroad:
-    * Borned in Gyula, Hungary but grown up in Nicosia, Cyprus.
+    * Born in Gyula, Hungary but grown up in Nicosia, Cyprus.
     * Ate baguettes and drunk wine in Lorraine, France (Fall Semester of 2013) 
     * Took many sauna sessions in Lappeenranta, Finland (Spring Semester of 2014)
-    * Fished beers from ice-cold lakes in Lulea, Sweden (Fall Semseter of 2014)
+    * Fished beers from ice-cold lakes in Lulea, Sweden (Fall Semeseter of 2014)
     * Drunk vodka and ate borsh in Saint-Petersburg, Russia (Spring Semester of 2015)
     * Teaching in Athens and visiting islands in Greece (Fall Semester of 2016 till now) 
-    * Visited Delft, Nethelands for my PhD secondment (Half month of Sept. 2017)
+    * Visited Delft, the Netherlands for my PhD secondment (Half month of Sept. 2017)
 
 ----
 > <sgeorgiou@aueb.gr, sgeorgiou@singularlogic.eu>\
