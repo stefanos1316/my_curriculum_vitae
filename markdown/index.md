@@ -113,7 +113,7 @@ Grands, Awards, Languages, and Living Abroad
 * Human Languages:
      * Greek/Hungarian (Native speaker)
      * English (Fluent speaker)
-     * Russian/ France (Basic knowledge)
+     * Russian/France (Basic knowledge)
 * Living Abroad:
     * Born in Gyula, Hungary but grown up in Nicosia, Cyprus.
     * Ate baguettes and drunk wine in Lorraine, France (Fall Semester of 2013) 
