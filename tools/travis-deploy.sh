@@ -56,7 +56,7 @@ fi
 
 # add pulbications 
 cp ../publications/*/* ./
-cp ../talks/* ./
+cp ../proofs/* ./
 cp ../degress/* ./
 cp -r ../github_activity_overview ./
 
