@@ -34,7 +34,7 @@ Education
 2008-2013
 :   **BSc, Networks and Systems Programming**; University of Cyprus 
 
-    *Thesis title: Implementation and Evaluation of the Biologically -- Inspired AntHocNet Routing Protocol in Sensor Network*; [Thesis](bsc_thesis.pdf)
+    *Thesis title: Implementation and Evaluation of the Biologically -- Inspired AntHocNet Routing Protocol in Sensor Network*; [Degree](bsc_cyprus.pdf) [Thesis](bsc_thesis.pdf)
 
 
 Experience
