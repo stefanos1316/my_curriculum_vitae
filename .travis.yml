@@ -13,9 +13,9 @@ addons:
   apt_packages:
   - pandoc
 script:
-  - sudo systemctl start redis
+  - sudo service start redis-server
   - sudo mongo --version
-  - sudo systemctl start mongodb    
+  - sudo service start mongodb    
   - bash tools/travis-deploy.sh
 
 env:
