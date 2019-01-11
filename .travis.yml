@@ -8,9 +8,11 @@ dist: xenial
 install:
 - sudo apt-get install texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-context
 - pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
-- sudo apt-key adv --keyserver hkp://keyserver.ubuntu.com:80 --recv 9DA31620334BD75D9DCB49F368818C72E52529D4
-- echo "deb [ arch=amd64,arm64 ] https://repo.mongodb.org/apt/ubuntu xenial/mongodb-org/4.0 multiverse" | sudo tee /etc/apt/sources.list.d/mongodb-org-4.0.list
-- sudo apt-get install -y redis-server mongodb-org
+
+services:
+  - redis:latest
+  - mongodb:latest
+
 addons:
   apt_packages:
   - pandoc
