@@ -21,7 +21,7 @@ script:
   - ls /etc/init.d/
   - sudo service redis-server start
   - sudo mongo --version
-  - sudo service mongodb start
+  - sudo /usr/bin/mongod start
   - bash tools/travis-deploy.sh
 
 env:
