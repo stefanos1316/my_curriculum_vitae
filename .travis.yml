@@ -14,9 +14,6 @@ install:
 addons:
   apt_packages:
   - pandoc
-services:    
-  - mongo:latest
-  - redis:latest
 script:
   - ls /etc/init.d/
   - sudo service redis-server start
