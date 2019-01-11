@@ -13,6 +13,7 @@ addons:
   apt_packages:
   - pandoc
 script:
+  - ls /etc/init.d/
   - sudo service start redis-server
   - sudo mongo --version
   - sudo service start mongodb    
