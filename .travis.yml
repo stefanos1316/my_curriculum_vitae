@@ -8,10 +8,15 @@ dist: trusty
 install:
 - sudo apt-get install texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-context
 - pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
+- sudo apt-get install -y redis-server mongodb-server
 addons:
   apt_packages:
   - pandoc
-script: bash tools/travis-deploy.sh
+script:
+  - sudo systemctl start redis
+  - sudo mongo --version
+  - sudo systemctl start mongodb    
+  - bash tools/travis-deploy.sh
 
 env:
   global:
