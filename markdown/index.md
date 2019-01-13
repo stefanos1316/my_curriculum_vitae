@@ -37,8 +37,18 @@ Education
     *Thesis title: Implementation and Evaluation of the Biologically -- Inspired AntHocNet Routing Protocol in Sensor Network*; [Degree](bsc_cyprus.pdf) [Thesis](bsc_thesis.pdf)
 
 
-Experience
-----------
+
+Industrial experience
+---------------------
+
+Jan 2019 -- currently
+:  **Back-end developer, DevOps, and Integrations**; [AllCanCode](https://www.allcancode.com/)
+
+   *Developing in node.js, integrating new technologies to the copmanies development flow, and setting up the development process.*
+
+
+Teaching experience
+-------------------
 
 **Teaching and tutoring:**
 
