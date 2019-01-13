@@ -41,10 +41,10 @@ Education
 Industrial experience
 ---------------------
 
-Jan 2019 -- currently
-:  **Back-end developer, DevOps, and Integrations**; [AllCanCode](https://www.allcancode.com/)
+Jan 2019-currently
+:   **Back-end developer, DevOps, and Integrations**; AllCanCode
 
-   *Developing in node.js, integrating new technologies to the copmanies development flow, and setting up the development process.*
+    *Developing in node.js, integrating new technologies to the copmanies development flow, and setting up the development process.*
 
 
 Teaching experience
