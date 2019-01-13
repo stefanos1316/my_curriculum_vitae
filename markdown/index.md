@@ -42,7 +42,7 @@ Industrial experience
 ---------------------
 
 Jan 2019-currently
-:   **Back-end developer, DevOps, and Integrations**; AllCanCode
+:   **Back-end developer, DevOps, and Integrations**; [AllCanCode](https://www.allcancode.com/)
 
     *Developing in node.js, integrating new technologies to the copmanies development flow, and setting up the development process.*
 
