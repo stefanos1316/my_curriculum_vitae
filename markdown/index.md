@@ -15,25 +15,25 @@ Education
 2016-2019 (expected)
 :   **PhD, Management Science and Technology**; Athens University of Economics and Business
 
-    *Thesis title: Energy and Performance Implications for Software Development Practices*
+    Thesis title: *Energy and Performance Implications for Software Development Practices*
  
-    *PhD advisors: [Prof. Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/) and [Prof. Panos Louridas](https://www.balab.aueb.gr/panos-panagiotis-louridas.html)*
+    PhD advisors: [Prof. Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/) and [Prof. Panos Louridas](https://www.balab.aueb.gr/panos-panagiotis-louridas.html)
 
 2013-2015
 :   **MSc, Pervasive Computing and Communications for Sustainable Development (PERCCOM)**; Erasmus Mundus Joint Master Degree 
       
-	ITMO University of Saint-Petersburg (Russia) *Thesis title: Implementating Green IT Approach for Transferring Big Data over Parallel Data Links*; [Thesis](msc_thesis.pdf)
+	ITMO University of Saint-Petersburg (Russia) Thesis title: *Implementating Green IT Approach for Transferring Big Data over Parallel Data Links*; [Thesis](msc_thesis.pdf)
 	
-	Lulea University of Technology (Sweden) *Semester 3: Resource Efficient Pervasive Computing Systems and Communications* [Degree](msc_lulea.pdf)
+	Lulea University of Technology (Sweden) Semester 3: *Resource Efficient Pervasive Computing Systems and Communications* [Degree](msc_lulea.pdf)
 	
-	Lappeenranta University of Technology (Finland) *Semester 2: Smart Software and Services* [Degree](msc_lappeenranta.pdf)
+	Lappeenranta University of Technology (Finland) Semester 2: *Smart Software and Services* [Degree](msc_lappeenranta.pdf)
 	
-	Unversity of Lorraine (France) *Semester 1: Sustainable Computer Network Engineering* [Degree](msc_lorraine.pdf)
+	Unversity of Lorraine (France) Semester 1: *Sustainable Computer Network Engineering* [Degree](msc_lorraine.pdf)
 
 2008-2013
 :   **BSc, Networks and Systems Programming**; University of Cyprus 
 
-    *Thesis title: Implementation and Evaluation of the Biologically -- Inspired AntHocNet Routing Protocol in Sensor Network*; [Degree](bsc_cyprus.pdf) [Thesis](bsc_thesis.pdf)
+    Thesis title: *Implementation and Evaluation of the Biologically -- Inspired AntHocNet Routing Protocol in Sensor Network*; [Degree](bsc_cyprus.pdf)
 
 
 Teaching experience
@@ -76,24 +76,26 @@ Industrial experience
 Jan 2019-currently
 :   **Back-end developer, DevOps, and Integrations**; [AllCanCode Inc. Greek Branch](https://www.allcancode.com/)
 
-    *Developing in node.js, integrating new technologies to the copmanies development flow, and setting up the development process.*
+    Developing in node.js, integrating new technologies to the copmanies development flow, and setting up the development process.
 
 Jan 2016 - 2019
-:   **Proposals writing:** Assisting Singular Logic's European Project Department for writing proposals and participating in project's telco meetings.
+:   **Proposals writing:**; [Singular Logic S.A.](https://portal.singularlogic.eu/en)
+
+    Proposals writing and participating in project's telco meetings for the European Projects Department.
 
 
 Technical Experience
 --------------------
 
 *Knowledge*
-:   *Programming Languages:* Bash, JavaScript (NodeJS), Java, Python, C, and C++
-:   *Tools and Practices:* GitHub (Travis CI, Coveralls, maven-plugins, GH-pages), GitLab (CI/CD, integration with Gcloud engine), Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test,statistics, matplotlib, seaborn), NodeJS (KOA, Mocha-chai testing, Native Addons)
+:   Programming Languages: Bash, JavaScript (NodeJS), Java, Python, C, and C++
+:   Tools and Practices: GitHub (Travis CI, Coveralls, maven-plugins, GH-pages), GitLab (CI/CD, integration with Gcloud engine), Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test,statistics, matplotlib, seaborn), NodeJS (KOA, Mocha-chai testing, Native Addons)
 
 *Projects*
-:   *Measuring Energy Consumption:* [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
-:   *Programming II website:* [Repository](https://github.com/stefanos1316/courses)
-:   *Rosetta Code Experiement:* [Repository](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
-:   *Validate Links:* [Repository](https://github.com/stefanos1316/validateLinks)
+:   Measuring Energy Consumption: [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
+:   Programming II website: [Repository](https://github.com/stefanos1316/courses)
+:   Rosetta Code Experiement: [Repository](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
+:   Validate Links: [Repository](https://github.com/stefanos1316/validateLinks)
 
 <head>
    <meta charset="UTF-8">
