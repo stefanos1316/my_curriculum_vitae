@@ -98,7 +98,7 @@ Technical Experience
 :   Validate Links: [Repository](https://github.com/stefanos1316/validateLinks)
 
 *Certificates*
-: MongoDB [M002](mongodb_m001.pdf)
+: MongoDB [M001](mongodb_m001.pdf)
 
 <head>
    <meta charset="UTF-8">
