@@ -54,10 +54,11 @@ if git diff --quiet ; then
     exit 0
 fi
 
-# add pulbications 
+# add document to new branch 
 cp ../publications/*/* ./
 cp ../proofs/* ./
 cp ../degress/* ./
+cp ../certificates/* ./
 cp -r ../github_activity_overview ./
 
 # Commit the "changes", i.e. the new version.

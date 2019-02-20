@@ -74,12 +74,12 @@ Industrial experience
 ---------------------
 
 Jan 2019-currently
-:   **Back-end developer, DevOps, and Integrations**; [AllCanCode Inc. Greek Branch](https://www.allcancode.com/)
+:   **Back-end developer, DevOps, and Integrations:** [AllCanCode Inc. Greek Branch](https://www.allcancode.com/)
 
     Developing in node.js, integrating new technologies to the copmanies development flow, and setting up the development process.
 
 Jan 2016 - 2019
-:   **Proposals writing:**; [Singular Logic S.A.](https://portal.singularlogic.eu/en)
+:   **Proposals writing:** [Singular Logic S.A.](https://portal.singularlogic.eu/en)
 
     Proposals writing and participating in project's telco meetings for the European Projects Department.
 
@@ -96,6 +96,9 @@ Technical Experience
 :   Programming II website: [Repository](https://github.com/stefanos1316/courses)
 :   Rosetta Code Experiement: [Repository](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
 :   Validate Links: [Repository](https://github.com/stefanos1316/validateLinks)
+
+*Certificates*
+: MongoDB [M002](mongodb_m001.pdf)
 
 <head>
    <meta charset="UTF-8">
