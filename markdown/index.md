@@ -5,7 +5,7 @@ Stefanos Georgiou
 
 >  **Contact details**: stefanos1316@gmail.com, sgeorgiou@aueb.gr, sgeorgiou@singularlogic.eu
 
->  **About me**: I am passionated with coding, performing experimental studies, learning and combining new technologies. On free time I enjoy sporting, reading books, and going crazy for travelling and food. 
+>  **About me**: I am passionated with [coding](https://stefanos1316.github.io/programmers_blog/index.html), performing experimental studies, learning and combining new technologies. On free time I enjoy sporting, reading books, and going crazy for [travelling](https://stefanos1316.github.io/my_blog/index.html) and food. 
 
 ----
 
@@ -15,55 +15,37 @@ Education
 2016-2019 (expected)
 :   **PhD, Management Science and Technology**; Athens University of Economics and Business
 
-    *Thesis title: Energy and Performance Implications for Software Development Practices*
+    Thesis title: *Energy and Performance Implications for Software Development Practices*
  
-    *PhD advisors: [Prof. Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/) and [Prof. Panos Louridas](https://www.balab.aueb.gr/panos-panagiotis-louridas.html)*
+    PhD advisors: [Prof. Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/) and [Prof. Panos Louridas](https://www.balab.aueb.gr/panos-panagiotis-louridas.html)
 
 2013-2015
 :   **MSc, Pervasive Computing and Communications for Sustainable Development (PERCCOM)**; Erasmus Mundus Joint Master Degree 
       
-	ITMO University of Saint-Petersburg (Russia) *Thesis title: Implementating Green IT Approach for Transferring Big Data over Parallel Data Links*; [Thesis](msc_thesis.pdf)
+	ITMO University of Saint-Petersburg (Russia) Thesis title: *Implementating Green IT Approach for Transferring Big Data over Parallel Data Links*; [Thesis](msc_thesis.pdf)
 	
-	Lulea University of Technology (Sweden) *Semester 3: Resource Efficient Pervasive Computing Systems and Communications* [Degree](msc_lulea.pdf)
+	Lulea University of Technology (Sweden) Semester 3: *Resource Efficient Pervasive Computing Systems and Communications* [Degree](msc_lulea.pdf)
 	
-	Lappeenranta University of Technology (Finland) *Semester 2: Smart Software and Services* [Degree](msc_lappeenranta.pdf)
+	Lappeenranta University of Technology (Finland) Semester 2: *Smart Software and Services* [Degree](msc_lappeenranta.pdf)
 	
-	Unversity of Lorraine (France) *Semester 1: Sustainable Computer Network Engineering* [Degree](msc_lorraine.pdf)
-
+	Unversity of Lorraine (France) Semester 1: *Sustainable Computer Network Engineering* [Degree](msc_lorraine.pdf)
 
 2008-2013
 :   **BSc, Networks and Systems Programming**; University of Cyprus 
 
-    *Thesis title: Implementation and Evaluation of the Biologically -- Inspired AntHocNet Routing Protocol in Sensor Network*; [Thesis](bsc_thesis.pdf)
+    Thesis title: *Implementation and Evaluation of the Biologically -- Inspired AntHocNet Routing Protocol in Sensor Network*; [Degree](bsc_cyprus.pdf)
 
 
-Experience
-----------
+Teaching experience
+-------------------
 
 **Teaching and tutoring:**
 
 Assisting my PhD advisor at Programming II course (Winter Semester of 2016, 2017, and 2018) at AUEB. 
 Main responsibilities are giving tutorial and Lab sessions, guiding students on team assignments and preparing presentations.
 
-Gave  lectures and tutorials for 1st and 2nd Coding Boot Camp in Athens, Greece (Oct. 2017 - May 2018) [Repository](https://github.com/codeandwork/courses)
-  
-**Proposals writing:**
+Gave lectures and tutorials for 1st and 2nd Coding Boot Camp in Athens, Greece (Oct. 2017 - May 2018) [Repository](https://github.com/codeandwork/courses) [Proof](boot_camp_athens_2016_2017.pdf)
 
-Assisting Singular Logic's European Project Department for writing proposals and participating in project's telco meetings.
-
-
-Technical Experience
---------------------
-
-*Knowledge*
-:   *Programming Languages:* Bash, Java, Python, C, and C++
-:   *Tools and Practices:* GitHub (Travis CI, Coveralls, maven-plugins, GH-pages) Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test,statistics, matplotlib, seaborn)
-
-*Projects*
-:   *Measuring Energy Consumption:* [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
-:   *Programming II website:* [Repository](https://github.com/stefanos1316/courses)
-:   *Rosetta Code Experiement:* [Repository](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
-:   *Validate Links:* [Repository](https://github.com/stefanos1316/validateLinks)
 
 Research Publications
 ---------------------
@@ -78,6 +60,7 @@ Research Publications
 * Jounral Articles
      * Stefanos Georgiou, Stamatia Rizou, and Diomidis Spinellis. Software Development Life Cycle for Energy-Efficiency: Techniques and Tools. In ACM Computing Surveys [Going through major revision Sept. 2018]
 
+
 Invited Talks
 -------------
 Tutorials
@@ -86,6 +69,36 @@ Tutorials
 Research
 :   *What are your programming language's energy-delay implications?* presented on 12th of June 2018 at PERCCOM's Summer School in Lappeenranta, Finland. [Proof](perccom_summer_school_2018.pdf)  
 
+
+Industrial experience
+---------------------
+
+Jan 2019-currently
+:   **Back-end developer, DevOps, and Integrations:** [AllCanCode Inc. Greek Branch](https://www.allcancode.com/)
+
+    Developing in node.js, integrating new technologies to the copmanies development flow, and setting up the development process.
+
+Jan 2016 - 2019
+:   **Proposals writing:** [Singular Logic S.A.](https://portal.singularlogic.eu/en)
+
+    Proposals writing and participating in project's telco meetings for the European Projects Department.
+
+
+Technical Experience
+--------------------
+
+*Knowledge*
+:   Programming Languages: Bash, JavaScript (NodeJS), Java, Python, C, and C++
+:   Tools and Practices: GitHub (Travis CI, Coveralls, maven-plugins, GH-pages), GitLab (CI/CD, integration with Gcloud engine), Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test,statistics, matplotlib, seaborn), NodeJS (KOA, Mocha-chai testing, Native Addons)
+
+*Projects*
+:   Measuring Energy Consumption: [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
+:   Programming II website: [Repository](https://github.com/stefanos1316/courses)
+:   Rosetta Code Experiement: [Repository](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
+:   Validate Links: [Repository](https://github.com/stefanos1316/validateLinks)
+
+*Certificates*
+: MongoDB: [Basics](mongodb_m001.pdf), [Aggregation](mongodb_m121.pdf), [JavaScript](mongodb_m220.pdf)
 
 <head>
    <meta charset="UTF-8">
