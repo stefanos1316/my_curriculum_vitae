@@ -58,7 +58,7 @@ Research Publications
 
 * Jounral Articles
      * Stefanos Georgiou and Diomidis Spinellis. Energy-Delay Investigation of Remote Inter-Process Communication Technologies. In JSS [Submitted for review on 17th of May 2019] <br />
-     * Stefanos Georgiou, Stamatia Rizou, and Diomidis Spinellis. Software Development Life Cycle for Energy-Efficiency: Techniques and Tools. Accepted from publication in ACM Computing Surveys 2019. <br />
+     * Stefanos Georgiou, Stamatia Rizou, and Diomidis Spinellis. Software Development Life Cycle for Energy-Efficiency: Techniques and Tools. Accepted for publication in ACM Computing Surveys 2019. <br />
 [[Preprint](GRS19.pdf)]
 
 
