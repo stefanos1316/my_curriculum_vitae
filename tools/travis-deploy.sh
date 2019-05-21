@@ -59,7 +59,6 @@ cp ../publications/*/* ./
 cp ../proofs/* ./
 cp ../degress/* ./
 cp ../certificates/* ./
-cp ../journals/* ./
 cp -r ../github_activity_overview ./
 
 # Commit the "changes", i.e. the new version.
