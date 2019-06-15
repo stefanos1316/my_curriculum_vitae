@@ -3,7 +3,7 @@ Stefanos Georgiou
 
 ----
 
->  **Contact details**: stefanos1316@gmail.com, sgeorgiou@aueb.gr, sgeorgiou@singularlogic.eu
+>  **Contact details**: stefanos1316@gmail.com, sgeorgiou@aueb.gr, stefanos.g@allcancode.com
 
 >  **About me**: I am passionated with [coding](https://stefanos1316.github.io/programmers_blog/index.html), performing experimental studies, learning and combining new technologies. On free time I enjoy sporting, reading books, and going crazy for [travelling](https://stefanos1316.github.io/my_blog/index.html) and food. 
 
@@ -89,7 +89,7 @@ Technical Experience
 
 *Knowledge*
 :   Programming Languages: Bash, JavaScript (NodeJS), Java, Python, C, and C++
-:   Tools and Practices: GitHub (Travis CI, Coveralls, maven-plugins, GH-pages), GitLab (CI/CD, integration with Gcloud engine), Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test,statistics, matplotlib, seaborn), NodeJS (KOA, Mocha-chai testing, Native Addons)
+:   Tools and Practices: GitHub (Travis CI, Coveralls, maven-plugins, GH-pages), GitLab (CI/CD, integration with Gcloud engine), Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test, matplotlib, seaborn), NodeJS (KOA, Mocha-chai testing, Native Addons)
 
 *Projects*
 :   Measuring Energy Consumption: [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
