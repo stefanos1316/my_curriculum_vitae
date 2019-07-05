@@ -8,7 +8,7 @@ dist: xenial
 install:
 - sudo apt-get install texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-context
 - pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
-- sudo apt-get install linux-cpupower
+- sudo apt install linux-tools-common
 
 addons:
   apt_packages:
