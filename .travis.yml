@@ -13,7 +13,8 @@ addons:
   apt_packages:
   - pandoc
 script:
-  - ls /sys/devices/system/cpu/
+  - ls /sys/devices/system/cpu/cpufreq/
+  - cat /sys/devices/system/cpu/cpufreq/scaling_governor
   - bash tools/travis-deploy.sh
 
 env:
