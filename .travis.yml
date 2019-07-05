@@ -13,7 +13,7 @@ addons:
   apt_packages:
   - pandoc
 script:
-  - ls /sys/devices/system
+  - ls /sys/devices/system/cpu/cpu0/
   - bash tools/travis-deploy.sh
 
 env:
