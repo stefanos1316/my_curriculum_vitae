@@ -9,6 +9,8 @@ install:
 - sudo apt-get install texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-context
 - pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
 - sudo apt install linux-tools-common
+- sudo apt install linux-tools-4.15.0-1028-gcp
+- sudo apt install linux-cloud-tools-4.15.0-1028-gcp
 
 addons:
   apt_packages:
