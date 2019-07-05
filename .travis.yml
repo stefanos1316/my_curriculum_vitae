@@ -14,7 +14,8 @@ addons:
   - pandoc
 script:
   - ls /sys/devices/system/cpu/cpu1/
-  - ls /sys/devices/system/cpu/cpu0
+  - ls /sys/devices/system/cpu/cpu0/
+  - cpupower frequency-info
   - bash tools/travis-deploy.sh
 
 env:
