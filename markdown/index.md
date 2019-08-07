@@ -89,6 +89,7 @@ Technical Experience
 
 *Programming Languages*
 :   BASH, JavaScript (NodeJS), Java, Python, C, and C++
+
 *DevOps and Tools*
 :   GitHub (Travis CI, Coveralls, maven-plugins, GH-pages), GitLab (CI/CD, integration with Gcloud engine), Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test, matplotlib, seaborn), NodeJS (KOA, Mocha-chai testing, Native Addons)
 
