@@ -91,10 +91,11 @@ Technical Experience
 :   BASH, JavaScript (NodeJS), Java, Python, C, and C++
 
 *DevOps and Tools*
-:   GitHub (Travis CI, Coveralls, maven-plugins, GH-pages)
+:   GitHub (Travis CI, Coveralls, maven-plugins, GitHub-pages)
 :   GitLab (CI/CD, deployment on Google App Engine)
 :   Docker (containers creation)
 :   Bitrise (Ci/CD for Android, iOS, and Cordova)
+:   Ansible (deploy packages and settings)
 :   NodeJS (KOA, Mocha-Chai, Cypress, Native Addons)
 :   Java (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI)
 :   Python (Pandas framework, Unit test, matplotlib, seaborn)
