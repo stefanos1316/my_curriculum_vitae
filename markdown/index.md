@@ -41,10 +41,9 @@ Teaching experience
 
 **Teaching and tutoring:**
 
-Assisting my PhD advisor at Programming II course (Winter Semester of 2016, 2017, and 2018) at AUEB. 
-Main responsibilities are giving tutorial and Lab sessions, guiding students on team assignments and preparing presentations.
+Assisting my PhD advisor at Programming II course (Winter Semester of 2016, 2017, and 2018) by giving tutorial and Lab sessions in Java.
 
-Gave lectures and tutorials for 1st and 2nd Coding Boot Camp in Athens, Greece (Oct. 2017 - May 2018) [Repository](https://github.com/codeandwork/courses) [Proof](boot_camp_athens_2016_2017.pdf)
+Gave Java lectures and tutorials for the 1st and 2nd Coding Boot Camp in Athens, Greece (Oct. 2017 - May 2018) [Repository](https://github.com/codeandwork/courses) [Proof](boot_camp_athens_2016_2017.pdf)
 
 
 Research Publications
