@@ -87,11 +87,18 @@ Jan 2016 - 2019
 Technical Experience
 --------------------
 
-*Programming Languages*
+*Coding Languages*
 :   BASH, JavaScript (NodeJS), Java, Python, C, and C++
 
 *DevOps and Tools*
-:   GitHub (Travis CI, Coveralls, maven-plugins, GH-pages), GitLab (CI/CD, integration with Gcloud engine), Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test, matplotlib, seaborn), NodeJS (KOA, Mocha-chai testing, Native Addons)
+:   GitHub (Travis CI, Coveralls, maven-plugins, GH-pages)
+:   GitLab (CI/CD, deployment on Google App Engine)
+:   Docker (containers creation)
+:   Bitrise (Ci/CD for Android, iOS, and Cordova)
+:   NodeJS (KOA, Mocha-Chai, Cypress, Native Addons)
+:   Java (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI)
+:   Python (Pandas framework, Unit test, matplotlib, seaborn)
+
 
 *Projects*
 :   Exam Questionnaire Scanner: [Repository](https://github.com/AntonisGkortzis/ExamQuestionnaireScanner)
