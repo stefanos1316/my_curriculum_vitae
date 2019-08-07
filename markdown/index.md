@@ -39,8 +39,6 @@ Education
 Teaching experience
 -------------------
 
-**Teaching and tutoring:**
-
 Assisting my PhD advisor at Programming II course (Winter Semester of 2016, 2017, and 2018) by giving tutorial and Lab sessions in Java.
 
 Gave Java lectures and tutorials for the 1st and 2nd Coding Boot Camp in Athens, Greece (Oct. 2017 - May 2018) <br />
@@ -78,7 +76,7 @@ Industrial experience
 Jan 2019-currently
 :   **Back-end developer, DevOps, and Integrations:** [AllCanCode Inc. Greek Branch](https://www.allcancode.com/)
 
-    Developing in node.js, integrating new technologies to the copmanies development flow, and setting up the development process.
+    Developing in Node.JS, integrating new services (API end-points), and setting up the cloud infrasture and projects development workflow.
 
 Jan 2016 - 2019
 :   **Proposals writing:** [Singular Logic S.A.](https://portal.singularlogic.eu/en)
@@ -90,10 +88,11 @@ Technical Experience
 --------------------
 
 *Knowledge*
-:   Programming Languages: Bash, JavaScript (NodeJS), Java, Python, C, and C++
-:   Tools and Practices: GitHub (Travis CI, Coveralls, maven-plugins, GH-pages), GitLab (CI/CD, integration with Gcloud engine), Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test, matplotlib, seaborn), NodeJS (KOA, Mocha-chai testing, Native Addons)
+:   Programming Languages: BASH, JavaScript (NodeJS), Java, Python, C, and C++
+:   DevOps and Practices: GitHub (Travis CI, Coveralls, maven-plugins, GH-pages), GitLab (CI/CD, integration with Gcloud engine), Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test, matplotlib, seaborn), NodeJS (KOA, Mocha-chai testing, Native Addons)
 
-*Projects*
+*Projects and Tools*
+:   Exam Questionnaire Scanner: [Repository](https://github.com/AntonisGkortzis/ExamQuestionnaireScanner)
 :   Measuring Energy Consumption: [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
 :   Programming II website: [Repository](https://github.com/stefanos1316/courses)
 :   Rosetta Code Experiement: [Repository](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
