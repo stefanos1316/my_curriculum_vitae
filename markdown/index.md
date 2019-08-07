@@ -63,7 +63,7 @@ Research Publications
 Invited Talks
 -------------
 Tutorials
-:   *How to improve your CI/CD process* presented on 5th of July 2019 at BALab of Athens University of Economics and Business in Athens, Grecee. [Presentation](https://aueb-balab.github.io/courses/tools/ci_cd_with_gitlab-p.html#/)
+:   *How to improve your CI/CD process* presented on 5th of July 2019 at BALab of Athens University of Economics and Business in Athens, Greece. [Presentation](https://aueb-balab.github.io/courses/tools/ci_cd_with_gitlab-p.html#/)
 :   *Travis CI with CV template tutorial* presented on 7th of June 2018 at ITMO Univesity of Saint Petersburg for PERCCOM Master students in Saint-Petersburg, Russia. [Presentation](https://aueb-balab.github.io/courses/tools/travis_ci_cv_template-p.html#/)
 
 Research
@@ -87,11 +87,12 @@ Jan 2016 - 2019
 Technical Experience
 --------------------
 
-*Knowledge*
-:   Programming Languages: BASH, JavaScript (NodeJS), Java, Python, C, and C++
-:   DevOps and Practices: GitHub (Travis CI, Coveralls, maven-plugins, GH-pages), GitLab (CI/CD, integration with Gcloud engine), Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test, matplotlib, seaborn), NodeJS (KOA, Mocha-chai testing, Native Addons)
+*Programming Languages*
+:   BASH, JavaScript (NodeJS), Java, Python, C, and C++
+*DevOps and Tools*
+:   GitHub (Travis CI, Coveralls, maven-plugins, GH-pages), GitLab (CI/CD, integration with Gcloud engine), Java plug-ings (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI), Python (Pandas framework, Unit test, matplotlib, seaborn), NodeJS (KOA, Mocha-chai testing, Native Addons)
 
-*Projects and Tools*
+*Projects*
 :   Exam Questionnaire Scanner: [Repository](https://github.com/AntonisGkortzis/ExamQuestionnaireScanner)
 :   Measuring Energy Consumption: [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
 :   Programming II website: [Repository](https://github.com/stefanos1316/courses)
