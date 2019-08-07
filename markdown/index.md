@@ -64,6 +64,7 @@ Research Publications
 Invited Talks
 -------------
 Tutorials
+:   *How to improve your CI/CD process* presented on 5th of July 2019 at BALab of Athens University of Economics and Business in Athens, Grecee. [Presentation](https://aueb-balab.github.io/courses/tools/ci_cd_with_gitlab-p.html#/)
 :   *Travis CI with CV template tutorial* presented on 7th of June 2018 at ITMO Univesity of Saint Petersburg for PERCCOM Master students in Saint-Petersburg, Russia. [Presentation](https://aueb-balab.github.io/courses/tools/travis_ci_cv_template-p.html#/)
 
 Research
