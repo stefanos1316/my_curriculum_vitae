@@ -3,7 +3,7 @@ Stefanos Georgiou
 
 ----
 
->  **Contact details**: stefanos1316@gmail.com, sgeorgiou@aueb.gr, stefanos.g@allcancode.com
+>  **Contact details**: stefanos1316 at gmail dot com, sgeorgiou at aueb dot gr, stefanos dot g at allcancode dot com
 
 >  **About me**: I am passionated with [coding](https://stefanos1316.github.io/programmers_blog/index.html), performing experimental studies, learning and combining new technologies. On free time I enjoy sporting, reading books, and going crazy for [travelling](https://stefanos1316.github.io/my_blog/index.html) and food. 
 
