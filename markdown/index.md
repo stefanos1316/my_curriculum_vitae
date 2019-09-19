@@ -13,7 +13,7 @@ Education
 ---------
 
 2016-2019 (expected)
-:   **PhD, Management Science and Technology**; Athens University of Economics and Business
+:   **PhD, Computer Science**; Athens University of Economics and Business
 
     Thesis title: *Energy and Performance Implications for Software Development Practices*
  
@@ -36,7 +36,7 @@ Education
     Thesis title: *Implementation and Evaluation of the Biologically -- Inspired AntHocNet Routing Protocol in Sensor Network*; [Degree](bsc_cyprus.pdf)
 
 
-Teaching experience
+Teaching Experience
 -------------------
 
 Assisting my PhD advisor at Programming II course (Winter Semester of 2016, 2017, and 2018) by giving tutorial and Lab sessions in Java [[Repository](https://github.com/AUEB-BALab/courses)]
@@ -70,7 +70,7 @@ Research
 :   *What are your programming language's energy-delay implications?* presented on 12th of June 2018 at PERCCOM's Summer School in Lappeenranta, Finland. [Proof](perccom_summer_school_2018.pdf)  
 
 
-Industrial experience
+Industrial Experience
 ---------------------
 
 Jan 2019-currently
