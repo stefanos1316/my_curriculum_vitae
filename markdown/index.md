@@ -95,7 +95,7 @@ Technical Experience
 :   GitLab (CI/CD, deployment on Google App Engine)
 :   Docker (containers creation)
 :   Bitrise (CI/CD for Android, iOS, and Cordova)
-:   Ansible (deploy packages and settings)
+:   Ansible (because too lazy to do doggy work)
 :   NodeJS (KOA, Mocha-Chai, Cypress, Native Addons)
 :   Java (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI)
 :   Python (Pandas framework, Unit test, matplotlib, seaborn)
