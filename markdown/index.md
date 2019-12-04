@@ -87,10 +87,10 @@ Jan 2016 - 2019
 Technical Experience
 --------------------
 
-*Coding Languages*
+*Back-End*
 :   BASH, JavaScript (NodeJS), Java, Python, C, and C++
 
-*DevOps and Back-End*
+*DevOps*
 :   GitHub (Travis CI, Coveralls, maven-plugins, GitHub-pages)
 :   GitLab (CI/CD, deployment on Google App Engine)
 :   Firebase (Hosting and Cloud Functions)
