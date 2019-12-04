@@ -90,15 +90,17 @@ Technical Experience
 *Coding Languages*
 :   BASH, JavaScript (NodeJS), Java, Python, C, and C++
 
-*DevOps and Tools*
+*DevOps and Back-End*
 :   GitHub (Travis CI, Coveralls, maven-plugins, GitHub-pages)
 :   GitLab (CI/CD, deployment on Google App Engine)
+:   Firebase (Hosting and Cloud Functions)
 :   Docker (containers creation)
 :   Bitrise (CI/CD for Android, iOS, and Cordova)
 :   Ansible (because too lazy to do doggy work)
 :   NodeJS (KOA, Mocha-Chai, Cypress, Native Addons)
 :   Java (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI)
 :   Python (Pandas framework, Unit test, matplotlib, seaborn)
+:   MongoDB (Queries, Aggregations, and Optimizations)
 
 
 *Projects*
