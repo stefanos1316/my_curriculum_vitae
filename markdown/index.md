@@ -55,7 +55,8 @@ Research Publications
 [[Paper](GKS17.pdf)] [[BibTex](GKS17.bib)] [[Presentation](https://www.slideshare.net/GeorgiouStefanos/programming-languages-energy-consumption-an-empirical-study)] [[Data-Set](https://github.com/stefanos1316/Rosetta_Code_Data_Set)]
 
 * Jounral Articles
-     * __Stefanos Georgiou__ and Diomidis Spinellis. Energy-Delay Investigation of Remote Inter-Process Communication Technologies. In Journal of Systems and Software [Minor revision since 7th of August 2019] <br />
+     * __Stefanos Georgiou__ and Diomidis Spinellis. Energy-Delay Investigation of Remote Inter-Process Communication Technologies. Accepted for publication in Elsevier Journal of Systems and Software 2019. <br />
+[[Preprint](GS19.pdf)]
      * __Stefanos Georgiou__, Stamatia Rizou, and Diomidis Spinellis. Software Development Life Cycle for Energy-Efficiency: Techniques and Tools. Accepted for publication in ACM Computing Surveys 2019. <br />
 [[Preprint](GRS19.pdf)] [[BibTex](GRS19.bib)]
 
