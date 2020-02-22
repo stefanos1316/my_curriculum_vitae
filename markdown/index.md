@@ -11,7 +11,6 @@ Stefanos Georgiou
 
 Education
 ---------
-
 2016-2020 (expected)
 :   **PhD, Computer Science**; Athens University of Economics and Business
 
@@ -38,7 +37,6 @@ Education
 
 Teaching Experience
 -------------------
-
 Assisting my PhD advisor at Programming II course (Winter Semester of 2016, 2017, and 2018) by giving tutorial and Lab sessions in Java [[Repository](https://github.com/AUEB-BALab/courses)]
 
 Gave Java lectures and tutorials for the 1st and 2nd Coding Boot Camp in Athens, Greece (Oct. 2017 - May 2018) <br />
@@ -47,7 +45,6 @@ Gave Java lectures and tutorials for the 1st and 2nd Coding Boot Camp in Athens,
 
 Research Publications
 ---------------------
-
 * Conference Papers
      * __Stefanos Georgiou__, Maria Kechagia Panos Louridas, and Diomidis Spinellis. What Are Your Programming Language’s Energy-Delay Implications? In 15th International Conference on Mining Software Repositories: Technical Track, MSR '18. New York, NY, USA, May 2018. Association for Computing Machinery. <br /> 
 [[Paper](GKLS18.pdf)] [[BibTex](GKLS18.bib)] [[Presentation](https://www.slideshare.net/GeorgiouStefanos/what-are-your-programming-languages-energydelay-implications-106251480)] [[Data-set](https://github.com/stefanos1316/Rosetta_Code_Data_Set)]
@@ -73,7 +70,6 @@ Research
 
 Industrial Experience
 ---------------------
-
 Jan 2019-currently
 :   **Back-end developer, DevOps, and Integrations:** [AllCanCode Inc. Greek Branch](https://www.allcancode.com/)
 
@@ -87,21 +83,21 @@ Jan 2016 - 2019
 
 Technical Experience
 --------------------
-
 *Back-End*
-:   BASH, JavaScript (NodeJS), Java, Python, C, and C++
+:   BASH (Often automating cumbersome and time consuming tasks)
+:   NodeJS (Fan of KOA, prefer Mocha-Chai, like to use Native Addons for performance)
+:   Java (First real love, was teaching at University)
+:   Python (No need to read tutorials, feeling confy to code anytime)
+:   C (First ever learned, in love with Makefiles and its performance)
+:   C++ (Second to learn after C, but as soon I learned Java forgot about it)
+:   MongoDB (Queries, Aggregations, and Optimizations)
 
 *DevOps*
-:   GitHub (Travis CI, Coveralls, maven-plugins, GitHub-pages)
-:   GitLab (CI/CD, deployment on Google App Engine)
-:   Firebase (Hosting and Cloud Functions)
-:   Docker (containers creation)
-:   Bitrise (CI/CD for Android, iOS, and Cordova)
-:   Ansible (because too lazy to do doggy work)
-:   NodeJS (KOA, Mocha-Chai, Cypress, Native Addons)
-:   Java (Code Quality Check, maven-docker, JDBC, Reports, JUnit, JNI)
-:   Python (Pandas framework, Unit test, matplotlib, seaborn)
-:   MongoDB (Queries, Aggregations, and Optimizations)
+:   Continuous Integration and Deployment (Big fan Travis CI and GitLab CI)
+:   Code Quality (Coveralls, maven-plugins, Style-Checkers, and Reports)
+:   Hosting (Firbase, Docker, Google App Engine, and lover of Cloud Functions)
+:   Mobile CI/CD (Bitrise supporter for Cordova and slightly Flutter user)
+:   Configuration Management (Ansible because it uses YAML)
 
 
 *Projects*
@@ -146,12 +142,12 @@ Grands, Awards, Languages, and Living Abroad
 * Living Abroad:
     * Born in Gyula, Hungary but grown up in Nicosia, Cyprus.
     * Ate baguettes and drunk wine in Lorraine, France (Fall Semester of 2013) 
-    * Took many sauna sessions in Lappeenranta, Finland (Spring Semester of 2014)
-    * Fished beers from ice-cold lakes in Lulea, Sweden (Fall Semeseter of 2014)
+    * Attended to many sauna parties in Lappeenranta, Finland (Spring Semester of 2014)
+    * Fish ice-cold beers from lakes in Lulea, Sweden (Fall Semeseter of 2014)
     * Drunk vodka and ate borsh in Saint-Petersburg, Russia (Spring Semester of 2015)
     * Teaching in Athens and visiting islands in Greece (Fall Semester of 2016 till now) 
-    * Visited Delft, the Netherlands for my PhD secondment (Half month of Sept. 2017)
+    * Biked in Delft, the Netherlands for my PhD secondment (Half month of Sept. 2017)
 
 ----
-> <sgeorgiou@aueb.gr, sgeorgiou@singularlogic.eu>\
-> Troias 2, ground floor, Room 03 or - Axais & Troizinias, second floor - Athens, Greece
+> <sgeorgiou@aueb.gr, stefanos.g@allcancode.com>\
+> Troias 2, ground floor, second floor - Athens, Greece
