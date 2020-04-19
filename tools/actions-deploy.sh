@@ -10,7 +10,7 @@ git add .
 git commit -m "New site fixes - $(date)"
 
 REPO=https://stefanos1316@github.com/stefanos1316.github.io.git
-git push --forece #REPO master:gh-pages
+git push --force $REPO master:gh-pages
 
 rm -rf .git
 cd ..
