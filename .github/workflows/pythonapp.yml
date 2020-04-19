@@ -10,10 +10,8 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
-
+  build-and-deploy:
     runs-on: ubuntu-latest
-
     steps:
     - uses: actions/checkout@v2
     - name: Set up Python 3.8
@@ -26,4 +24,4 @@ jobs:
         pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
     - name: Deploy CV
       run: |
-        bash tools/deploy.sh
+        bash -x tools/deploy.sh
