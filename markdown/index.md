@@ -11,7 +11,7 @@ Stefanos Georgiou
 
 Education
 ---------
-2016-2020 (expected)
+2016-2020
 :   **PhD, Computer Science**; Athens University of Economics and Business
 
     Thesis title: *Energy and Performance Implications for Software Development Practices*
