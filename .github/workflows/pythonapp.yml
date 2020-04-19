@@ -24,4 +24,4 @@ jobs:
         pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
     - name: Deploy CV
       run: |
-        bash -x tools/deploy.sh
+        bash -x tools/actions-deploy.sh
