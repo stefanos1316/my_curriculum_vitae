@@ -22,6 +22,7 @@ jobs:
       run: |
         sudo apt-get install texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-context pandoc
         pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
+        make
     - name: Deploy changes
       uses: stefanos1316/my_curriculum_vitae@master
       with:

@@ -26,12 +26,12 @@ cd ${INPUT_DIRECTORY}
 
 remote_repo="https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/${REPOSITORY}.git"
 
-echo Removing gh-pages branch
+mv cetificates/* web/
+mv degress/* web/
+mv github_activity_overview/* web/
+mv proofs/* web/
+mv publications/* web/
 git push "${remote_repo}" --delete gh-pages || echo Repo does not exist
-git branch
-git checkout gh-pages
-ls -l
-make
 git config user.name stefanos1316
 git config user.email stefanos1316@gmail.com
 git add web/*
