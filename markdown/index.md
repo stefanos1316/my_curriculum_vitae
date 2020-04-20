@@ -116,7 +116,7 @@ Technical Experience
    <link rel="stylesheet" href="github_activity_overview/css/style.css">
 </head>
   <div class="calendar">
-   <img src="https://assets-cdn.github.com/images/spinners/octocat-spinner-128.gif" class="spinner"/>
+   <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" class="spinner"/>
    <p class="spinner-text monospace">Crunching <a href="https://github.com/IonicaBizau">@IonicaBizau</a>'s contributions just for you.</p>
   </div>
  <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-promise/3.0.2/es6-promise.min.js"></script>
