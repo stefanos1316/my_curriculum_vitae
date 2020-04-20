@@ -27,6 +27,12 @@ cd ${INPUT_DIRECTORY}
 remote_repo="https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/${REPOSITORY}.git"
 
 echo Removing gh-pages branch
-git push "${remote_repo}" --delete gh-pages
+#git push "${remote_repo}" --delete gh-pages
+git checkout gh-pages
+make
 ls -l
+git config user.name stefanos1316
+git config user.email stefanos1316@gmail.com
+git add web/*
+git commit -m "New site fixes - $(date)"
 git push "${remote_repo}" HEAD:${INPUT_BRANCH} --follow-tags $_FORCE_OPTION $_TAGS;
