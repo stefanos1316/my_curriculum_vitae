@@ -47,7 +47,7 @@ rm -rf markdown
 rm -rf README.md
 rm -rf resume.tuc
 shopt -s extglob
-rm -- !(web)
+rm -rf !(web)
 mv web/* ./ && rm -rf web/
 
 git add .
