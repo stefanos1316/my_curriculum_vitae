@@ -36,6 +36,7 @@ git push "${remote_repo}" HEAD:${INPUT_BRANCH} --follow-tags $_FORCE_OPTION $_TA
 git checkout -b gh-pages
 git pull ${remote_repo} gh-pages
 
+ls -l
 mv cetificates/* web/
 mv degress/* web/
 mv github_activity_overview/* web/
@@ -48,7 +49,7 @@ rm -rf markdown
 rm -rf README.md
 rm -rf resume.tuc
 mv web/* ./ && rm -rf web
-ls -l
+
 git add .
 git commit -m "New deploy - $(date)"
 git push "${remote_repo}" HEAD:${INPUT_BRANCH} --follow-tags $_FORCE_OPTION $_TAGS;
