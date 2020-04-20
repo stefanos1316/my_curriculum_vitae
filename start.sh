@@ -32,6 +32,7 @@ mv github_activity_overview/* web/
 mv proofs/* web/
 mv publications/* web/
 
+git push "${remote_repo}" --delete gh-pages 
 git config user.name stefanos1316
 git config user.email stefanos1316@gmail.com
 git add web/*
