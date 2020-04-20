@@ -26,5 +26,6 @@ inputs:
     description: 'Directory to change to before pushing.'
     required: false
     default: '.'
-runs: |
-  bash start.sh
+runs:
+  using: 'node12'
+  main: 'start.js'
