@@ -25,8 +25,6 @@ fi
 cd ${INPUT_DIRECTORY}
 
 remote_repo="https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/${REPOSITORY}.git"
-
-
 git config user.name stefanos1316
 git config user.email stefanos1316@gmail.com
 git add web/*
