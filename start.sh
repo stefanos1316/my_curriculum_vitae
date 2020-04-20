@@ -28,5 +28,5 @@ remote_repo="https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/${REPOSITO
 
 echo Removing gh-pages branch
 git push "${remote_repo}" --delete gh-pages
-
+ls -l
 git push "${remote_repo}" HEAD:${INPUT_BRANCH} --follow-tags $_FORCE_OPTION $_TAGS;
