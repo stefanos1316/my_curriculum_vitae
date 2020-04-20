@@ -32,6 +32,6 @@ jobs:
         git add web/*
         git commit -m "New site fixes - $(date)"
     - name: Deploy changes
-      uses: stefanos1316/my_curriculum_vitae@gh-pages
+      uses: stefanos1316/my_curriculum_vitae@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}
