@@ -32,10 +32,9 @@ remote_repo="https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/${REPOSITO
 #mv proofs/* web/
 #mv publications/* web/
 
-git branch
 git config user.name stefanos1316
 git config user.email stefanos1316@gmail.com
 git add web/*
 git commit -m "New site fixes - $(date)"
-git pull
+git push ${remote_repo} --delete gh-pages || echo Branch not found
 git push "${remote_repo}" HEAD:${INPUT_BRANCH} --follow-tags $_FORCE_OPTION $_TAGS;
