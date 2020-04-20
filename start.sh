@@ -37,7 +37,7 @@ git checkout -b gh-pages
 git pull ${remote_repo} gh-pages
 
 ls -l
-mv cetificates/* web/
+mv certificates/* web/
 mv degress/* web/
 mv github_activity_overview/* web/
 mv proofs/* web/
