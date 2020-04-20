@@ -27,7 +27,7 @@ jobs:
         make
     - name: Commit files
       run: |
-              git push https://stefanos1316:${{ secret.TOKEN }}@github.com/my_curriculum_vitae.git --delete  gh-pages
+              git push https://stefanos1316:5e4b27677863e5e5151c5063a5aa1797054bbcd8@github.com/my_curriculum_vitae.git --delete  gh-pages
         git config user.name stefanos1316
         git config user.email stefanos1316@gmail.com
         git add web/*
