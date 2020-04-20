@@ -39,7 +39,7 @@ git pull ${remote_repo} gh-pages
 ls -l
 mv certificates/* web/
 mv degress/* web/
-mv github_activity_overview/* web/
+mv github_activity_overview web/
 mv proofs/* web/
 mv publications/* web/
 rm -rf tools

@@ -1,11 +1,10 @@
 
-resolvers       | caches | path '/home/runner/.texlive2017/texmf-var' created
 mtx-context     | run 1: luatex --fmt="/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/formats/luatex/cont-en" --jobname="index" --lua="/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/formats/luatex/cont-en.lui" --no-parse-first-line --c:currentrun=1 --c:fulljobname="web/index.tex" --c:input="web/index.tex" --c:kindofrun=1 --c:maxnofruns=9 --c:result="web/index.pdf" "cont-yes.mkiv"
 This is LuaTeX, Version 1.0.4 (TeX Live 2017/Debian) 
  system commands enabled.
 open source     > level 1, order 1, name '/usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv'
 system          > 
-system          > ConTeXt  ver: 2017.05.15 21:48 MKIV beta  fmt: 2020.4.20  int: english/english
+system          > ConTeXt  ver: 2017.05.15 21:48 MKIV beta  fmt: 2020.1.15  int: english/english
 system          > 
 system          > 'cont-new.mkiv' loaded
 open source     > level 2, order 2, name '/usr/share/texmf/tex/context/base/mkiv/cont-new.mkiv'
@@ -17,41 +16,8 @@ open source     > level 2, order 3, name 'web/index.tex'
 colors          > defining > unknown library 'hex'
 open source     > level 3, order 4, name '/usr/share/texmf/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
 close source    > level 3, order 4, name '/usr/share/texmf/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
-fonts           > otf loading > loading '/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf', hash 'texgyreheros-regular'
-otf reader      > not unicoded: dblgrave.ts1 idotaccent.sc
-otf reader      > 47 bogus names removed (verbose unicode)
-fonts           > otf loading > loading done
-fonts           > otf loading > saving '/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-regular.otf' in cache
-system          > lua > compiling '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-regular.tma' into '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-regular.tmc'
-system          > lua > dumping '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-regular.tma' into '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-regular.tmc' stripped
-fonts           > otf loading > loading, optimizing, packing and caching time 0.259
-fonts           > otf loading > loading '/usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf', hash 'latinmodern-math'
-otf reader      > not unicoded: copyleft copyleft.st copyleft.sts died died.st died.sts leaf leaf.st leaf.sts perthousandzero perthousandzero.st perthousandzero.sts star.alt star.alt.st star.alt.sts threequartersemdash threequartersemdash.st threequartersemdash.sts
-otf reader      > 1459 bogus names removed (verbose unicode)
-otf reader      > 4801 base class tags removed (default is base)
-fonts           > otf loading > loading done
-fonts           > otf loading > saving '/usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf' in cache
-system          > lua > compiling '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/latinmodern-math.tma' into '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/latinmodern-math.tmc'
-system          > lua > dumping '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/latinmodern-math.tma' into '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/latinmodern-math.tmc' stripped
-fonts           > otf loading > loading, optimizing, packing and caching time 0.632
 structure       > sectioning > section @ level 3 : 0.0.1 -> Stefanos Georgiou
-fonts           > otf loading > loading '/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf', hash 'texgyreheros-bold'
-otf reader      > not unicoded: dblgrave.ts1 idotaccent.sc
-otf reader      > 47 bogus names removed (verbose unicode)
-fonts           > otf loading > loading done
-fonts           > otf loading > saving '/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf' in cache
-system          > lua > compiling '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-bold.tma' into '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-bold.tmc'
-system          > lua > dumping '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-bold.tma' into '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-bold.tmc' stripped
-fonts           > otf loading > loading, optimizing, packing and caching time 0.835
 structure       > sectioning > subsection @ level 4 : 0.0.1.1 -> Education
-fonts           > otf loading > loading '/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf', hash 'texgyreheros-italic'
-otf reader      > not unicoded: dblgrave.ts1 idotaccent.sc
-otf reader      > 47 bogus names removed (verbose unicode)
-fonts           > otf loading > loading done
-fonts           > otf loading > saving '/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf' in cache
-system          > lua > compiling '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-italic.tma' into '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-italic.tmc'
-system          > lua > dumping '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-italic.tma' into '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-italic.tmc' stripped
-fonts           > otf loading > loading, optimizing, packing and caching time 1.049
 structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Teaching Experience
 structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Research Publications
 backend         > xmp > using file '/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml'
@@ -65,14 +31,6 @@ structure       > sectioning > subsection @ level 4 : 0.0.1.5 -> Industrial Expe
 Overfull \hbox (11.68071pt too wide) in paragraph at lines 217--220
  []\3>helvetica-11pt-ss-bf-0--0 Back-end de-vel-oper, De-vOps, and In-te-gra-tions: All-Can-Code Inc. Greek Branch 
 structure       > sectioning > subsection @ level 4 : 0.0.1.6 -> Technical Experience
-fonts           > otf loading > loading '/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf', hash 'texgyreheros-bolditalic'
-otf reader      > not unicoded: dblgrave.ts1 idotaccent.sc
-otf reader      > 47 bogus names removed (verbose unicode)
-fonts           > otf loading > loading done
-fonts           > otf loading > saving '/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf' in cache
-system          > lua > compiling '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-bolditalic.tma' into '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-bolditalic.tmc'
-system          > lua > dumping '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-bolditalic.tma' into '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/fonts/otl/texgyreheros-bolditalic.tmc' stripped
-fonts           > otf loading > loading, optimizing, packing and caching time 1.307
 pages           > flushing realpage 2, userpage 2
 structure       > sectioning > subsection @ level 4 : 0.0.1.7 -> Grands, Awards, Languages, and Living Abroad
 pages           > flushing realpage 3, userpage 3
@@ -80,29 +38,29 @@ close source    > level 2, order 4, name 'web/index.tex'
 close source    > level 1, order 4, name '/usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv'
 
 mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
-mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/runner/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
-mkiv lua stats  > resource resolver: loadtime 0.015 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 13 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 404 modules (0.264 sec), 91 tables (0.015 sec), 495 chunks (0.279 sec)
+mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/sgeorgiou/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
+mkiv lua stats  > resource resolver: loadtime 0.069 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 13 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 404 modules (0.247 sec), 91 tables (0.010 sec), 495 chunks (0.257 sec)
 mkiv lua stats  > traced context: maxstack: 1231, freed: 0, unreachable: 1231
 mkiv lua stats  > cleaned up reserved nodes: 58 nodes, 9 lists of 447
 mkiv lua stats  > node memory usage: 2 glue, 2 penalty, 12 attribute, 49 glue_spec, 3 attribute_list, 2 temp, 2 user_defined
 mkiv lua stats  > node list callback tasks: 7 unique task lists, 8 instances (re)created, 689 calls
-mkiv lua stats  > h-node processing time: 0.020 seconds including kernel
+mkiv lua stats  > h-node processing time: 0.013 seconds including kernel
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
-mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
+mkiv lua stats  > jobdata time: 0.001 seconds saving, 0.001 seconds loading
 mkiv lua stats  > callbacks: 1261 direct, 895 indirect, 2156 total
 mkiv lua stats  > randomizer: resumed with value 0.22159819594659
 mkiv lua stats  > loaded patterns: en::2, load time: 0.000
 mkiv lua stats  > interactive elements: 39 references, 19 destinations
 mkiv lua stats  > result saved in file: web/index.pdf.pdf, compresslevel 3, objectcompresslevel 3
 mkiv lua stats  > loaded fonts: 5 files: latinmodern-math.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > font engine: otf 3.029, afm 1.512, tfm 1.000, 11 instances, 4 shared in backend, 0 common vectors, 4 common hashes, load time 1.512 seconds 
+mkiv lua stats  > font engine: otf 3.029, afm 1.512, tfm 1.000, 11 instances, 4 shared in backend, 0 common vectors, 4 common hashes, load time 0.164 seconds 
 mkiv lua stats  > pdf annotations: 39 links (39 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
 mkiv lua stats  > luatex banner: this is luatex, version 1.0.4 (tex live 2017/debian)
 mkiv lua stats  > control sequences: 45397 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua, used memory: 70 MB (ctx: 68 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 2 seconds, 3 processed pages, 3 shipped pages, 1.500 pages/second
+mkiv lua stats  > lua properties: engine: lua, used memory: 92 MB (ctx: 91 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 0.557 seconds, 3 processed pages, 3 shipped pages, 5.386 pages/second
 
 mtx-context     | result renamed to: web/index
-system          | total runtime: 2.295 seconds
+system          | total runtime: 0.829 seconds
