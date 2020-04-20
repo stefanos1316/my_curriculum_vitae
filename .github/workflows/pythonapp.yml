@@ -13,7 +13,7 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@gh-pages
+    - uses: actions/checkout@master
     - name: Set up Python 3.8
       uses: actions/setup-python@v1
       with:
@@ -32,6 +32,6 @@ jobs:
         git add web/*
         git commit -m "New site fixes - $(date)"
     - name: Deploy changes
-      uses: stefanos1316/my_curriculum_vitae@gh-pages
+      uses: stefanos1316/my_curriculum_vitae@master
       with:
         github_token: ${{ secrets.GITHUB_TOKEN }}

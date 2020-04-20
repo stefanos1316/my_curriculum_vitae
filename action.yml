@@ -1,9 +1,6 @@
-name: 'GitHub Push'
+name: 'My curriculum vitae'
 description: 'Pushing to GitHub repository local changes'
-author: 'ad-m'
-branding:
-  icon: upload-cloud
-  color: green
+author: 'stefanos1316'
 inputs:
   github_token:
     description: 'Token for the repo. Can be passed in using $\{{ secrets.GITHUB_TOKEN }}'
@@ -15,7 +12,7 @@ inputs:
   branch:
     description: 'Destination branch to push changes'
     required: false
-    default: 'master'
+    default: 'gh-pages'
   force:
     description: 'Determines if force push is used'
     required: false
@@ -25,7 +22,7 @@ inputs:
   directory:
     description: 'Directory to change to before pushing.'
     required: false
-    default: '.'
+    default: 'web/'
 runs:
   using: 'node12'
   main: 'start.js'
