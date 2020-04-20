@@ -39,5 +39,5 @@ git commit -m "New site fixes - $(date)"
 git push ${remote_repo} --delete gh-pages || echo Branch not found
 git push "${remote_repo}" HEAD:${INPUT_BRANCH} --follow-tags $_FORCE_OPTION $_TAGS;
 git checkout -b gh-pages
-git pull
+git pull ${remote_repo} gh-pages
 ls -l
