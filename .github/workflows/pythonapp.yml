@@ -13,7 +13,7 @@ jobs:
   build-and-deploy:
     runs-on: ubuntu-latest
     steps:
-    - uses: actions/checkout@master
+    - uses: actions/checkout@gh-pages
     - name: Set up Python 3.8
       uses: actions/setup-python@v1
       with:
@@ -27,7 +27,6 @@ jobs:
         make
     - name: Commit files
       run: |
-        git checkout gh-pages
         git config user.name stefanos1316
         git config user.email stefanos1316@gmail.com
         git add web/*
