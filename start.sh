@@ -26,11 +26,14 @@ cd ${INPUT_DIRECTORY}
 
 remote_repo="https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/${REPOSITORY}.git"
 
-#mv cetificates/* web/
-#mv degress/* web/
-#mv github_activity_overview/* web/
-#mv proofs/* web/
-#mv publications/* web/
+mv cetificates/* web/
+mv degress/* web/
+mv github_activity_overview/* web/
+mv proofs/* web/
+mv publications/* web/
 
-ls -l
+git config user.name stefanos1316
+git config user.email stefanos1316@gmail.com
+git add web/*
+git commit -m "New site fixes - $(date)"
 git push "${remote_repo}" HEAD:${INPUT_BRANCH} --follow-tags $_FORCE_OPTION $_TAGS;
