@@ -26,11 +26,6 @@ cd ${INPUT_DIRECTORY}
 
 remote_repo="https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/${REPOSITORY}.git"
 
-#mv cetificates/* web/
-#mv degress/* web/
-#mv github_activity_overview/* web/
-#mv proofs/* web/
-#mv publications/* web/
 
 git config user.name stefanos1316
 git config user.email stefanos1316@gmail.com
@@ -40,4 +35,20 @@ git push ${remote_repo} --delete gh-pages || echo Branch not found
 git push "${remote_repo}" HEAD:${INPUT_BRANCH} --follow-tags $_FORCE_OPTION $_TAGS;
 git checkout -b gh-pages
 git pull ${remote_repo} gh-pages
+
+mv cetificates/* web/
+mv degress/* web/
+mv github_activity_overview/* web/
+mv proofs/* web/
+mv publications/* web/
+rm -rf tools
+rm -rf styles
+rm Makefile
+rm -rf markdown
+rm -rf README.md
+rm -rf resume.tuc
+mv web/* ./ && rm -rf web
 ls -l
+git add .
+git commit -m "New deploy - $(date)"
+git push "${remote_repo}" HEAD:${INPUT_BRANCH} --follow-tags $_FORCE_OPTION $_TAGS;
