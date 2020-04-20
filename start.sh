@@ -46,7 +46,9 @@ rm Makefile
 rm -rf markdown
 rm -rf README.md
 rm -rf resume.tuc
-mv web/* ./ && rm -rf web
+shopt -s extglob
+rm -- !(web)
+mv web/* ./ && rm -rf web/
 
 git add .
 git commit -m "New deploy - $(date)"
