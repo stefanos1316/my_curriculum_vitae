@@ -22,15 +22,6 @@ jobs:
       run: |
         sudo apt-get install texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-context pandoc
         pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
-    - name: Make new content
-      run: |
-        make    
-    - name: Commit files
-      run: |
-        git config user.name stefanos1316
-        git config user.email stefanos1316@gmail.com
-        git add web/*
-        git commit -m "New site fixes - $(date)"
     - name: Deploy changes
       uses: stefanos1316/my_curriculum_vitae@master
       with:
