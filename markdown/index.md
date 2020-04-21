@@ -93,7 +93,7 @@ Technical Experience
 :   MongoDB (Queries, Aggregations, and Optimizations)
 
 *DevOps*
-:   Continuous Integration and Deployment (Big fan Travis CI and GitLab CI)
+:   Continuous Integration and Deployment (Big fan of CI/CD Travis, GitLab, and Actions)
 :   Code Quality (Coveralls, maven-plugins, Style-Checkers, and Reports)
 :   Hosting (Firbase, Docker, Google App Engine, and lover of Cloud Functions)
 :   Mobile CI/CD (Bitrise supporter for Cordova and slightly Flutter user)

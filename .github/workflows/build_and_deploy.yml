@@ -1,6 +1,3 @@
-# This workflow will install Python dependencies, run tests and lint with a single version of Python
-# For more information see: https://help.github.com/actions/language-and-framework-guides/using-python-with-github-actions
-
 name: Python application
 
 on:
@@ -18,14 +15,14 @@ jobs:
       uses: actions/setup-python@v1
       with:
         python-version: 3.8
-    - name: Install dependencies
+    - name: Install dependencies 🔧
       run: |
         sudo apt-get install texlive-xetex texlive-latex-recommended texlive-latex-extra texlive-fonts-recommended texlive-context pandoc
-        pip install "notebook==4.1" requests jupyter_cms jupyter_dashboards
-    - name: Make new content
+        pip install "notebook==4.2" requests jupyter_cms jupyter_dashboards
+    - name: Build new content 🛎️
       run: |
         make    
-    - name: Deploy changes
+    - name: Deploy go gh-pages 🚀
       uses: stefanos1316/my_curriculum_vitae@master
       with:
         github_token: ${{ secrets.TOKEN }}
