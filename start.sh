@@ -25,8 +25,8 @@ fi
 cd ${INPUT_DIRECTORY}
 
 remote_repo="https://${GITHUB_ACTOR}:${INPUT_GITHUB_TOKEN}@github.com/${REPOSITORY}.git"
-git config user.name stefanos1316
-git config user.email stefanos1316@gmail.com
+git config user.name ${GITHUB_ACTOR}
+git config user.email ${GITHUB_ACTOR}@gmail.com
 git add web/*
 git commit -m "New site fixes - $(date)"
 git push ${remote_repo} --delete gh-pages || echo Branch not found

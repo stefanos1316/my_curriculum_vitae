@@ -22,7 +22,7 @@ jobs:
     - name: Build new content 🛎️
       run: |
         make    
-    - name: Deploy go gh-pages 🚀
+    - name: Deploy to branch gh-pages 🚀
       uses: stefanos1316/my_curriculum_vitae@master
       with:
         github_token: ${{ secrets.TOKEN }}
