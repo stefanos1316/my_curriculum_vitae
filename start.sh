@@ -38,7 +38,7 @@ mv certificates/* web/
 mv degrees/* web/
 mv github_activity_overview web/
 mv proofs/* web/
-mv publications/* web/
+mv publications/*/* web/
   
 rm -rf tools
 rm -rf styles
