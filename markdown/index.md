@@ -62,7 +62,7 @@ Research
 
 Organization Services
 ---------------------
-*Reviwer*
+*Reviewer*
 : Jounals submitted to Software: Practices and Experience 
 
 *Co-reviewer*
