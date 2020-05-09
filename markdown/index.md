@@ -5,7 +5,7 @@ Stefanos Georgiou
 
 >  **Contact details**: stefanos1316 at gmail dot com, sgeorgiou at aueb dot gr, stefanos dot g at allcancode dot com
 
->  **About me**: I am passionated with [coding](https://stefanos1316.github.io/programmers_blog/index.html), performing experimental studies, learning and combining new technologies. On free time I enjoy sporting, reading books, and going crazy for [travelling](https://stefanos1316.github.io/my_blog/index.html) and food. 
+>  **About me**: I am passionated with [coding](https://stefanos1316.github.io/programmers_blog/), performing experimental studies, learning and combining new technologies. On free time I enjoy sporting, reading books, and going crazy for [travelling](https://stefanos1316.github.io/my_blog/index.html) and food. 
 
 ----
 
@@ -79,12 +79,12 @@ Gave Java lectures and tutorials for the 1st and 2nd Coding Boot Camp in Athens,
 
 Industrial Experience
 ---------------------
-Jan 2019-currently
+Jan 2019-Apr 2020
 :   **Back-end developer, DevOps, and Integrations:** [AllCanCode Inc. Greek Branch](https://www.allcancode.com/)
 
     Developing in Node.JS, integrating new services (API end-points), and setting up the cloud infrasture and projects development workflow.
 
-Jan 2016 - 2019
+Jan 2016-2019
 :   **Proposals writing:** [Singular Logic S.A.](https://portal.singularlogic.eu/en)
 
     Proposals writing and participating in project's telco meetings for the European Projects Department.
