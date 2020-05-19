@@ -66,7 +66,7 @@ Organization Services
 : Jounals submitted to Software: Practices and Experience 
 
 *Co-reviewer*
-: Conference papers submitted to ICSE-SEIP, MSR, OSS, ICPC, ICCS, and SANER
+: Conference papers submitted to ICSE-SEIP, MSR, OSS, ICPC, ICCS, SANER, and SATToSE
 
 
 Teaching Experience
