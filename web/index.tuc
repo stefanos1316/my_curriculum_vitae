@@ -270,7 +270,7 @@ utilitydata.structures.lists.collected={
    ["section"]=5,
   },
   ["titledata"]={
-   ["title"]="{\\em Reviewer}",
+   ["title"]="{\\em Program Committee}",
   },
  },
  {
@@ -278,6 +278,18 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=12,
    ["order"]=7,
+   ["realpage"]=2,
+   ["section"]=5,
+  },
+  ["titledata"]={
+   ["title"]="{\\em Reviewer}",
+  },
+ },
+ {
+  ["metadata"]=7,
+  ["references"]={
+   ["internal"]=13,
+   ["order"]=8,
    ["realpage"]=2,
    ["section"]=5,
   },
@@ -290,7 +302,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=15,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=13,
+   ["internal"]=14,
    ["realpage"]=2,
    ["reference"]="teaching-experience",
    ["section"]=6,
@@ -305,7 +317,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=17,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=14,
+   ["internal"]=15,
    ["realpage"]=2,
    ["reference"]="industrial-experience",
    ["section"]=7,
@@ -318,8 +330,8 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=7,
   ["references"]={
-   ["internal"]=15,
-   ["order"]=8,
+   ["internal"]=16,
+   ["order"]=9,
    ["realpage"]=2,
    ["section"]=7,
   },
@@ -330,8 +342,8 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=7,
   ["references"]={
-   ["internal"]=16,
-   ["order"]=9,
+   ["internal"]=17,
+   ["order"]=10,
    ["realpage"]=2,
    ["section"]=7,
   },
@@ -344,7 +356,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=19,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=17,
+   ["internal"]=18,
    ["realpage"]=2,
    ["reference"]="technical-experience",
    ["section"]=8,
@@ -357,25 +369,13 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=7,
   ["references"]={
-   ["internal"]=18,
-   ["order"]=10,
+   ["internal"]=19,
+   ["order"]=11,
    ["realpage"]=2,
    ["section"]=8,
   },
   ["titledata"]={
    ["title"]="{\\em Back-End}",
-  },
- },
- {
-  ["metadata"]=7,
-  ["references"]={
-   ["internal"]=19,
-   ["order"]=11,
-   ["realpage"]=3,
-   ["section"]=8,
-  },
-  ["titledata"]={
-   ["title"]="{\\em DevOps}",
   },
  },
  {
@@ -387,7 +387,7 @@ utilitydata.structures.lists.collected={
    ["section"]=8,
   },
   ["titledata"]={
-   ["title"]="{\\em Projects}",
+   ["title"]="{\\em DevOps}",
   },
  },
  {
@@ -395,6 +395,18 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=21,
    ["order"]=13,
+   ["realpage"]=3,
+   ["section"]=8,
+  },
+  ["titledata"]={
+   ["title"]="{\\em Projects}",
+  },
+ },
+ {
+  ["metadata"]=7,
+  ["references"]={
+   ["internal"]=22,
+   ["order"]=14,
    ["realpage"]=3,
    ["section"]=8,
   },
@@ -407,7 +419,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=21,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=22,
+   ["internal"]=23,
    ["realpage"]=3,
    ["reference"]="grands-awards-languages-and-living-abroad",
    ["section"]=9,
