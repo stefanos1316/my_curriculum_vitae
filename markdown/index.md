@@ -62,6 +62,9 @@ Research
 
 Organization Services
 ---------------------
+*Program Committee*
+: International Workshop on Sustainable Software Engineering
+
 *Reviewer*
 : Jounals submitted to Software: Practices and Experience 
 
