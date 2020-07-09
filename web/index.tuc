@@ -100,7 +100,7 @@ utilitydata.structures.counters.collected={
  },
  ["itemgroup:itemize"]={
   { 0, 2, 3 },
-  { 0, 2, 0, 2, 0, 0, 3, 0, 3, 0, 7 },
+  { 0, 2, 0, 2, 0, 0, 4, 0, 3, 0, 7 },
  },
  ["linenote"]={
   { 0 },
