@@ -113,6 +113,7 @@ Technical Experience
 
 
 *Projects*
+:   Epidose: A privacy-preserving epidemic dosimeter based on contact tracing [Repository](https://github.com/eellak/epidose)
 :   Exam Questionnaire Scanner: [Repository](https://github.com/AntonisGkortzis/ExamQuestionnaireScanner)
 :   Measuring Energy Consumption: [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
 :   Programming II website: [Repository](https://github.com/stefanos1316/courses)
