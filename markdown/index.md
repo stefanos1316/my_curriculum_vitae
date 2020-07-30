@@ -99,10 +99,10 @@ Technical Experience
 *Back-End*
 :   BASH (Often automating cumbersome and time consuming tasks)
 :   NodeJS (Fan of KOA, prefer Mocha-Chai, like to use Native Addons for performance)
-:   Java (First real love, was teaching at University)
+:   Java (First real love, I was also teaching it at the Athes University of Economics and Business)
 :   Python (No need to read tutorials, feeling confy to code anytime)
-:   C (First ever learned, in love with Makefiles and its performance)
-:   C++ (Second to learn after C, but as soon I learned Java forgot about it)
+:   C (First ever learned, in love with Makefiles, and impressed by its performance)
+:   C++ (Second to learn after C, but as soon as I learned Java I stopped using it)
 :   MongoDB (Queries, Aggregations, and Optimizations)
 
 *DevOps*
