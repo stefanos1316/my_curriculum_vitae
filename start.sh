@@ -40,7 +40,7 @@ mv github_activity_overview web/
 mv proofs/* web/
 mv publications/*/* web/
 mv achievements/* web/
-my thesis_reports/* web/
+mv thesis_reports/* web/
 
 rm -rf tools
 rm -rf styles
