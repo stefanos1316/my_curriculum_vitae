@@ -14,7 +14,7 @@ Education
 2016-2020
 :   **PhD, Computer Science**; Athens University of Economics and Business
 
-    Thesis title: *[Energy and Run-Time Performance Practices in Software Engineering](phd_thesis.pdf)*
+    Thesis title: *Energy and Run-Time Performance Practices in Software Engineering*; [Thesis](phd_thesis.pdf)
  
     PhD advisors: [Prof. Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/) and [Prof. Panos Louridas](https://www.balab.aueb.gr/panos-panagiotis-louridas.html)
 
