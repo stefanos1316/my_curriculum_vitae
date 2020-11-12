@@ -125,33 +125,22 @@ Technical Experience
 :  Unix Tools: [Data, Software, and Production Engineering](unix_tools_edx.pdf)
 :  MongoDB: [Basics](mongodb_m001.pdf), [Aggregation](mongodb_m121.pdf), [JavaScript](mongodb_m220.pdf), [Performance](mongodb_m201.pdf)
 
+<script
+  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
+></script>
 
-<head>
-    <meta charset="UTF-8">
-    <title>GitHub Calendar</title>
-    <link rel="stylesheet" href="github_activity_overview/css/style.css">
-</head>
-<body>
-    <div class="bag fixed">
-        <h1>Embed your GitHub contributions calendar anywhere!</h1>
-        <div class="calendar-1">
-            <img src="https://github.githubassets.com/images/spinners/octocat-spinner-128.gif" class="spinner"/>
-            <p class="spinner-text monospace">Crunching <a href="https://github.com/IonicaBizau">@IonicaBizau</a>'s contributions just for you.</p>
-        </div>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/es6-promise/3.0.2/es6-promise.min.js"></script>
-        <script src="https://cdnjs.cloudflare.com/ajax/libs/fetch/0.10.1/fetch.min.js"></script>
-        <script src="github_activity_overview/dist/github-calendar.min.js"></script>
-        <script src="github_activity_overview/js/main.js"></script>
-        <p class="monospace">If you want to know more about this project, <a href="https://github.com/Bloggify/github-calendar" target="blank">check outthe GitHub repository</a>.</p>
-        <p class="monospace">Embed guide &lt;3</p>
-        <div class="monospace with-heart">
-            <span class="octicon octicon-code"></span> with <span class="octicon octicon-heart"></span> &amp; JS by <a href="https://ionicabizaunet">IonicaBizau</a> @ <a href="https://bloggify.org">Bloggify</a>
-        </div>
-    </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.0.0/highlight.min.js"></script>
-    <script>hljs.highlightBlock(document.querySelector("pre"))</script>
-</body>
+<link
+   rel="stylesheet"
+   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
 
+<div class="calendar">
+    Loading the data just for you.
+</div>
+
+<script>
+    GitHubCalendar(".calendar", "stefanos1316", { responsive: true });
+</script>
 
 
 Grands, Awards, Languages, and Living Abroad

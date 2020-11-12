@@ -15,8 +15,10 @@ close source    > level 3, order 4, name '/usr/share/texmf/tex/context/fonts/mki
 structure       > sectioning > section @ level 3 : 0.0.1 -> Stefanos Georgiou
 structure       > sectioning > subsection @ level 4 : 0.0.1.1 -> Education
 structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Research Publications
+backend         > xmp > using file '/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml'
+pages           > flushing realpage 1, userpage 1, subpage 1
 
-Overfull \hbox (8.54716pt too wide) in paragraph at lines 168--174
+Overfull \hbox (8.54716pt too wide) in paragraph at lines 172--178
  [][][] \3>helvetica-11pt-ss-bf-0--0 Ste-fanos Geor-giou \3>helvetica-11pt-ss-tf-0--0 and Dio-midis Spinel-lis. Energy-Delay In-ves-ti-ga-tion of Re-mote Inter-Process
 
 \hbox(11.62027+4.51897)x483.69687, glue set - 1.0, direction TLT
@@ -34,14 +36,12 @@ Overfull \hbox (8.54716pt too wide) in paragraph at lines 168--174
 .\hbox(11.62027+4.51897)x0.0, direction TLT
 .etc.
 
-backend         > xmp > using file '/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml'
-pages           > flushing realpage 1, userpage 1, subpage 1
 structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Invited Talks
 structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Organization Services
 structure       > sectioning > subsection @ level 4 : 0.0.1.5 -> Teaching Experience
 structure       > sectioning > subsection @ level 4 : 0.0.1.6 -> Industrial Experience
 
-Overfull \hbox (11.68071pt too wide) in paragraph at lines 232--235
+Overfull \hbox (11.68071pt too wide) in paragraph at lines 236--239
  []\3>helvetica-11pt-ss-bf-0--0 Back-end de-vel-oper, De-vOps, and In-te-gra-tions: All-Can-Code Inc. Greek Branch 
 
 \hbox(11.62027+4.51897)x483.69687, glue set - 1.0, direction TLT
@@ -61,6 +61,25 @@ Overfull \hbox (11.68071pt too wide) in paragraph at lines 232--235
 
 structure       > sectioning > subsection @ level 4 : 0.0.1.7 -> Technical Experience
 pages           > flushing realpage 2, userpage 2
+
+Overfull \hbox (6.9698pt too wide) in paragraph at lines 290--293
+ []\3>helvetica-11pt-ss-tf-0--0 Epi-dose: A privacy-preserving epi-demic dosime-ter based on con-tact trac-ing \3>helvetica-11pt-ss-bf-0--0 Repos-
+
+\hbox(11.62027+4.51897)x483.69687, glue set - 1.0, direction TLT
+.\glue(\leftskip) 91.0488
+.\localpar
+..\localinterlinepenalty=0
+..\localbrokenpenalty=0
+..\localleftbox=null
+..\localrightbox=null
+.\hbox(11.62027+4.51897)x0.0, glue set - 91.0488fil, direction TLT
+..\glue 0.0 plus 1.0fil minus 1.0fil
+..\hbox(11.62027+4.51897)x91.0488, direction TLT
+...\hbox(11.62027+4.51897)x91.0488, glue set 39.83385fil, direction TLT []
+.\penalty 10000
+.\3>helvetica-11pt-ss-tf-0--0 E
+.etc.
+
 structure       > sectioning > subsection @ level 4 : 0.0.1.8 -> Grands, Awards, Languages, and Living Abroad
 pages           > flushing realpage 3, userpage 3
 pages           > flushing realpage 4, userpage 4
@@ -77,9 +96,9 @@ system          > structure > stop used structure
 system          > files > start used files
 
 used file       >    1: filename=cont-yes.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
-used file       >    2: filename=publ-imp-default.lua filetype=scripts foundname=/usr/share/texmf/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+used file       >    2: filename=publ-imp-default.lua filetype=lua foundname=/usr/share/texmf/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
 used file       >    3: filename=cont-new.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
-used file       >    4: filename=lang-us.lua filetype=scripts foundname=/usr/share/texmf/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+used file       >    4: filename=lang-us.lua filetype=lua foundname=/usr/share/texmf/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
 used file       >    5: filename=web/index.tex foundname=web/index.tex usedmethod=direct
 used file       >    6: filename=type-imp-texgyre.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/fonts/mkiv/type-imp-texgyre.mkiv usedmethod=database
 used file       >    7: filename=lm.lfg filetype=tex foundname=/usr/share/texmf/tex/context/fonts/mkiv/lm.lfg usedmethod=database
@@ -89,6 +108,7 @@ used file       >   10: filename=texgyreheros-bold filetype=otf format=otf found
 used file       >   11: filename=texgyreheros-italic filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf usedmethod=database
 used file       >   12: filename=lpdf-pdx.xml filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
 used file       >   13: filename=texgyreheros-bolditalic filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf usedmethod=database
+used file       >   14: filename=lmmono10-regular filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf usedmethod=database
 
 system          > files > stop used files
 
@@ -114,26 +134,26 @@ system          > options > stop commandline files
 
 mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/sgeorgiou/.texlive2017/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
-mkiv lua stats  > resource resolver: loadtime 0.066 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 13 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 404 modules (0.246 sec), 91 tables (0.009 sec), 495 chunks (0.255 sec)
+mkiv lua stats  > resource resolver: loadtime 0.121 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 14 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 404 modules (0.374 sec), 91 tables (0.012 sec), 495 chunks (0.386 sec)
 mkiv lua stats  > traced context: maxstack: 1231, freed: 0, unreachable: 1231
 mkiv lua stats  > cleaned up reserved nodes: 58 nodes, 9 lists of 447
 mkiv lua stats  > node memory usage: 2 glue, 2 penalty, 12 attribute, 49 glue_spec, 3 attribute_list, 2 temp, 2 user_defined
-mkiv lua stats  > node list callback tasks: 7 unique task lists, 8 instances (re)created, 779 calls
-mkiv lua stats  > h-node processing time: 0.015 seconds including kernel
+mkiv lua stats  > node list callback tasks: 7 unique task lists, 8 instances (re)created, 800 calls
+mkiv lua stats  > h-node processing time: 0.021 seconds including kernel
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
-mkiv lua stats  > jobdata time: 0.001 seconds saving, 0.001 seconds loading
-mkiv lua stats  > callbacks: 1424 direct, 918 indirect, 2342 total
+mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
+mkiv lua stats  > callbacks: 1475 direct, 929 indirect, 2404 total
 mkiv lua stats  > randomizer: resumed with value 0.28677987460363
 mkiv lua stats  > loaded patterns: en::2, load time: 0.000
-mkiv lua stats  > interactive elements: 42 references, 23 destinations
+mkiv lua stats  > interactive elements: 45 references, 23 destinations
 mkiv lua stats  > result saved in file: web/index.pdf.pdf, compresslevel 3, objectcompresslevel 3
-mkiv lua stats  > loaded fonts: 5 files: latinmodern-math.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > font engine: otf 3.029, afm 1.512, tfm 1.000, 11 instances, 4 shared in backend, 0 common vectors, 4 common hashes, load time 0.124 seconds 
-mkiv lua stats  > pdf annotations: 42 links (42 unique), 0 special
+mkiv lua stats  > loaded fonts: 6 files: latinmodern-math.otf, lmmono10-regular.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
+mkiv lua stats  > font engine: otf 3.029, afm 1.512, tfm 1.000, 12 instances, 4 shared in backend, 0 common vectors, 4 common hashes, load time 0.179 seconds 
+mkiv lua stats  > pdf annotations: 45 links (45 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
 mkiv lua stats  > luatex banner: this is luatex, version 1.0.4 (tex live 2017/debian)
-mkiv lua stats  > control sequences: 45396 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua, used memory: 113 MB (ctx: 112 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 0.531 seconds, 4 processed pages, 4 shipped pages, 7.533 pages/second
+mkiv lua stats  > control sequences: 45400 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua, used memory: 114 MB (ctx: 113 MB), hash type: lua, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 0.781 seconds, 4 processed pages, 4 shipped pages, 5.122 pages/second
 
