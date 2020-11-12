@@ -36,7 +36,6 @@ git pull ${remote_repo} gh-pages
 
 mv certificates/* web/
 mv degrees/* web/
-mv github_activity_overview web/
 mv proofs/* web/
 mv publications/*/* web/
 mv achievements/* web/
