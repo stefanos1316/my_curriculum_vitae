@@ -3,7 +3,9 @@ Stefanos Georgiou
 
 ----
 
->  **Contact details**: stefanos1316 at gmail dot com, sgeorgiou at aueb dot gr, tel. +36 70 6246675, current location: **Budapest, Hungary**.
+>  **Current location**: Budapest, Hungary
+
+>  **Contact details**: stefanos1316 at gmail dot com, sgeorgiou at aueb dot gr, tel. +36 70 6246675
 
 >  **About me**: I am passionated with [coding](https://stefanos1316.github.io/programmers_blog/), empirical studies, integrating new technologies, and automating cumbersome tasks. I enjoy working on the command-line and especially with Linux systems. I love to create small, indepentant componets and tools to facilitate different daily functionalities. On my free time, I enjoy sporting, reading books, and [travelling](https://stefanos1316.github.io/my_blog/index.html). 
 
@@ -78,10 +80,10 @@ Technical Experience
 *Back-End*
 :   BASH (Often automating cumbersome and time consuming tasks)
 :   NodeJS (Fan of KOA, prefer Mocha-Chai, like to use Native Addons for performance)
-:   Java (First real love, I was also teaching it at the Athes University of Economics and Business)
+:   Java (Was also teaching it at the Athens University of Economics and Business)
 :   Python (No need to read tutorials, feeling confy to code anytime)
-:   C (First ever learned, in love with Makefiles, and impressed by its performance)
-:   C++ (Second to learn after C, but as soon as I learned Java I stopped using it)
+:   C (First language to learn and impressed by its performance)
+:   C++ (Second to learn, but as soon as I learned Java I stopped using it)
 :   MongoDB ([Basics](mongodb_m001,pdf), [Aggregations](mongodb_m121.pdf), [JavaScript](mongodb_m220.pdf), and [Performance](mongodb_m201.pdf))
 
 *DevOps*

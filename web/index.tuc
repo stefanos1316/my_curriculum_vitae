@@ -224,7 +224,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=8,
    ["order"]=5,
-   ["realpage"]=1,
+   ["realpage"]=2,
    ["section"]=3,
   },
   ["titledata"]={
@@ -236,7 +236,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=9,
    ["order"]=6,
-   ["realpage"]=1,
+   ["realpage"]=2,
    ["section"]=3,
   },
   ["titledata"]={
@@ -323,7 +323,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=16,
    ["order"]=12,
-   ["realpage"]=2,
+   ["realpage"]=3,
    ["section"]=4,
   },
   ["titledata"]={
@@ -414,7 +414,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=23,
-   ["realpage"]=3,
+   ["realpage"]=4,
    ["reference"]="teaching-experience",
    ["section"]=7,
   },
@@ -536,9 +536,9 @@ if not utilitydata.structures.references then utilitydata.structures.references 
 
 utilitydata.structures.references.referred={
  { 1, 1 },
- { 2, 19 },
- { 3, 40 },
- { 4, 63 },
+ { 2, 14 },
+ { 3, 35 },
+ { 4, 62 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end

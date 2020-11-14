@@ -1,7 +1,7 @@
 const spawn = require('child_process').spawn;
 const path = require("path");
 
-const exec = (cmd, args=[]) => new Promise((resolve, reject) => {
+const exec_code = (cmd, args=[]) => new Promise((resolve, reject) => {
     console.log(`Started: ${cmd} ${args.join(" ")}`)
     const app = spawn(cmd, args, { stdio: 'inherit' });
     app.on('close', code => {
@@ -16,7 +16,7 @@ const exec = (cmd, args=[]) => new Promise((resolve, reject) => {
 });
 
 const main = async () => {
-    await exec('bash', [path.join(__dirname, './start.sh')]);
+    await exec_code('bash', [path.join(__dirname, './start.sh')]);
 };
 
 main().catch(err => {
