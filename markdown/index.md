@@ -5,7 +5,7 @@ Stefanos Georgiou
 
 >  **Contact details**: stefanos1316 at gmail dot com, sgeorgiou at aueb dot gr, stefanos dot g at allcancode dot com
 
->  **About me**: I am passionated with [coding](https://stefanos1316.github.io/programmers_blog/), empirical studies, integrating new technologies, and automating cumbersome tasks. On my free time, I enjoy sporting, reading books, and [travelling](https://stefanos1316.github.io/my_blog/index.html). 
+>  **About me**: I am passionated with [coding](https://stefanos1316.github.io/programmers_blog/), empirical studies, integrating new technologies, and automating cumbersome tasks. I enjoy working on the command-line and especially with Linux systems. I love to create small, indepentant componets and tools to facilitate different daily functionalities. On my free time, I enjoy sporting, reading books, and [travelling](https://stefanos1316.github.io/my_blog/index.html). 
 
 ----
 
@@ -35,6 +35,94 @@ Education
     Thesis title: *Implementation and Evaluation of the Biologically -- Inspired AntHocNet Routing Protocol in Sensor Network*; [Degree](bsc_cyprus.pdf)
 
 
+Industrial Experience
+---------------------
+Sep 2020-current
+:   **Software Developer** [Greek Free, Open Source Software](https://gfoss.eu/)
+
+    Developing a privacy-preserving epidemic dosimeter based on contact tracing. [Proof](gfoss_2020.pdf) [Repository](https://github.com/eellak/epidose.git)
+    
+    *Responsibilities*
+    
+    :    Developing [Python](https://www.python.org/), [Shell](https://www.gnu.org/software/bash/), and [Ansible](https://www.ansible.com/) scripts on a Raspberry Pi Zero
+    
+    :    Extented testing for the correct functionality of the device
+
+Jan 2019-Apr 2020
+:   **Back-end developer, DevOps, and Integrations:** [AllCanCode Inc. Greek Branch](https://www.allcancode.com/)
+
+    Supported the product development that facilitates fast web-sites development (by using [Blockly](https://developers.google.com/blockly)) on Desktop that can be exported in smart-phones as well.
+
+    *Responsibilities*   
+ 
+    :    Development of API end-points in JavaScript ([Node.JS](https://nodejs.org/en/)) and [MongoDB](https://www.mongodb.com/) for the server platform (product) and customer products
+
+    :    Creation of the CI system for the product (in GitLab) to perform back-end and front-end testing (through [Mocha](https://mochajs.org/) and [Cypress](https://www.cypress.io/) frameworks, respectively) and CD to auto-deploy product (for specific push branches) on Google's App Engine (Aurora, Beta, and Production) using the [Flex environment](https://cloud.google.com/appengine/docs/flexible)
+
+    :    Migration of monolithic product to micro-services using [Firebase hosting](https://firebase.google.com/docs/hosting), [Cloud Functions](https://firebase.google.com/docs/functions), and [Cloud Run](https://cloud.google.com/run)
+
+    :    Integration of [Bitrise](https://www.bitrise.io/) system in the product to allow platform users in exporting their Desktop applications to Android and iOS smart-phones through the [Cordova](https://cordova.apache.org/) wrapper
+
+Jan 2016-2019
+:   **Proposals writing:** [Singular Logic S.A.](https://portal.singularlogic.eu/en)
+
+    Proposals writing for the European Projects Department. [Proof](singular_logic_2016-2019.pdf)
+ 
+    *Responsibilities*
+    
+    :    Writing research proposals for Horizon 2020
+
+
+Technical Experience
+--------------------
+*Back-End*
+:   BASH (Often automating cumbersome and time consuming tasks)
+:   NodeJS (Fan of KOA, prefer Mocha-Chai, like to use Native Addons for performance)
+:   Java (First real love, I was also teaching it at the Athes University of Economics and Business)
+:   Python (No need to read tutorials, feeling confy to code anytime)
+:   C (First ever learned, in love with Makefiles, and impressed by its performance)
+:   C++ (Second to learn after C, but as soon as I learned Java I stopped using it)
+:   MongoDB ([Basics](mongodb_m001,pdf), [Aggregations](mongodb_m121.pdf), [JavaScript](mongodb_m220.pdf), and [Performance](mongodb_m201.pdf))
+
+*DevOps*
+:   Continuous Integration and Deployment (Big fan of CI/CD Travis, GitLab, and Actions)
+:   Code Quality (Coveralls, maven-plugins, Style-Checkers, Reports, and pre-commit hooks)
+:   Hosting (Firbase, Docker, and Google App Engine)
+:   Mobile CI/CD (Bitrise with Cordova wrapper for mobile apps)
+:   Configuration Management (Ansible because it uses YAML)
+
+*Projects*
+:   Epidose: A privacy-preserving epidemic dosimeter based on contact tracing [Repository](https://github.com/eellak/epidose)
+:   Exam Questionnaire Scanner: [Repository](https://github.com/AntonisGkortzis/ExamQuestionnaireScanner)
+:   Measuring Energy Consumption: [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
+:   Programming II website: [Repository](https://github.com/stefanos1316/courses)
+:   Rosetta Code Experiement: [Repository](https://github.com/stefanos1316/Rosetta_Code_Data_Set)
+:   Validate Links: [Repository](https://github.com/stefanos1316/validateLinks)
+
+*Certificates*
+:  Unix Tools: [Data, Software, and Production Engineering](unix_tools_edx.pdf)
+
+*Course Completion*
+:  MongoDB: [Basics](mongodb_m001.pdf), [Aggregation](mongodb_m121.pdf), [JavaScript](mongodb_m220.pdf), [Performance](mongodb_m201.pdf)
+
+<script
+  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
+></script>
+
+<link
+   rel="stylesheet"
+   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
+
+<div class="calendar">
+    Loading the data just for you.
+</div>
+
+<script>
+    GitHubCalendar(".calendar", "stefanos1316", { responsive: true });
+</script>
+
+
 Research Publications
 ---------------------
 * Conference Papers
@@ -61,6 +149,14 @@ Research
 :   *What are your programming language's energy-delay implications?* presented on 12th of June 2018 at PERCCOM's Summer School in Lappeenranta, Finland. [Proof](perccom_summer_school_2018.pdf)  
 
 
+Teaching Experience
+-------------------
+Assisting my PhD advisor at Programming II course (Winter Semester of 2016, 2017, and 2018) by giving tutorial and Lab sessions in Java [[Repository](https://github.com/AUEB-BALab/courses)]
+
+Gave Java lectures and tutorials for the 1st and 2nd Coding Boot Camp in Athens, Greece (Oct. 2017 - May 2018) <br />
+[[Repository](https://github.com/codeandwork/courses)] [[Proof](boot_camp_athens_2016_2017.pdf)]
+
+
 Organization Services
 ---------------------
 *Program Committee*
@@ -71,76 +167,6 @@ Organization Services
 
 *Co-reviewer*
 : Conference papers submitted to ICSE-SEIP, MSR, OSS, ICPC, ICCS, SANER, and SATToSE
-
-
-Teaching Experience
--------------------
-Assisting my PhD advisor at Programming II course (Winter Semester of 2016, 2017, and 2018) by giving tutorial and Lab sessions in Java [[Repository](https://github.com/AUEB-BALab/courses)]
-
-Gave Java lectures and tutorials for the 1st and 2nd Coding Boot Camp in Athens, Greece (Oct. 2017 - May 2018) <br />
-[[Repository](https://github.com/codeandwork/courses)] [[Proof](boot_camp_athens_2016_2017.pdf)]
-
-
-Industrial Experience
----------------------
-Jan 2019-Apr 2020
-:   **Back-end developer, DevOps, and Integrations:** [AllCanCode Inc. Greek Branch](https://www.allcancode.com/)
-
-    Developing in Node.JS, integrating new services (API end-points), and setting up the cloud infrasture and projects development workflow.
-
-Jan 2016-2019
-:   **Proposals writing:** [Singular Logic S.A.](https://portal.singularlogic.eu/en)
-
-    Proposals writing and participating in project's telco meetings for the European Projects Department.
-
-
-Technical Experience
---------------------
-*Back-End*
-:   BASH (Often automating cumbersome and time consuming tasks)
-:   NodeJS (Fan of KOA, prefer Mocha-Chai, like to use Native Addons for performance)
-:   Java (First real love, I was also teaching it at the Athes University of Economics and Business)
-:   Python (No need to read tutorials, feeling confy to code anytime)
-:   C (First ever learned, in love with Makefiles, and impressed by its performance)
-:   C++ (Second to learn after C, but as soon as I learned Java I stopped using it)
-:   MongoDB (Queries, Aggregations, and Optimizations)
-
-*DevOps*
-:   Continuous Integration and Deployment (Big fan of CI/CD Travis, GitLab, and Actions)
-:   Code Quality (Coveralls, maven-plugins, Style-Checkers, and Reports)
-:   Hosting (Firbase, Docker, Google App Engine, and lover of Cloud Functions)
-:   Mobile CI/CD (Bitrise supporter for Cordova and slightly Flutter user)
-:   Configuration Management (Ansible because it uses YAML)
-
-
-*Projects*
-:   Epidose: A privacy-preserving epidemic dosimeter based on contact tracing [Repository](https://github.com/eellak/epidose)
-:   Exam Questionnaire Scanner: [Repository](https://github.com/AntonisGkortzis/ExamQuestionnaireScanner)
-:   Measuring Energy Consumption: [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
-:   Programming II website: [Repository](https://github.com/stefanos1316/courses)
-:   Rosetta Code Experiement: [Repository](https://github.com/stefanos1316/Rosetta_Code_Research_MSR)
-:   Validate Links: [Repository](https://github.com/stefanos1316/validateLinks)
-
-*Certificates*
-:  Unix Tools: [Data, Software, and Production Engineering](unix_tools_edx.pdf)
-:  MongoDB: [Basics](mongodb_m001.pdf), [Aggregation](mongodb_m121.pdf), [JavaScript](mongodb_m220.pdf), [Performance](mongodb_m201.pdf)
-
-<script
-  src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
-></script>
-
-<link
-   rel="stylesheet"
-   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-/>
-
-<div class="calendar">
-    Loading the data just for you.
-</div>
-
-<script>
-    GitHubCalendar(".calendar", "stefanos1316", { responsive: true });
-</script>
 
 
 Grands, Awards, Languages, and Living Abroad
