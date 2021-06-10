@@ -252,7 +252,7 @@ utilitydata.structures.lists.collected={
    ["section"]=2,
   },
   ["titledata"]={
-   ["title"]="2016-2021",
+   ["title"]="2021-current",
   },
  },
  {
@@ -264,7 +264,7 @@ utilitydata.structures.lists.collected={
    ["section"]=2,
   },
   ["titledata"]={
-   ["title"]="2013-2015",
+   ["title"]="2016-2021",
   },
  },
  {
@@ -272,6 +272,18 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=5,
    ["order"]=3,
+   ["realpage"]=1,
+   ["section"]=2,
+  },
+  ["titledata"]={
+   ["title"]="2013-2015",
+  },
+ },
+ {
+  ["metadata"]=14,
+  ["references"]={
+   ["internal"]=6,
+   ["order"]=4,
    ["realpage"]=1,
    ["section"]=2,
   },
@@ -284,7 +296,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=15,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=6,
+   ["internal"]=7,
    ["realpage"]=1,
    ["reference"]="industrial-experience",
    ["section"]=3,
@@ -297,25 +309,13 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=14,
   ["references"]={
-   ["internal"]=7,
-   ["order"]=4,
-   ["realpage"]=1,
-   ["section"]=3,
-  },
-  ["titledata"]={
-   ["title"]="Sep 2020-current",
-  },
- },
- {
-  ["metadata"]=14,
-  ["references"]={
    ["internal"]=8,
    ["order"]=5,
    ["realpage"]=1,
    ["section"]=3,
   },
   ["titledata"]={
-   ["title"]="{\\em Responsibilities}",
+   ["title"]="Sep 2020-current",
   },
  },
  {
@@ -327,7 +327,7 @@ utilitydata.structures.lists.collected={
    ["section"]=3,
   },
   ["titledata"]={
-   ["title"]="Jan 2019-Apr 2020",
+   ["title"]="{\\em Responsibilities}",
   },
  },
  {
@@ -339,7 +339,7 @@ utilitydata.structures.lists.collected={
    ["section"]=3,
   },
   ["titledata"]={
-   ["title"]="{\\em Responsibilities}",
+   ["title"]="Jan 2019-Apr 2020",
   },
  },
  {
@@ -351,7 +351,7 @@ utilitydata.structures.lists.collected={
    ["section"]=3,
   },
   ["titledata"]={
-   ["title"]="Jan 2016-2019",
+   ["title"]="{\\em Responsibilities}",
   },
  },
  {
@@ -359,6 +359,18 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=12,
    ["order"]=9,
+   ["realpage"]=2,
+   ["section"]=3,
+  },
+  ["titledata"]={
+   ["title"]="Jan 2016-2019",
+  },
+ },
+ {
+  ["metadata"]=14,
+  ["references"]={
+   ["internal"]=13,
+   ["order"]=10,
    ["realpage"]=2,
    ["section"]=3,
   },
@@ -371,7 +383,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=16,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=13,
+   ["internal"]=14,
    ["realpage"]=2,
    ["reference"]="technical-experience",
    ["section"]=4,
@@ -384,25 +396,13 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=14,
   ["references"]={
-   ["internal"]=14,
-   ["order"]=10,
-   ["realpage"]=2,
-   ["section"]=4,
-  },
-  ["titledata"]={
-   ["title"]="{\\em Back-End}",
-  },
- },
- {
-  ["metadata"]=14,
-  ["references"]={
    ["internal"]=15,
    ["order"]=11,
    ["realpage"]=2,
    ["section"]=4,
   },
   ["titledata"]={
-   ["title"]="{\\em DevOps}",
+   ["title"]="{\\em Back-End}",
   },
  },
  {
@@ -414,7 +414,7 @@ utilitydata.structures.lists.collected={
    ["section"]=4,
   },
   ["titledata"]={
-   ["title"]="{\\em Projects}",
+   ["title"]="{\\em DevOps}",
   },
  },
  {
@@ -426,7 +426,7 @@ utilitydata.structures.lists.collected={
    ["section"]=4,
   },
   ["titledata"]={
-   ["title"]="{\\em Certificates}",
+   ["title"]="{\\em Projects}",
   },
  },
  {
@@ -434,6 +434,18 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=18,
    ["order"]=14,
+   ["realpage"]=3,
+   ["section"]=4,
+  },
+  ["titledata"]={
+   ["title"]="{\\em Certificates}",
+  },
+ },
+ {
+  ["metadata"]=14,
+  ["references"]={
+   ["internal"]=19,
+   ["order"]=15,
    ["realpage"]=3,
    ["section"]=4,
   },
@@ -446,7 +458,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=17,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=19,
+   ["internal"]=20,
    ["realpage"]=3,
    ["reference"]="research-publications",
    ["section"]=5,
@@ -461,7 +473,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=18,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=20,
+   ["internal"]=21,
    ["realpage"]=3,
    ["reference"]="invited-talks",
    ["section"]=6,
@@ -474,8 +486,8 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=14,
   ["references"]={
-   ["internal"]=21,
-   ["order"]=15,
+   ["internal"]=22,
+   ["order"]=16,
    ["realpage"]=3,
    ["section"]=6,
   },
@@ -486,9 +498,9 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=14,
   ["references"]={
-   ["internal"]=22,
-   ["order"]=16,
-   ["realpage"]=3,
+   ["internal"]=23,
+   ["order"]=17,
+   ["realpage"]=4,
    ["section"]=6,
   },
   ["titledata"]={
@@ -500,8 +512,8 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=19,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=23,
-   ["realpage"]=3,
+   ["internal"]=24,
+   ["realpage"]=4,
    ["reference"]="teaching-experience",
    ["section"]=7,
   },
@@ -515,7 +527,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=20,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=24,
+   ["internal"]=25,
    ["realpage"]=4,
    ["reference"]="organization-services",
    ["section"]=8,
@@ -528,8 +540,8 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=14,
   ["references"]={
-   ["internal"]=25,
-   ["order"]=17,
+   ["internal"]=26,
+   ["order"]=18,
    ["realpage"]=4,
    ["section"]=8,
   },
@@ -540,8 +552,8 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=14,
   ["references"]={
-   ["internal"]=26,
-   ["order"]=18,
+   ["internal"]=27,
+   ["order"]=19,
    ["realpage"]=4,
    ["section"]=8,
   },
@@ -552,8 +564,8 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=14,
   ["references"]={
-   ["internal"]=27,
-   ["order"]=19,
+   ["internal"]=28,
+   ["order"]=20,
    ["realpage"]=4,
    ["section"]=8,
   },
@@ -566,7 +578,7 @@ utilitydata.structures.lists.collected={
   ["numberdata"]=21,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=28,
+   ["internal"]=29,
    ["realpage"]=4,
    ["reference"]="grands-awards-languages-and-living-abroad",
    ["section"]=9,
@@ -623,9 +635,9 @@ if not utilitydata.structures.references then utilitydata.structures.references 
 
 utilitydata.structures.references.referred={
  { 1, 1 },
- { 2, 17 },
- { 3, 37 },
- { 4, 63 },
+ { 2, 13 },
+ { 3, 36 },
+ { 4, 62 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end

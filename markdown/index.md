@@ -3,9 +3,9 @@ Stefanos Georgiou
 
 ----
 
->  **Current location**: Budapest, Hungary
+>  **Current location**: Kingston, ON, Canada
 
->  **Contact details**: stefanos1316 at gmail dot com, sgeorgiou at aueb dot gr, tel. +36 70 6246675
+>  **Contact details**: stefanos1316 at gmail dot com, first name dot family name at queensu dot com
 
 >  **About me**: I am passionated with [coding](https://stefanos1316.github.io/programmers_blog/), empirical studies, integrating new technologies, and automating cumbersome tasks. I enjoy working on the command-line and especially with Linux systems. I love to create small, indepentant componets and tools to facilitate different daily functionalities. On my free time, I enjoy sporting, reading books, and [travelling](https://stefanos1316.github.io/my_blog/index.html). 
 
@@ -13,6 +13,13 @@ Stefanos Georgiou
 
 Education
 ---------
+2021-current
+:   **PostDoctoral, Electrical and Computer Engineering**; Queen's University
+
+    Lab name: Software Evolution and Analytics Lab
+
+    Lab's head: [Prof. Ying (Jenny) Zou](https://www.ece.queensu.ca/people/Y-Zou/) 
+
 2016-2021
 :   **PhD, Computer Science**; Athens University of Economics and Business
 
@@ -168,7 +175,7 @@ Organization Services
 : Jounals submitted to Software: Practices and Experience 
 
 *Co-reviewer*
-: Conference papers submitted to ICSE-SEIP, MSR, OSS, ICPC, ICCS, SANER, and SATToSE
+: Conference papers submitted to ICSE-SEIP, MSR, OSS, ICPC, ICCS, SANER, FSE, ASE, ICMSE and SATToSE
 
 
 Grands, Awards, Languages, and Living Abroad
