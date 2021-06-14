@@ -200,6 +200,14 @@ Grands, Awards, Languages, and Living Abroad
     * Teaching in Athens and visiting islands in Greece (Fall Semester of 2016 till now) 
     * Biked in Delft, the Netherlands for my PhD secondment (Half month of Sept. 2017)
 
-----
-> <sgeorgiou@aueb.gr, stefanos.g@allcancode.com>\
-> Troias 2, ground floor, second floor - Athens, Greece
+
+My Academic Tree
+----------------
+<p align="center">
+<table class="image">
+<tr><td> <img src="academic_genealogy_tree.jpg" style="width: 900px;" /></td></tr>
+<tr><td class="caption" align="center">Zoom-in for more details</td></tr>
+</table>
+</p>
+
+------------------------------------------

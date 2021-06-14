@@ -39,6 +39,7 @@ mv degrees/* web/
 mv proofs/* web/
 mv publications/*/* web/
 mv achievements/* web/
+mv img/* web/
 
 rm -rf tools
 rm -rf styles
@@ -46,6 +47,7 @@ rm Makefile
 rm -rf markdown
 rm -rf README.md
 rm -rf resume.tuc
+rm -rf img
   
 shopt -s extglob
 rm -rf !(web)
