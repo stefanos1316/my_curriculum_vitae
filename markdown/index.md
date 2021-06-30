@@ -178,10 +178,11 @@ Organization Services
 : Conference papers submitted to ICSE-SEIP, MSR, OSS, ICPC, ICCS, SANER, FSE, ASE, ICMSE and SATToSE
 
 
-Grands, Awards, Languages, and Living Abroad
+Grands, Awards, Achievements, Languages, and Living Abroad
 --------------------------------------------
 * Grands and awards:
-     * Mentored younger researcher [who won 2nd](fse19.pdf) place in SRC ESEC/FSE '19.
+     * [Arctic Code Vault Contributor](arctic_code_contributor.jpg)
+     * Mentored younger researcher [who won 2nd place](fse19.pdf) in SRC ESEC/FSE '19.
      * Best paper award from the 15th Annual DMST Student Conference (2018)
      * Marie Skłodowska-Curie funds, [SENECA](https://portal.singularlogic.eu/en/eu-project/12374/seneca) (2016-2019)
      * Erasmus Mundus Masters Scholarship, PERCCOM (2013-2015)
@@ -198,7 +199,7 @@ Grands, Awards, Languages, and Living Abroad
     * Fish ice-cold beers from lakes in Lulea, Sweden (Fall Semeseter of 2014)
     * Drunk vodka and ate borsh in Saint-Petersburg, Russia (Spring Semester of 2015)
     * Teaching in Athens and visiting islands in Greece (Fall Semester of 2016 till now) 
-    * Biked in Delft, the Netherlands for my PhD secondment (Half month of Sept. 2017)
+    * Biked in Delft, the Netherlands for my PhD secondment (Half month of Sept. 2017) 
 
 
 My Academic Tree
