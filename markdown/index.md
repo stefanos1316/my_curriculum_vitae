@@ -169,10 +169,13 @@ Gave Java lectures and tutorials for the 1st and 2nd Coding Boot Camp in Athens,
 Organization Services
 ---------------------
 *Program Committee*
-: International Workshop on Sustainable Software Engineering
+: ESEC/FSE 2020 at Student Research Competition
+: International Workshop on Sustainable Software Engineering 2020
 
 *Reviewer*
-: Jounals submitted to Software: Practices and Experience 
+: Journals submitted to Software: Practices and Experience 
+: Journals submitted to ACM Computing Surveys (CSUR)
+: Research papers submitted to ESEC/FSE
 
 *Co-reviewer*
 : Conference papers submitted to ICSE-SEIP, MSR, OSS, ICPC, ICCS, SANER, FSE, ASE, ICMSE and SATToSE
