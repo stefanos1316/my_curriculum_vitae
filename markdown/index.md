@@ -5,9 +5,9 @@ Stefanos Georgiou
 
 >  **Current location**: Kingston, ON, Canada
 
->  **Contact details**: stefanos1316 at gmail dot com, first name dot family name at queensu dot com
+>  **Contact details**: first name 1316 at gmail dot com, first name dot family name at queensu dot com
 
->  **About me**: I am passionated with [coding](https://stefanos1316.github.io/programmers_blog/), empirical studies, integrating new technologies, and automating cumbersome tasks. I enjoy working on the command-line and especially with Linux systems. I love to create small, indepentant componets and tools to facilitate different daily functionalities. On my free time, I enjoy sporting, reading books, and [travelling](https://stefanos1316.github.io/my_blog/index.html). 
+>  **About me**: I am passionated with research, [coding](https://stefanos1316.github.io/programmers_blog/), integrating new technologies, and automating cumbersome tasks. My research interests lie to Green and Energy-Efficient Computing, Mining Software Repositories, and Machine Learning. I enjoy working on the command-line and especially with Linux systems. I love to create small indepentant componets and tools to facilitate different daily functionalities. On my free time, I enjoy sporting, reading books, and [travelling](https://stefanos1316.github.io/my_blog/index.html). 
 
 ----
 
