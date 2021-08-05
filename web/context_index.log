@@ -19,61 +19,137 @@ open source     > level 3, order 4, name '/usr/share/texmf/tex/context/fonts/mki
 close source    > level 3, order 4, name '/usr/share/texmf/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
 structure       > sectioning > section @ level 3 : 0.0.1 -> Stefanos Georgiou
 structure       > sectioning > subsection @ level 4 : 0.0.1.1 -> Education
-structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Industrial Experience
+structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Research Publications
 backend         > xmp > using file '/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml'
 pages           > flushing realpage 1, userpage 1, subpage 1
 
-Overfull \hbox (10.04007pt too wide) in paragraph at lines 177--180
- []<10: texgyreheros-bold @ 11.0pt> Back-end de-vel-oper, De-vOps, and In-te-gra-tions: All-Can-Code Inc. Greek Branch 
-structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Technical Experience
-
-Overfull \hbox (1.65393pt too wide) in paragraph at lines 261--263
- []<1: texgyreheros-regular @ 11.0pt> Code Qual-ity (Cov-er-alls, maven-plugins, Style-Checkers, Re-ports, and pre-commit
-
-Overfull \hbox (7.02754pt too wide) in paragraph at lines 272--275
- []<1: texgyreheros-regular @ 11.0pt> Epi-dose: A privacy-preserving epi-demic dosime-ter based on con-tact trac-ing <10: texgyreheros-bold @ 11.0pt> Repos-
-pages           > flushing realpage 2, userpage 2, subpage 2
-structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Research Publications
-
-Overfull \hbox (8.61821pt too wide) in paragraph at lines 348--354
+Overfull \hbox (8.61821pt too wide) in paragraph at lines 194--200
  [][][] <10: texgyreheros-bold @ 11.0pt> Ste-fanos Geor-giou <1: texgyreheros-regular @ 11.0pt> and Dio-midis Spinel-lis. Energy-Delay In-ves-ti-ga-tion of Re-mote Inter-Process
-structure       > sectioning > subsection @ level 4 : 0.0.1.5 -> Invited Talks
+structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Invited Talks
+structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Teaching Experience
+structure       > sectioning > subsection @ level 4 : 0.0.1.5 -> Organization Services
+pages           > flushing realpage 2, userpage 2, subpage 2
+structure       > sectioning > subsection @ level 4 : 0.0.1.6 -> Industrial Experience
+
+Overfull \hbox (10.04007pt too wide) in paragraph at lines 287--290
+ []<10: texgyreheros-bold @ 11.0pt> Back-end de-vel-oper, De-vOps, and In-te-gra-tions: All-Can-Code Inc. Greek Branch 
+structure       > sectioning > subsection @ level 4 : 0.0.1.7 -> Technical Experience
+
+Overfull \hbox (1.65393pt too wide) in paragraph at lines 371--373
+ []<1: texgyreheros-regular @ 11.0pt> Code Qual-ity (Cov-er-alls, maven-plugins, Style-Checkers, Re-ports, and pre-commit
 pages           > flushing realpage 3, userpage 3, subpage 3
-structure       > sectioning > subsection @ level 4 : 0.0.1.6 -> Teaching Experience
-structure       > sectioning > subsection @ level 4 : 0.0.1.7 -> Organization Services
-structure       > sectioning > subsection @ level 4 : 0.0.1.8 -> Grands, Awards, Languages, and Living Abroad
+
+Overfull \hbox (7.02754pt too wide) in paragraph at lines 382--385
+ []<1: texgyreheros-regular @ 11.0pt> Epi-dose: A privacy-preserving epi-demic dosime-ter based on con-tact trac-ing <10: texgyreheros-bold @ 11.0pt> Repos-
+structure       > sectioning > subsection @ level 4 : 0.0.1.8 -> Grands, Awards, Achievements, Languages, and Living Abroad
 structure       > sectioning > subsection @ level 4 : 0.0.1.9 -> My Academic Tree
 pages           > flushing realpage 4, userpage 4, subpage 4
+pages           > flushing realpage 5, userpage 5, subpage 5
 close source    > level 2, order 4, name 'web/index.tex'
 close source    > level 1, order 4, name '/usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv'
 
 mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/sgeorgiou/.texlive2019/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
-mkiv lua stats  > resource resolver: loadtime 0.100 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 17 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 443 modules (0.255 sec), 93 tables (0.009 sec), 536 chunks (0.264 sec)
+mkiv lua stats  > resource resolver: loadtime 0.117 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 17 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 443 modules (0.323 sec), 93 tables (0.014 sec), 536 chunks (0.336 sec)
 mkiv lua stats  > traced context: maxstack: 1369, freed: 0, unreachable: 1369
 mkiv lua stats  > cleaned up reserved nodes: 62 nodes, 9 lists of 440
 mkiv lua stats  > node memory usage: 1 glue, 3 kern, 2 penalty, 14 attribute, 50 glue_spec, 4 attribute_list, 2 temp, 2 user_defined
-mkiv lua stats  > node list callback tasks: 8 unique task lists, 7 instances (re)created, 1170 calls
-mkiv lua stats  > h-node processing time: 0.017 seconds including kernel
-mkiv lua stats  > driver time: 0.064 seconds 
+mkiv lua stats  > node list callback tasks: 8 unique task lists, 7 instances (re)created, 1198 calls
+mkiv lua stats  > h-node processing time: 0.025 seconds including kernel
+mkiv lua stats  > driver time: 0.099 seconds 
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
-mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
-mkiv lua stats  > callbacks: internal: 2086, file: 918, direct: 2, late: 109, function 1542, total: 4657 (1552 per page)
+mkiv lua stats  > jobdata time: 0.003 seconds saving, 0.001 seconds loading
+mkiv lua stats  > callbacks: internal: 2145, file: 932, direct: 2, late: 111, function 1562, total: 4752 (1188 per page)
 mkiv lua stats  > randomizer: resumed with value 0.10956840123981
 mkiv lua stats  > result saved in file: web/index.pdf.pdf, compresslevel 3, objectcompresslevel 1
 mkiv lua stats  > loaded patterns: en::1, load time: 0.000
-mkiv lua stats  > interactive elements: 69 references, 30 destinations
+mkiv lua stats  > interactive elements: 72 references, 29 destinations
 mkiv lua stats  > loaded fonts: 6 files: latinmodern-math.otf, lmmono10-regular.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > font engine: otf 3.107, afm 1.513, tfm 1.000, 15 instances, 7 shared in backend, 3 common vectors, 4 common hashes, load time 0.173 seconds 
-mkiv lua stats  > pdf annotations: 69 links (69 unique), 0 special
+mkiv lua stats  > font engine: otf 3.107, afm 1.513, tfm 1.000, 15 instances, 7 shared in backend, 3 common vectors, 4 common hashes, load time 0.268 seconds 
+mkiv lua stats  > pdf annotations: 72 links (72 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
 mkiv lua stats  > used engine: luatex version 1.1 with functionality level 7127, banner: this is luatex, version 1.10.0 (tex live 2019/debian)
 mkiv lua stats  > control sequences: 45572 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 151 MB (ctx: 151 MB), hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 0.672 seconds, 4 processed pages, 4 shipped pages, 5.952 pages/second
+mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 112 MB (ctx: 111 MB), hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 0.966 seconds, 5 processed pages, 5 shipped pages, 5.176 pages/second
+mtx-context     | run 2: luatex --fmt="/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/formats/luatex/cont-en" --jobname="index" --lua="/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442/formats/luatex/cont-en.lui" --c:currentrun=2 --c:fulljobname="web/index.tex" --c:input="web/index.tex" --c:kindofrun=2 --c:maxnofruns=9 --c:result="web/index.pdf" --c:texmfbinpath="/usr/bin" "cont-yes.mkiv"
+
+This is LuaTeX, Version 1.10.0 (TeX Live 2019/Debian) 
+ system commands enabled.
+open source     > level 1, order 1, name '/usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv'
+system          > 
+system          > ConTeXt  ver: 2019.03.21 21:39 MKIV beta  fmt: 2021.1.16  int: english/english
+system          > 
+system          > 'cont-new.mkiv' loaded
+open source     > level 2, order 2, name '/usr/share/texmf/tex/context/base/mkiv/cont-new.mkiv'
+system          > beware: some patches loaded from cont-new.mkiv
+close source    > level 2, order 2, name '/usr/share/texmf/tex/context/base/mkiv/cont-new.mkiv'
+system          > files > jobname 'index', input 'web/index', result 'web/index.pdf'
+fonts           > latin modern fonts are not preloaded
+languages       > language 'en' is active
+open source     > level 2, order 3, name 'web/index.tex'
+colors          > defining > unknown library 'hex'
+open source     > level 3, order 4, name '/usr/share/texmf/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
+close source    > level 3, order 4, name '/usr/share/texmf/tex/context/fonts/mkiv/type-imp-texgyre.mkiv'
+structure       > sectioning > section @ level 3 : 0.0.1 -> Stefanos Georgiou
+structure       > sectioning > subsection @ level 4 : 0.0.1.1 -> Education
+structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Research Publications
+backend         > xmp > using file '/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml'
+pages           > flushing realpage 1, userpage 1, subpage 1
+
+Overfull \hbox (8.61821pt too wide) in paragraph at lines 194--200
+ [][][] <10: texgyreheros-bold @ 11.0pt> Ste-fanos Geor-giou <1: texgyreheros-regular @ 11.0pt> and Dio-midis Spinel-lis. Energy-Delay In-ves-ti-ga-tion of Re-mote Inter-Process
+structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Invited Talks
+structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Teaching Experience
+structure       > sectioning > subsection @ level 4 : 0.0.1.5 -> Organization Services
+pages           > flushing realpage 2, userpage 2, subpage 2
+structure       > sectioning > subsection @ level 4 : 0.0.1.6 -> Industrial Experience
+
+Overfull \hbox (10.04007pt too wide) in paragraph at lines 287--290
+ []<10: texgyreheros-bold @ 11.0pt> Back-end de-vel-oper, De-vOps, and In-te-gra-tions: All-Can-Code Inc. Greek Branch 
+structure       > sectioning > subsection @ level 4 : 0.0.1.7 -> Technical Experience
+
+Overfull \hbox (1.65393pt too wide) in paragraph at lines 371--373
+ []<1: texgyreheros-regular @ 11.0pt> Code Qual-ity (Cov-er-alls, maven-plugins, Style-Checkers, Re-ports, and pre-commit
+pages           > flushing realpage 3, userpage 3, subpage 3
+
+Overfull \hbox (7.02754pt too wide) in paragraph at lines 382--385
+ []<1: texgyreheros-regular @ 11.0pt> Epi-dose: A privacy-preserving epi-demic dosime-ter based on con-tact trac-ing <10: texgyreheros-bold @ 11.0pt> Repos-
+structure       > sectioning > subsection @ level 4 : 0.0.1.8 -> Grands, Awards, Achievements, Languages, and Living Abroad
+structure       > sectioning > subsection @ level 4 : 0.0.1.9 -> My Academic Tree
+pages           > flushing realpage 4, userpage 4, subpage 4
+pages           > flushing realpage 5, userpage 5, subpage 5
+close source    > level 2, order 4, name 'web/index.tex'
+close source    > level 1, order 4, name '/usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv'
+
+mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
+mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/sgeorgiou/.texlive2019/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
+mkiv lua stats  > resource resolver: loadtime 0.129 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 17 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 443 modules (0.328 sec), 93 tables (0.014 sec), 536 chunks (0.341 sec)
+mkiv lua stats  > traced context: maxstack: 1369, freed: 0, unreachable: 1369
+mkiv lua stats  > cleaned up reserved nodes: 62 nodes, 9 lists of 440
+mkiv lua stats  > node memory usage: 1 glue, 3 kern, 2 penalty, 14 attribute, 50 glue_spec, 4 attribute_list, 2 temp, 2 user_defined
+mkiv lua stats  > node list callback tasks: 8 unique task lists, 7 instances (re)created, 1198 calls
+mkiv lua stats  > h-node processing time: 0.025 seconds including kernel
+mkiv lua stats  > driver time: 0.097 seconds 
+mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
+mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
+mkiv lua stats  > callbacks: internal: 2145, file: 932, direct: 2, late: 111, function 1562, total: 4752 (1188 per page)
+mkiv lua stats  > randomizer: resumed with value 0.10956840123981
+mkiv lua stats  > result saved in file: web/index.pdf.pdf, compresslevel 3, objectcompresslevel 1
+mkiv lua stats  > loaded patterns: en::1, load time: 0.000
+mkiv lua stats  > interactive elements: 72 references, 29 destinations
+mkiv lua stats  > loaded fonts: 6 files: latinmodern-math.otf, lmmono10-regular.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
+mkiv lua stats  > font engine: otf 3.107, afm 1.513, tfm 1.000, 15 instances, 7 shared in backend, 3 common vectors, 4 common hashes, load time 0.250 seconds 
+mkiv lua stats  > pdf annotations: 72 links (72 unique), 0 special
+mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
+mkiv lua stats  > used engine: luatex version 1.1 with functionality level 7127, banner: this is luatex, version 1.10.0 (tex live 2019/debian)
+mkiv lua stats  > control sequences: 45571 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 157 MB (ctx: 157 MB), hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 0.946 seconds, 5 processed pages, 5 shipped pages, 5.285 pages/second
 mtx-context     |
 mtx-context     | results are to be on the running path, not on 'web', ignoring --result
 mtx-context     |
-system          | total runtime: 0.889 seconds
+system          | total runtime: 2.543 seconds
 
