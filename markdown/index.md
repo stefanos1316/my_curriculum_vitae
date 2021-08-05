@@ -60,6 +60,22 @@ Research Publications
 [[Preprint](GRS19.pdf)] [[BibTex](GRS19.bib)]
 
 
+Organization Services
+---------------------
+*Program Committee*
+: ISEC 2022 for the Doctoral Symposium
+: ESEC/FSE 2021 for the Student Research Competition
+: ASE 2020 for the International Workshop on Sustainable Software Engineering
+
+*Reviewer*
+: Journals submitted to Software: Practices and Experience 
+: Journals submitted to ACM Computing Surveys (CSUR)
+: Research papers submitted to ESEC/FSE
+
+*Co-reviewer*
+: Conference papers submitted to ICSE-SEIP, MSR, OSS, ICPC, ICCS, SANER, FSE, ASE, ICMSE and SATToSE
+
+
 Invited Talks
 -------------
 Tutorials
@@ -78,22 +94,6 @@ Assisting my PhD advisor at Programming II course (Winter Semester of 2016, 2017
 
 Gave Java lectures and tutorials for the 1st and 2nd Coding Boot Camp in Athens, Greece (Oct. 2017 - May 2018) <br />
 [[Repository](https://github.com/codeandwork/courses)] [[Proof](boot_camp_athens_2016_2017.pdf)]
-
-
-Organization Services
----------------------
-*Program Committee*
-" ISEC 2022 for the Doctoral Symposium
-: ESEC/FSE 2021 for the Student Research Competition
-: ASE 2020 for the International Workshop on Sustainable Software Engineering
-
-*Reviewer*
-: Journals submitted to Software: Practices and Experience 
-: Journals submitted to ACM Computing Surveys (CSUR)
-: Research papers submitted to ESEC/FSE
-
-*Co-reviewer*
-: Conference papers submitted to ICSE-SEIP, MSR, OSS, ICPC, ICCS, SANER, FSE, ASE, ICMSE and SATToSE
 
 
 Industrial Experience
