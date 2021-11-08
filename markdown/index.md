@@ -63,6 +63,7 @@ Research Publications
 Organization Services
 ---------------------
 *Program Committee*
+: EASE 2022 for the Research Track
 : ISEC 2022 for the Doctoral Symposium
 : ESEC/FSE 2021 for the Student Research Competition
 : ASE 2020 for the International Workshop on Sustainable Software Engineering
