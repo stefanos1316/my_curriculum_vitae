@@ -196,7 +196,7 @@ utilitydata.structures.counters.collected={
  },
  ["itemgroup:itemize"]={
   { 0, 2, 3 },
-  { 0, 2, 0, 3, 0, 0, 5, 0, 3, 0, 7 },
+  { 0, 3, 0, 3, 0, 0, 5, 0, 3, 0, 7 },
  },
  ["linenote"]={
   { 0 },
@@ -398,7 +398,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=14,
    ["order"]=9,
-   ["realpage"]=2,
+   ["realpage"]=3,
    ["section"]=5,
   },
   ["titledata"]={
@@ -667,7 +667,7 @@ if not utilitydata.structures.references then utilitydata.structures.references 
 utilitydata.structures.references.referred={
  { 1, 1 },
  { 2, 13 },
- { 3, 28 },
+ { 3, 27 },
  { 4, 51 },
 }
 
