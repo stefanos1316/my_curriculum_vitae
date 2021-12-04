@@ -25,7 +25,7 @@ Education
 
     Thesis title: *Energy and Run-Time Performance Practices in Software Engineering*; [Thesis](phd_thesis.pdf)
  
-    PhD advisors: (Main)[Prof. Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/), [Prof. Panos Louridas](https://www.balab.aueb.gr/panos-panagiotis-louridas.html), and [Rizos Sakellariou](http://www.cs.man.ac.uk/~rizos/)
+    PhD advisors: (Main) [Prof. Diomidis Spinellis](https://www2.dmst.aueb.gr/dds/), [Prof. Panos Louridas](https://www.balab.aueb.gr/panos-panagiotis-louridas.html), and [Rizos Sakellariou](http://www.cs.man.ac.uk/~rizos/)
 
 2013-2015
 :   **MSc, Pervasive Computing and Communications for Sustainable Development (PERCCOM)**; Erasmus Mundus Joint Master Degree 
