@@ -5,7 +5,7 @@ Stefanos Georgiou
 
 >  **Current location**: Kingston, ON, Canada
 
->  **Contact details**: first name 1316 at gmail dot com, first name dot family name at queensu dot com
+>  **Contact details**: first name 1316 at gmail dot com, first name dot family name at queensu dot ca
 
 >  **About me**: I am passionated with research, [coding](https://stefanos1316.github.io/programmers_blog/), integrating new technologies, and automating cumbersome tasks. My research interests lie to Green and Energy-Efficient Computing, Mining Software Repositories, and Machine Learning. I enjoy working on the command-line and especially with Linux systems. I love to create small indepentant componets and tools to facilitate different daily functionalities. On my free time, I enjoy sporting, reading books, and [travelling](https://stefanos1316.github.io/my_blog/index.html). 
 
@@ -140,8 +140,8 @@ Jan 2016-2019
 Technical Experience
 --------------------
 *Back-End*
-:   BASH (Often automating cumbersome and time consuming tasks)
-:   NodeJS (Fan of KOA, prefer Mocha-Chai, like to use Native Addons for performance)
+:   BASH and SHELL (Often automating cumbersome and time consuming tasks)
+:   NodeJS (Fan of KOA and Express, prefer Mocha-Chai, like to use Native Addons for performance)
 :   Java (Was also teaching it at the Athens University of Economics and Business)
 :   Python (No need to read tutorials, feeling confy to code anytime)
 :   C (First language to learn and impressed by its performance)
@@ -149,9 +149,9 @@ Technical Experience
 :   MongoDB ([Basics](mongodb_m001,pdf), [Aggregations](mongodb_m121.pdf), [JavaScript](mongodb_m220.pdf), and [Performance](mongodb_m201.pdf))
 
 *DevOps*
-:   Continuous Integration and Deployment (Big fan of CI/CD Travis, GitLab, and Actions)
-:   Code Quality (Coveralls, maven-plugins, Style-Checkers, Reports, and pre-commit hooks)
-:   Hosting (Firbase, Docker, and Google App Engine)
+:   Continuous Integration and Deployment (Big fan of CI/CD Travis, GitLab, and GitHub Actions)
+:   Code Quality (Coveralls, maven-plugins, Style-Checkers, Reports, Prettier, and pre-commit hooks)
+:   Hosting (Firebase, AWS, and Google App Engine)
 :   Mobile CI/CD (Bitrise with Cordova wrapper for mobile apps)
 :   Configuration Management (Ansible because it uses YAML)
 
@@ -167,7 +167,7 @@ Technical Experience
 :  Unix Tools: [Data, Software, and Production Engineering](unix_tools_edx.pdf)
 
 *Course Completion*
-:  MongoDB: [Basics](mongodb_m001.pdf), [Aggregation](mongodb_m121.pdf), [JavaScript](mongodb_m220.pdf), [Performance](mongodb_m201.pdf)
+:  MongoDB: [Basics](mongodb_m001.pdf), [Aggregation](mongodb_m121.pdf), [JavaScript](mongodb_m220.pdf), and [Performance](mongodb_m201.pdf)
 
 <script
   src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"
@@ -211,8 +211,8 @@ Grands, Awards, Achievements, Languages, and Living Abroad
     * Biked in Delft, the Netherlands for my PhD secondment (Half month of Sept. 2017) 
 
 
-My Academic Tree
-----------------
+My Academic Genealogy Tree
+--------------------------
 <p align="center">
 <table class="image">
 <tr><td> <img src="academic_genealogy_tree.jpg" style="width: 900px;" /></td></tr>
