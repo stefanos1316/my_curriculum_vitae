@@ -17,7 +17,7 @@ structure       > sectioning > section @ level 3 : 0.0.1 -> Stefanos Georgiou
 structure       > sectioning > subsection @ level 4 : 0.0.1.1 -> Education
 structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> Research Publications
 
-Overfull \hbox (0.19981pt too wide) in paragraph at lines 165--172
+Overfull \hbox (0.19981pt too wide) in paragraph at lines 171--178
  [][][] <10: texgyreheros-bold @ 11.0pt> Ste-fanos Geor-giou<1: texgyreheros-regular @ 11.0pt> *, Maria Kecha-gia, Tushar Sharma, Fed-er-ica Sarro, and Jenny Zou. Green
 
 \hbox(11.62192+4.51962)x483.69687, glue set - 1.0, direction TLT
@@ -38,7 +38,7 @@ Overfull \hbox (0.19981pt too wide) in paragraph at lines 165--172
 backend         > xmp > using file '/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml'
 pages           > flushing realpage 1, userpage 1, subpage 1
 
-Overfull \hbox (8.61821pt too wide) in paragraph at lines 201--207
+Overfull \hbox (8.61821pt too wide) in paragraph at lines 207--213
  [][][] <10: texgyreheros-bold @ 11.0pt> Ste-fanos Geor-giou <1: texgyreheros-regular @ 11.0pt> and Dio-midis Spinel-lis. Energy-Delay In-ves-ti-ga-tion of Re-mote Inter-Process
 
 \hbox(11.62192+4.51962)x483.69687, glue set - 1.0, direction TLT
@@ -58,11 +58,11 @@ Overfull \hbox (8.61821pt too wide) in paragraph at lines 201--207
 
 structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> Organization Services
 structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> Invited Talks
-structure       > sectioning > subsection @ level 4 : 0.0.1.5 -> Teaching Experience
 pages           > flushing realpage 2, userpage 2, subpage 2
+structure       > sectioning > subsection @ level 4 : 0.0.1.5 -> Teaching Experience
 structure       > sectioning > subsection @ level 4 : 0.0.1.6 -> Industrial Experience
 
-Overfull \hbox (10.04007pt too wide) in paragraph at lines 301--304
+Overfull \hbox (10.04007pt too wide) in paragraph at lines 307--310
  []<10: texgyreheros-bold @ 11.0pt> Back-end de-vel-oper, De-vOps, and In-te-gra-tions: All-Can-Code Inc. Greek Branch 
 
 \hbox(11.62192+4.51962)x483.69687, glue set - 1.0, direction TLT
@@ -83,23 +83,7 @@ Overfull \hbox (10.04007pt too wide) in paragraph at lines 301--304
 structure       > sectioning > subsection @ level 4 : 0.0.1.7 -> Technical Experience
 pages           > flushing realpage 3, userpage 3, subpage 3
 
-Overfull \hbox (1.65393pt too wide) in paragraph at lines 385--387
- []<1: texgyreheros-regular @ 11.0pt> Code Qual-ity (Cov-er-alls, maven-plugins, Style-Checkers, Re-ports, and pre-commit
-
-\hbox(8.21819+2.39835)x483.69687, glue set - 1.0, direction TLT
-.\glue(\leftskip) 91.0488
-.\localpar
-..\localinterlinepenalty=0
-..\localbrokenpenalty=0
-..\localleftbox=null
-..\localrightbox=null
-.\hbox(0.0+0.0)x0.0, direction TLT
-.<1: texgyreheros-regular @ 11.0pt> C
-.<1: texgyreheros-regular @ 11.0pt> o
-.etc.
-
-
-Overfull \hbox (7.02754pt too wide) in paragraph at lines 396--399
+Overfull \hbox (7.02754pt too wide) in paragraph at lines 402--405
  []<1: texgyreheros-regular @ 11.0pt> Epi-dose: A privacy-preserving epi-demic dosime-ter based on con-tact trac-ing <10: texgyreheros-bold @ 11.0pt> Repos-
 
 \hbox(11.62192+4.51962)x483.69687, glue set - 1.0, direction TLT
@@ -119,7 +103,7 @@ Overfull \hbox (7.02754pt too wide) in paragraph at lines 396--399
 
 structure       > sectioning > subsection @ level 4 : 0.0.1.8 -> Grands, Awards, Achievements, Languages, and Living Abroad
 pages           > flushing realpage 4, userpage 4, subpage 4
-structure       > sectioning > subsection @ level 4 : 0.0.1.9 -> My Academic Tree
+structure       > sectioning > subsection @ level 4 : 0.0.1.9 -> My Academic Genealogy Tree
 pages           > flushing realpage 5, userpage 5, subpage 5
 close source    > level 2, order 4, name 'web/index.tex'
 close source    > level 1, order 4, name '/usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv'
@@ -156,10 +140,10 @@ system          > stop used files
 
 system          > start commandline options
 
-system          > currentrun="2"
+system          > currentrun="1"
 system          > fulljobname="web/index.tex"
 system          > input="web/index.tex"
-system          > kindofrun="2"
+system          > kindofrun="1"
 system          > maxnofruns="9"
 system          > result="web/index.pdf"
 system          > texmfbinpath="/usr/bin"
@@ -182,27 +166,27 @@ modules         > stop used modules
 
 mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/sgeorgiou/.texlive2019/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
-mkiv lua stats  > resource resolver: loadtime 0.115 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 17 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 443 modules (0.257 sec), 93 tables (0.009 sec), 536 chunks (0.265 sec)
+mkiv lua stats  > resource resolver: loadtime 0.127 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 17 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 443 modules (0.294 sec), 93 tables (0.009 sec), 536 chunks (0.303 sec)
 mkiv lua stats  > traced context: maxstack: 1369, freed: 0, unreachable: 1369
 mkiv lua stats  > cleaned up reserved nodes: 62 nodes, 9 lists of 440
 mkiv lua stats  > node memory usage: 1 glue, 3 kern, 2 penalty, 14 attribute, 50 glue_spec, 4 attribute_list, 2 temp, 2 user_defined
-mkiv lua stats  > node list callback tasks: 8 unique task lists, 7 instances (re)created, 1243 calls
-mkiv lua stats  > h-node processing time: 0.016 seconds including kernel
-mkiv lua stats  > driver time: 0.062 seconds 
+mkiv lua stats  > node list callback tasks: 8 unique task lists, 7 instances (re)created, 1250 calls
+mkiv lua stats  > h-node processing time: 0.019 seconds including kernel
+mkiv lua stats  > driver time: 0.069 seconds 
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
 mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
-mkiv lua stats  > callbacks: internal: 2217, file: 946, direct: 2, late: 112, function 1572, total: 4849 (1212 per page)
+mkiv lua stats  > callbacks: internal: 2229, file: 953, direct: 2, late: 112, function 1572, total: 4868 (1217 per page)
 mkiv lua stats  > randomizer: resumed with value 0.10956840123981
 mkiv lua stats  > result saved in file: web/index.pdf.pdf, compresslevel 3, objectcompresslevel 1
 mkiv lua stats  > loaded patterns: en::1, load time: 0.000
 mkiv lua stats  > interactive elements: 72 references, 30 destinations
 mkiv lua stats  > loaded fonts: 6 files: latinmodern-math.otf, lmmono10-regular.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > font engine: otf 3.107, afm 1.513, tfm 1.000, 15 instances, 7 shared in backend, 3 common vectors, 4 common hashes, load time 0.154 seconds 
+mkiv lua stats  > font engine: otf 3.107, afm 1.513, tfm 1.000, 15 instances, 7 shared in backend, 3 common vectors, 4 common hashes, load time 0.179 seconds 
 mkiv lua stats  > pdf annotations: 72 links (72 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
 mkiv lua stats  > used engine: luatex version 1.1 with functionality level 7127, banner: this is luatex, version 1.10.0 (tex live 2019/debian)
-mkiv lua stats  > control sequences: 45571 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 157 MB (ctx: 157 MB), hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 0.641 seconds, 5 processed pages, 5 shipped pages, 7.800 pages/second
+mkiv lua stats  > control sequences: 45572 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 151 MB (ctx: 151 MB), hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 0.730 seconds, 5 processed pages, 5 shipped pages, 6.849 pages/second
 

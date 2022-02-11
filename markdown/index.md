@@ -3,6 +3,8 @@ Stefanos Georgiou
 
 ----
 
+>  **NOTE**: Please use the online CV (https://stefanos1316.github.io/my_curriculum_vitae/) because some fonts and pictures are not printed in the PDF format
+
 >  **Current location**: Kingston, ON, Canada
 
 >  **Contact details**: first name 1316 at gmail dot com, first name dot family name at queensu dot ca
@@ -48,7 +50,7 @@ Research Publications
 ---------------------
 * Conference Papers
      * __Stefanos Georgiou__*, Maria Kechagia, Tushar Sharma, Federica Sarro, and Jenny Zou. Green AI: Do Deep Learning Frameworks Have Different Costs? In 44th International Conference on Software Engineering: Technical Track, ICSE '22. New York, NY, USA, May 2022. Association for Computing Machinery. <br />
-__Pre-print__ to appear shrotly.
+[[Paper](GKSSZ22.pdf)] [[BibTex]()]
      * __Stefanos Georgiou__, Maria Kechagia Panos Louridas, and Diomidis Spinellis. What Are Your Programming Language’s Energy-Delay Implications? In 15th International Conference on Mining Software Repositories: Technical Track, MSR '18. New York, NY, USA, May 2018. Association for Computing Machinery. <br /> 
 [[Paper](GKLS18.pdf)] [[BibTex](GKLS18.bib)] [[Presentation](https://www.slideshare.net/GeorgiouStefanos/what-are-your-programming-languages-energydelay-implications-106251480)] [[Data-set](https://github.com/stefanos1316/Rosetta_Code_Data_Set)]
      * __Stefanos Georgiou__, Maria Kechagia, and Diomidis Spinellis. Analyzing Programming Languages' Energy Consumption: An Empirical Study. In PCI 2017: Proceedings of the 21st Pan-Hellenic Conference on Informatics, ACM International Conference Proceeding Series. ACM Press, September 2017. <br/>

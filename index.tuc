@@ -306,7 +306,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=7,
-   ["realpage"]=1,
+   ["realpage"]=2,
    ["reference"]="research-publications",
    ["section"]=3,
   },
@@ -604,12 +604,12 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=30,
    ["realpage"]=5,
-   ["reference"]="my-academic-tree",
+   ["reference"]="my-academic-genealogy-tree",
    ["section"]=10,
   },
   ["titledata"]={
    ["label"]="subsection",
-   ["title"]="My Academic Tree",
+   ["title"]="My Academic Genealogy Tree",
   },
  },
 }
