@@ -98,8 +98,8 @@ Gave Java lectures and tutorials for the 1st and 2nd Coding Boot Camp in Athens,
 [[Repository](https://github.com/codeandwork/courses)] [[Proof](boot_camp_athens_2016_2017.pdf)]
 
 
-Industrial Experience
----------------------
+Experience from Industry
+------------------------
 Feb 2021-currently
 :   **Back-end developer and DevOps:** [Boro](http://www.borocard.com/)
 
