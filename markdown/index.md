@@ -3,7 +3,7 @@ Stefanos Georgiou
 
 ----
 
->  **Contact details**: first name 1316 at gmail dot com, first name dot family name at queensu dot ca
+>  **Contact details**: first name 1316 at gmail dot com, sgeorgiou at name at borocard dot com
 
 >  **About me**: I am passionated with research, [coding](https://stefanos1316.github.io/programmers_blog/), integrating new technologies, and automating cumbersome tasks. My research interests lie to Green and Energy-Efficient Computing, Mining Software Repositories, and Machine Learning. I enjoy working on the command-line and especially with Linux systems. I love to create small indepentant componets and tools to facilitate different daily functionalities. On my free time, I enjoy sporting, reading books, and [travelling](https://stefanos1316.github.io/my_blog/index.html). 
 
@@ -11,7 +11,7 @@ Stefanos Georgiou
 
 Education
 ---------
-2021-current
+2021-2022
 :   **PostDoctoral, Electrical and Computer Engineering**; Queen's University
 
     Lab name: Software Evolution and Analytics Lab
@@ -84,7 +84,8 @@ Tutorials
 :   *Travis CI with CV template tutorial* presented on 7th of June 2018 at ITMO Univesity of Saint Petersburg for PERCCOM Master students in Saint-Petersburg, Russia. [Presentation](https://aueb-balab.github.io/courses/tools/travis_ci_cv_template-p.html#/)
 
 Research
-:   *What are your programming language's energy-delay implications?* presented on 12th of June 2018 at PERCCOM's Summer School in Lappeenranta, Finland. [Proof](perccom_summer_school_2018.pdf)  
+:   *Saving Energy in Software Development by Making the Right Choices* presented on the 4th of March 2022 at Sustainable Software Engineering lecture of TU Delft. [Presentation](https://tudelft.zoom.us/rec/play/5hMydhFhbQjzQonYH6CuSdD3iIGGd6nqEFmYbuT8gd_-0c0uS9L5cgzCbtHnW1bhbE5ZBUP_Wi5tsu2-.a5o7ggYccw7UJ65R?continueMode=true&_x_zm_rtaid=vsffdTXoSwOo6_1ITMqcVg.1646419616427.8eaf7f4a43123fd65c05f4005b1c483d&_x_zm_rhtaid=587) [Slides](https://docs.google.com/presentation/d/1mywyQ8ydxHYrbRYdSJhAiQnJnSYD3DXe/edit#slide=id.p1)
+:   *What are your programming language's energy-delay implications?* presented on the 12th of June 2018 at PERCCOM's Summer School in Lappeenranta, Finland. [Proof](perccom_summer_school_2018.pdf)  
 
 
 Teaching Experience
@@ -99,7 +100,23 @@ Gave Java lectures and tutorials for the 1st and 2nd Coding Boot Camp in Athens,
 
 Industrial Experience
 ---------------------
-Sep 2020-current
+Feb 2021-currently
+:   **Back-end developer and DevOps:** [Boro](http://www.borocard.com/)
+
+    Coordinating the development of a savings management mobile application.
+
+    *Responsibilities*
+
+    :    Developing server via NodeJS and MongoDB to host appliaction and manage its clients.
+
+    :    Created the CI pipeline of the back-end repository.
+
+    :    Manage the AWS hosting of the server.
+
+    :    Established all pre-commit hooks to check commits source code quality.
+
+
+Sep 2020-Feb 2021
 :   **Software Developer** [Greek Free, Open Source Software](https://gfoss.eu/)
 
     Developing a privacy-preserving epidemic dosimeter based on contact tracing. [Proof](gfoss_2020.pdf) [Repository](https://github.com/eellak/epidose.git)
