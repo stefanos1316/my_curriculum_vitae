@@ -1,7 +1,11 @@
-Stefanos Georgiou
-=================
+Dr. Stefanos Georgiou
+=====================
 
 ----
+
+>  **Location preference**: Remote position
+
+>  **Keywords**:  Performance Researcher, Back-End, DevOps, Automations, and Integrations
 
 >  **Contact details**: first name 1316 at gmail dot com, sgeorgiou at name at borocard dot com
 
@@ -9,7 +13,7 @@ Stefanos Georgiou
 
 ----
 
-Education
+EDUCATION
 ---------
 2016-2021
 :   **PhD, Computer Science**; Athens University of Economics and Business
@@ -35,73 +39,80 @@ Education
     Thesis title: *Implementation and Evaluation of the Biologically -- Inspired AntHocNet Routing Protocol in Sensor Network*; [Degree](bsc_cyprus.pdf)
 
 
-Work
+WORK
 ----
-Feb 2021-currently (Part time and full time since Feb 2022)
+Feb 2021 - currently
 :   **Back-end developer and DevOps:** [Boro](http://www.borocard.com/)
 
     Coordinating the development of a savings management mobile application.
+    Start as **part time** and became **full time** since Feb 2022.
 
-    *Responsibilities*
+    *Tasks:*
 
-    :    Developing server via NodeJS and MongoDB to host appliaction and manage its clients.
+    :    Developing server via [NodeJS](https://nodejs.org/en/) to host appliaction and manage its clients.
+
+    :    Used Stripe and Belvo to manage user savings.
+
+    :    Developed server logging mechnisms and cron jobs to store logs and configs on the cloud.
 
     :    Created the CI pipeline of the back-end repository.
 
-    :    Manage the AWS hosting of the server.
+    :    Manage the AWS hosting and Mongo Atlas for production server.
 
-    :    Established all pre-commit hooks to check commits source code quality.
+    :    Established pre-commit hooks to check commits source code quality and unused module removal.
 
-2021-2022 (Full time)
+Feb 2021 - Feb2022
 :   **PostDoctoral, Electrical and Computer Engineering**; Queen's University
 
-    Lab name: Software Evolution and Analytics Lab
+    Working as a **full time** researcher for the Software Analytics and Evolution Lab,
     
-    *Responsibilities*
+    *Tasks:*
 
-    :    Conducting research studies
+    :    Conducted research studies on Green Software Development.
     
     :    Assisting PhD and Master students in their research projects.
 
 
-Sep 2020-Feb 2021
+Sep 2020 - Feb 2021
 :   **Software Developer** [Greek Free, Open Source Software](https://gfoss.eu/)
 
-    Developing a privacy-preserving epidemic dosimeter based on contact tracing. [Proof](gfoss_2020.pdf) [Repository](https://github.com/eellak/epidose.git)
+    Developing a privacy-preserving epidemic dosimeter based on contact tracing (**full time**). [Proof](gfoss_2020.pdf) [Repository](https://github.com/eellak/epidose.git)
     
-    *Responsibilities*
+    *Tasks:*
     
     :    Developing [Python](https://www.python.org/), [Shell](https://www.gnu.org/software/bash/), and [Ansible](https://www.ansible.com/) scripts on a Raspberry Pi Zero
     
-    :    Extented testing for the correct functionality of the device
+    :    Extented testing for the correct functionality of the device.
 
-Jan 2019-Apr 2020
+    :    Preapred scripts to automate the deployment of the software in the Raspberry Pi devices and the server.
+
+Jan 2019 - Apr 2020
 :   **Back-end developer, DevOps, and Integrations:** [AllCanCode Inc. Greek Branch](https://www.allcancode.com/)
 
-    Supported the product development that facilitates fast web-sites development (by using [Blockly](https://developers.google.com/blockly)) on Desktop that can be exported in smart-phones as well.
+    Supported the product that facilitates fast web-sites development (by using [Blockly](https://developers.google.com/blockly)) on Desktop that can be exported in smart-phones as well (**part time**).
 
-    *Responsibilities*   
+    *Tasks:*   
  
-    :    Development of API end-points in JavaScript ([Node.JS](https://nodejs.org/en/)) and [MongoDB](https://www.mongodb.com/) for the server platform (product) and customer products
+    :    Development of API end-points in JavaScript ([Node.JS](https://nodejs.org/en/)) and [MongoDB](https://www.mongodb.com/) for the server platform (product) and customer products.
 
-    :    Creation of the CI system for the product (in GitLab) to perform back-end and front-end testing (through [Mocha](https://mochajs.org/) and [Cypress](https://www.cypress.io/) frameworks, respectively) and CD to auto-deploy product (for specific push branches) on Google's App Engine (Aurora, Beta, and Production) using the [Flex environment](https://cloud.google.com/appengine/docs/flexible)
+    :    Creation of the CI/CD pipeline for the product (in GitLab) to perform back-end and front-end testing (through [Mocha](https://mochajs.org/), [Chai](https://www.chaijs.com/) and [Cypress](https://www.cypress.io/) frameworks, respectively) and auto-deploy product on Google's App Engine (Aurora, Beta, and Production) using the [Flex environment](https://cloud.google.com/appengine/docs/flexible).
 
-    :    Migration of monolithic product to micro-services using [Firebase hosting](https://firebase.google.com/docs/hosting), [Cloud Functions](https://firebase.google.com/docs/functions), and [Cloud Run](https://cloud.google.com/run)
+    :    Migration products functions to cloud functions using [Firebase hosting](https://firebase.google.com/docs/hosting), [Cloud Functions](https://firebase.google.com/docs/functions), and [Cloud Run](https://cloud.google.com/run).
 
-    :    Integration of [Bitrise](https://www.bitrise.io/) system in the product to allow platform users in exporting their Desktop applications to Android and iOS smart-phones through the [Cordova](https://cordova.apache.org/) wrapper
+    :    Integration of [Bitrise](https://www.bitrise.io/) system in the product to allow platform users to export their Desktop applications to Android and iOS through the [Cordova](https://cordova.apache.org/) wrapper.
 
-Jan 2016-2019
+Jan 2016 - Jan 2019
 :   **Proposals writing:** [Singular Logic S.A.](https://portal.singularlogic.eu/en)
 
-    Proposals writing for the European Projects Department. [Proof](singular_logic_2016-2019.pdf)
+    Proposals writing for the European Projects Department as **part time**. [Proof](singular_logic_2016-2019.pdf)
  
-    *Responsibilities*
+    *Tasks:*
     
     :    Writing research proposals for Horizon 2020
 
 
-Technical Experience
---------------------
+TECH SKILLSET
+-------------
 *Back-End*
 :   BASH and SHELL (Often automating cumbersome and time consuming tasks)
 :   NodeJS (Fan of KOA and Express, prefer Mocha-Chai, like to use Native Addons for performance)
@@ -110,10 +121,12 @@ Technical Experience
 :   C (First language to learn and impressed by its performance)
 :   C++ (Second to learn, but as soon as I learned Java I stopped using it)
 :   MongoDB ([Basics](mongodb_m001,pdf), [Aggregations](mongodb_m121.pdf), [JavaScript](mongodb_m220.pdf), and [Performance](mongodb_m201.pdf))
+:   Code Quality (Coveralls, maven-plugins, Style-Checkers, ESLint, Prettier, and pre-commit hooks)
+:   Pre-commit hooks (creating my own pre-commit hooks to ease cumbersome tasks)
 
 *DevOps*
 :   Continuous Integration and Deployment (Big fan of CI/CD Travis, GitLab, and GitHub Actions)
-:   Code Quality (Coveralls, maven-plugins, Style-Checkers, Reports, Prettier, and pre-commit hooks)
+:   Docker Containers and Compose (to facilitate the deployment and execution of applications)
 :   Hosting (Firebase, AWS, and Google App Engine)
 :   Mobile CI/CD (Bitrise with Cordova wrapper for mobile apps)
 :   Configuration Management (Ansible because it uses YAML)
@@ -123,7 +136,6 @@ Technical Experience
 :   Exam Questionnaire Scanner: [Repository](https://github.com/AntonisGkortzis/ExamQuestionnaireScanner)
 :   Measuring Energy Consumption: [Software](https://github.com/stefanos1316/SEMTs_Comparisson) and [Hardware](https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/) tools
 :   Programming II website: [Repository](https://github.com/stefanos1316/courses)
-:   Rosetta Code Experiement: [Repository](https://github.com/stefanos1316/Rosetta_Code_Data_Set)
 :   Validate Links: [Repository](https://github.com/stefanos1316/validateLinks)
 
 *Certificates*
@@ -150,14 +162,14 @@ Technical Experience
 </script>
 
 
-Grands, Awards, Achievements, Languages, and Living Abroad
+GRANDS, AWARDS, LANGUAGES, AND LIVING ABROAD
 --------------------------------------------
 * Grands and awards:
      * [Arctic Code Vault Contributor](arctic_code_contributor.jpg)
      * Mentored younger researcher [who won 2nd place](fse19.pdf) in SRC ESEC/FSE '19.
      * Best paper award from the 15th Annual DMST Student Conference (2018)
      * Marie Skłodowska-Curie funds, [SENECA](https://portal.singularlogic.eu/en/eu-project/12374/seneca) (2016-2019)
-     * Erasmus Mundus Masters Scholarship, PERCCOM (2013-2015)
+     * Erasmus Mundus Masters Scholarship, PERCCOM (€ 12,0000)
 
 * Human Languages:
      * Greek/Hungarian (Native speaker)
@@ -172,15 +184,5 @@ Grands, Awards, Achievements, Languages, and Living Abroad
     * Drunk vodka and ate borsh in Saint-Petersburg, Russia (Spring Semester of 2015)
     * Teaching in Athens and visiting islands in Greece (Fall Semester of 2016 till now) 
     * Biked in Delft, the Netherlands for my PhD secondment (Half month of Sept. 2017) 
-
-
-My Academic Genealogy Tree
---------------------------
-<p align="center">
-<table class="image">
-<tr><td> <img src="academic_genealogy_tree.jpg" style="width: 900px;" /></td></tr>
-<tr><td class="caption" align="center">Zoom-in for more details</td></tr>
-</table>
-</p>
 
 ------------------------------------------
