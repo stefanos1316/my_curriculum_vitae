@@ -44,7 +44,7 @@ EDUCATION
 WORK
 ----
 2021 -- currently
-:   **Back-end developer and DevOps:** [Boro](http://www.borocard.com/)
+:   **Back-end developer and DevOps:** [Borocard](http://www.borocard.com/) (Remote position)
 
     Coordinating the development of a savings management mobile application.
     Start as **part time** and became **full time** since Feb 2022.
@@ -151,7 +151,7 @@ GRANDS, AWARDS, LANGUAGES, AND LIVING ABROAD
      * [Arctic Code Vault Contributor](arctic_code_contributor.jpg)
      * Mentored younger researcher [who won 2nd place](fse19.pdf) in SRC ESEC/FSE '19.
      * Best paper award from the 15th Annual DMST Student Conference (2018)
-     * Marie Skłodowska-Curie funds, [SENECA](https://portal.singularlogic.eu/en/eu-project/12374/seneca) (2016-2019)
+     * Marie Skłodowska-Curie funds, [SENECA](https://portal.singularlogic.eu/en/eu-project/12374/seneca) (€ 62,400)
      * Erasmus Mundus Masters Scholarship, PERCCOM (€ 12,0000)
 
 * Human Languages:
