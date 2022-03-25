@@ -19,7 +19,7 @@ structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> WORK
 backend         > xmp > using file '/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml'
 pages           > flushing realpage 1, userpage 1, subpage 1
 
-Overfull \hbox (10.04007pt too wide) in paragraph at lines 219--222
+Overfull \hbox (10.04007pt too wide) in paragraph at lines 224--227
  []<10: texgyreheros-bold @ 11.0pt> Back-end de-vel-oper, De-vOps, and In-te-gra-tions: All-Can-Code Inc. Greek Branch 
 
 \hbox(11.62192+4.51962)x483.69687, glue set - 1.0, direction TLT
@@ -38,7 +38,7 @@ Overfull \hbox (10.04007pt too wide) in paragraph at lines 219--222
 .etc.
 
 
-Overfull \hbox (5.0299pt too wide) in paragraph at lines 223--228
+Overfull \hbox (5.0299pt too wide) in paragraph at lines 228--233
  []<1: texgyreheros-regular @ 11.0pt> Sup-ported the prod-uct that fa-cil-i-tates fast web-sites de-vel-op-ment (by us-ing <10: texgyreheros-bold @ 11.0pt> Blockly<1: texgyreheros-regular @ 11.0pt> )
 
 \hbox(8.21819+2.40935)x483.69687, glue set - 1.0, direction TLT
@@ -55,44 +55,8 @@ Overfull \hbox (5.0299pt too wide) in paragraph at lines 223--228
 
 structure       > sectioning > subsection @ level 4 : 0.0.1.3 -> TECH SKILLSET
 pages           > flushing realpage 2, userpage 2, subpage 2
-
-Overfull \hbox (0.38724pt too wide) in paragraph at lines 302--304
- []<1: texgyreheros-regular @ 11.0pt> Pre-commit hooks (cre-at-ing my own pre-commit hooks to ease cum-ber-some tasks) 
-
-\hbox(8.02016+2.39835)x483.69687, glue set - 1.0, direction TLT
-.\glue(\leftskip) 91.0488
-.\localpar
-..\localinterlinepenalty=0
-..\localbrokenpenalty=0
-..\localleftbox=null
-..\localrightbox=null
-.\hbox(0.0+0.0)x0.0, direction TLT
-.<1: texgyreheros-regular @ 11.0pt> P
-.<1: texgyreheros-regular @ 11.0pt> r
-.etc.
-
-
-Overfull \hbox (7.02754pt too wide) in paragraph at lines 321--324
- []<1: texgyreheros-regular @ 11.0pt> Epi-dose: A privacy-preserving epi-demic dosime-ter based on con-tact trac-ing <10: texgyreheros-bold @ 11.0pt> Repos-
-
-\hbox(11.62192+4.51962)x483.69687, glue set - 1.0, direction TLT
-.\glue(\leftskip) 91.0488
-.\localpar
-..\localinterlinepenalty=0
-..\localbrokenpenalty=0
-..\localleftbox=null
-..\localrightbox=null
-.\hbox(11.62192+4.51962)x0.0, glue set - 91.0488fil, direction TLT
-..\glue 0.0 plus 1.0fil minus 1.0fil
-..\hbox(11.62192+4.51962)x91.0488, direction TLT
-...\hbox(11.62192+4.51962)x91.0488, glue set 39.83385fil, direction TLT []
-.\penalty 10000
-.<1: texgyreheros-regular @ 11.0pt> E
-.etc.
-
 structure       > sectioning > subsection @ level 4 : 0.0.1.4 -> GRANDS, AWARDS, LANGUAGES, AND LIVING ABROAD
 pages           > flushing realpage 3, userpage 3, subpage 3
-pages           > flushing realpage 4, userpage 4, subpage 4
 close source    > level 2, order 4, name 'web/index.tex'
 close source    > level 1, order 4, name '/usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv'
 
@@ -118,9 +82,9 @@ system          >   10: filename=texgyreheros-regular filetype=otf format=otf fo
 system          >   11: filename=latinmodern-math.otf filetype=opentypefonts foundname=/usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf fullname=/usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
 system          >   12: filename=texgyreheros-bold filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf fullname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf usedmethod=database
 system          >   13: filename=texgyreheros-italic filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf fullname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf usedmethod=database
-system          >   14: filename=texgyreheros-bolditalic filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf fullname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf usedmethod=database
-system          >   15: filename=pdftex.map filetype=map format=map foundname=/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map fullname=/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map usedmethod=database
-system          >   16: filename=lpdf-pdx.xml filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml fullname=/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+system          >   14: filename=pdftex.map filetype=map format=map foundname=/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map fullname=/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map usedmethod=database
+system          >   15: filename=lpdf-pdx.xml filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml fullname=/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+system          >   16: filename=texgyreheros-bolditalic filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf fullname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf usedmethod=database
 system          >   17: filename=lmmono10-regular filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf fullname=/usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf usedmethod=database
 
 system          > stop used files
@@ -128,10 +92,10 @@ system          > stop used files
 
 system          > start commandline options
 
-system          > currentrun="1"
+system          > currentrun="2"
 system          > fulljobname="web/index.tex"
 system          > input="web/index.tex"
-system          > kindofrun="1"
+system          > kindofrun="2"
 system          > maxnofruns="9"
 system          > result="web/index.pdf"
 system          > texmfbinpath="/usr/bin"
@@ -154,26 +118,26 @@ modules         > stop used modules
 
 mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/sgeorgiou/.texlive2019/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
-mkiv lua stats  > resource resolver: loadtime 0.011 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 17 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 443 modules (0.154 sec), 93 tables (0.009 sec), 536 chunks (0.162 sec)
+mkiv lua stats  > resource resolver: loadtime 0.015 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 17 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 443 modules (0.183 sec), 93 tables (0.013 sec), 536 chunks (0.196 sec)
 mkiv lua stats  > traced context: maxstack: 1369, freed: 0, unreachable: 1369
 mkiv lua stats  > cleaned up reserved nodes: 62 nodes, 9 lists of 440
 mkiv lua stats  > node memory usage: 1 glue, 3 kern, 2 penalty, 14 attribute, 50 glue_spec, 4 attribute_list, 2 temp, 2 user_defined
-mkiv lua stats  > node list callback tasks: 8 unique task lists, 7 instances (re)created, 1017 calls
-mkiv lua stats  > h-node processing time: 0.012 seconds including kernel
+mkiv lua stats  > node list callback tasks: 8 unique task lists, 7 instances (re)created, 896 calls
+mkiv lua stats  > h-node processing time: 0.011 seconds including kernel
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
-mkiv lua stats  > jobdata time: 0.001 seconds saving, 0.000 seconds loading
-mkiv lua stats  > callbacks: internal: 1792, file: 865, direct: 2, late: 83, function 1382, total: 4124 (1375 per page)
-mkiv lua stats  > randomizer: resumed with value 0.10956840123981
+mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.000 seconds loading
+mkiv lua stats  > callbacks: internal: 1663, file: 844, direct: 2, late: 70, function 1341, total: 3920 (1960 per page)
+mkiv lua stats  > randomizer: resumed with value 0.21479354798794
 mkiv lua stats  > result saved in file: web/index.pdf.pdf, compresslevel 3, objectcompresslevel 1
 mkiv lua stats  > loaded patterns: en::1, load time: 0.000
-mkiv lua stats  > interactive elements: 55 references, 23 destinations
+mkiv lua stats  > interactive elements: 48 references, 17 destinations
 mkiv lua stats  > loaded fonts: 6 files: latinmodern-math.otf, lmmono10-regular.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > font engine: otf 3.107, afm 1.513, tfm 1.000, 15 instances, 7 shared in backend, 3 common vectors, 4 common hashes, load time 0.154 seconds 
-mkiv lua stats  > pdf annotations: 55 links (55 unique), 0 special
+mkiv lua stats  > font engine: otf 3.107, afm 1.513, tfm 1.000, 15 instances, 7 shared in backend, 3 common vectors, 4 common hashes, load time 0.162 seconds 
+mkiv lua stats  > pdf annotations: 48 links (48 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
 mkiv lua stats  > used engine: luatex version 1.1 with functionality level 7127, banner: this is luatex, version 1.10.0 (tex live 2019/debian)
-mkiv lua stats  > control sequences: 45572 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 93 MB (ctx: 93 MB), hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 0.468 seconds, 4 processed pages, 4 shipped pages, 8.547 pages/second
+mkiv lua stats  > control sequences: 45571 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 91 MB (ctx: 91 MB), hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 0.503 seconds, 3 processed pages, 3 shipped pages, 5.964 pages/second
 
