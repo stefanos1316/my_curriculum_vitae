@@ -4,8 +4,8 @@ utilitydata.comment={
  ["escape"]="[===[ ... ]===]",
  ["file"]="index",
  ["format"]="cont-en",
- ["stamp"]="2019.03.21 21:39",
- ["version"]=1.31,
+ ["stamp"]="2020.03.10 14:44",
+ ["version"]=0x1.4f5c28f5c28f6p+0,
 }
 
 if not utilitydata.job then utilitydata.job = { } end
@@ -19,7 +19,7 @@ if not utilitydata.job.variables then utilitydata.job.variables = { } end
 
 utilitydata.job.variables.collected={
  ["macros"]={},
- ["randomseed"]=0.21479354798794,
+ ["randomseed"]=0x1.b7e5ae000004bp-3,
  ["sectionblockorder"]={},
 }
 
@@ -43,23 +43,20 @@ if not utilitydata.job.passes then utilitydata.job.passes = { } end
 
 utilitydata.job.passes.collected={
  ["itemgroup:itemize:1"]={
-  { 6, 0 },
+  { 5, 0 },
  },
  ["itemgroup:itemize:2"]={
   { 2, 0 },
  },
  ["itemgroup:itemize:3"]={
-  { 3, 0 },
+  { 1, 0 },
  },
  ["itemgroup:itemize:4"]={
   { 4, 0 },
  },
  ["itemgroup:itemize:5"]={
-  { 1, 0 },
- },
- ["itemgroup:itemize:6"]={
+  { 2, 0 },
   { 3, 0 },
-  { 7, 0 },
  },
 }
 
@@ -161,8 +158,11 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 6, 2, 3, 4, 1, 3 },
-  { 0, 5, 0, 3, 0, 7 },
+  { 0, 5, 2, 1, 4, 2 },
+  { 0, 5, 0, 3 },
+ },
+ ["itemgroup:itemize:note"]={
+  { 0 },
  },
  ["linenote"]={
   { 0 },
@@ -177,6 +177,9 @@ utilitydata.structures.counters.collected={
   { 3 },
  },
  ["table"]={
+  { 0 },
+ },
+ ["textnote:note"]={
   { 0 },
  },
  ["userpage"]={
@@ -287,7 +290,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=8,
    ["order"]=5,
-   ["realpage"]=2,
+   ["realpage"]=1,
    ["section"]=3,
   },
   ["titledata"]={
@@ -362,7 +365,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=14,
    ["order"]=10,
-   ["realpage"]=3,
+   ["realpage"]=2,
    ["section"]=4,
   },
   ["titledata"]={
@@ -374,7 +377,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=15,
    ["order"]=11,
-   ["realpage"]=3,
+   ["realpage"]=2,
    ["section"]=4,
   },
   ["titledata"]={
@@ -382,30 +385,18 @@ utilitydata.structures.lists.collected={
   },
  },
  {
-  ["metadata"]=10,
-  ["references"]={
-   ["internal"]=16,
-   ["order"]=12,
-   ["realpage"]=3,
-   ["section"]=4,
-  },
-  ["titledata"]={
-   ["title"]="{\\em Course Completion}",
-  },
- },
- {
   ["metadata"]=8,
   ["numberdata"]=13,
   ["references"]={
    ["block"]="bodypart",
-   ["internal"]=17,
+   ["internal"]=16,
    ["realpage"]=3,
-   ["reference"]="grands-awards-languages-and-living-abroad",
+   ["reference"]="recognitions-and-languages",
    ["section"]=5,
   },
   ["titledata"]={
    ["label"]="subsection",
-   ["title"]="GRANDS, AWARDS, LANGUAGES, AND LIVING ABROAD",
+   ["title"]="RECOGNITIONS AND LANGUAGES",
   },
  },
 }
@@ -448,8 +439,8 @@ if not utilitydata.structures.references then utilitydata.structures.references 
 
 utilitydata.structures.references.referred={
  { 1, 1 },
- { 2, 16 },
- { 3, 39 },
+ { 2, 14 },
+ { 3, 40 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end
@@ -599,7 +590,7 @@ utilitydata.job.packed={
   ["positions"]=true,
   ["userdata"]=true,
  },
- ["version"]=1.02,
+ ["version"]=0x1.051eb851eb852p+0,
 }
 
 return utilitydata

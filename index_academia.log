@@ -1,6 +1,6 @@
 open source     > level 1, order 1, name '/usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv'
 system          > 
-system          > ConTeXt  ver: 2019.03.21 21:39 MKIV beta  fmt: 2022.3.25  int: english/english
+system          > ConTeXt  ver: 2020.03.10 14:44 MKIV beta  fmt: 2022.4.7  int: english/english
 system          > 
 system          > 'cont-new.mkiv' loaded
 open source     > level 2, order 2, name '/usr/share/texmf/tex/context/base/mkiv/cont-new.mkiv'
@@ -119,10 +119,10 @@ system          > start used files
 
 system          >    1: filename=char-prv.lua filetype=tex format=tex foundname=/usr/share/texmf/tex/context/base/mkiv/char-prv.lua fullname=/usr/share/texmf/tex/context/base/mkiv/char-prv.lua usedmethod=database
 system          >    2: filename=cont-yes.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv fullname=/usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv usedmethod=database
-system          >    3: filename=publ-imp-default.lua filetype=scripts foundname=/usr/share/texmf/tex/context/base/mkiv/publ-imp-default.lua fullname=/usr/share/texmf/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+system          >    3: filename=publ-imp-default.lua filetype=lua foundname=/usr/share/texmf/tex/context/base/mkiv/publ-imp-default.lua fullname=/usr/share/texmf/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
 system          >    4: filename=cont-new.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/cont-new.mkiv fullname=/usr/share/texmf/tex/context/base/mkiv/cont-new.mkiv usedmethod=database
-system          >    5: filename=lang-exc.lua filetype=scripts foundname=/usr/share/texmf/tex/context/base/mkiv/lang-exc.lua fullname=/usr/share/texmf/tex/context/base/mkiv/lang-exc.lua usedmethod=database
-system          >    6: filename=lang-us.lua filetype=scripts foundname=/usr/share/texmf/tex/context/patterns/mkiv/lang-us.lua fullname=/usr/share/texmf/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+system          >    5: filename=lang-exc.lua filetype=lua foundname=/usr/share/texmf/tex/context/base/mkiv/lang-exc.lua fullname=/usr/share/texmf/tex/context/base/mkiv/lang-exc.lua usedmethod=database
+system          >    6: filename=lang-us.lua filetype=lua foundname=/usr/share/texmf/tex/context/patterns/mkiv/lang-us.lua fullname=/usr/share/texmf/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
 system          >    7: filename=web/index_academia.tex foundname=web/index_academia.tex fullname=/home/sgeorgiou/GitHub/my_curriculum_vitae/web/index_academia.tex usedmethod=direct
 system          >    8: filename=type-imp-texgyre.mkiv filetype=tex foundname=/usr/share/texmf/tex/context/fonts/mkiv/type-imp-texgyre.mkiv fullname=/usr/share/texmf/tex/context/fonts/mkiv/type-imp-texgyre.mkiv usedmethod=database
 system          >    9: filename=lm.lfg filetype=tex foundname=/usr/share/texmf/tex/context/fonts/mkiv/lm.lfg fullname=/usr/share/texmf/tex/context/fonts/mkiv/lm.lfg usedmethod=database
@@ -130,10 +130,9 @@ system          >   10: filename=texgyreheros-regular filetype=otf format=otf fo
 system          >   11: filename=latinmodern-math.otf filetype=opentypefonts foundname=/usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf fullname=/usr/share/texmf/fonts/opentype/public/lm-math/latinmodern-math.otf usedmethod=database
 system          >   12: filename=texgyreheros-bold filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf fullname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bold.otf usedmethod=database
 system          >   13: filename=texgyreheros-italic filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf fullname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-italic.otf usedmethod=database
-system          >   14: filename=pdftex.map filetype=map format=map foundname=/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map fullname=/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map usedmethod=database
-system          >   15: filename=lpdf-pdx.xml filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml fullname=/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
-system          >   16: filename=texgyreheros-bolditalic filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf fullname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf usedmethod=database
-system          >   17: filename=lmmono10-regular filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf fullname=/usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf usedmethod=database
+system          >   14: filename=lpdf-pdx.xml filetype=tex foundname=/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml fullname=/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml usedmethod=database
+system          >   15: filename=texgyreheros-bolditalic filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf fullname=/usr/share/texmf/fonts/opentype/public/tex-gyre/texgyreheros-bolditalic.otf usedmethod=database
+system          >   16: filename=lmmono10-regular filetype=otf format=otf foundname=/usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf fullname=/usr/share/texmf/fonts/opentype/public/lm/lmmono10-regular.otf usedmethod=database
 
 system          > stop used files
 
@@ -165,28 +164,27 @@ modules         > stop used modules
 
 
 mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
-mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/sgeorgiou/.texlive2019/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
-mkiv lua stats  > resource resolver: loadtime 0.011 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 17 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 443 modules (0.157 sec), 93 tables (0.009 sec), 536 chunks (0.166 sec)
-mkiv lua stats  > traced context: maxstack: 1369, freed: 0, unreachable: 1369
-mkiv lua stats  > cleaned up reserved nodes: 62 nodes, 9 lists of 440
-mkiv lua stats  > node memory usage: 1 glue, 3 kern, 2 penalty, 14 attribute, 50 glue_spec, 4 attribute_list, 2 temp, 2 user_defined
-mkiv lua stats  > node list callback tasks: 8 unique task lists, 7 instances (re)created, 1317 calls
-mkiv lua stats  > h-node processing time: 0.018 seconds including kernel
-mkiv lua stats  > driver time: 0.011 seconds 
+mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/sgeorgiou/.texlive2020/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
+mkiv lua stats  > resource resolver: loadtime 0.009 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 16 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 450 modules (0.128 sec), 93 tables (0.008 sec), 543 chunks (0.136 sec)
+mkiv lua stats  > traced context: maxstack: 1398, freed: 0, unreachable: 1398
+mkiv lua stats  > cleaned up reserved nodes: 65 nodes, 9 lists of 442
+mkiv lua stats  > node memory usage: 14 attribute, 4 attribute_list, 1 glue, 51 glue_spec, 3 kern, 2 penalty, 2 temp, 2 user_defined
+mkiv lua stats  > node list callback tasks: 8 unique task lists, 7 instances (re)created, 1209 calls
+mkiv lua stats  > h-node processing time: 0.014 seconds including kernel
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
-mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
-mkiv lua stats  > callbacks: internal: 2327, file: 970, direct: 2, late: 119, function 1611, total: 5029 (1257 per page)
+mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.000 seconds loading
+mkiv lua stats  > callbacks: internal: 2217, file: 970, direct: 2, late: 119, function 1613, total: 4921 (1230 per page)
 mkiv lua stats  > randomizer: resumed with value 0.71044488577172
 mkiv lua stats  > result saved in file: web/index_academia.pdf.pdf, compresslevel 3, objectcompresslevel 1
 mkiv lua stats  > loaded patterns: en::1, load time: 0.000
 mkiv lua stats  > interactive elements: 77 references, 32 destinations
 mkiv lua stats  > loaded fonts: 6 files: latinmodern-math.otf, lmmono10-regular.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > font engine: otf 3.107, afm 1.513, tfm 1.000, 15 instances, 7 shared in backend, 3 common vectors, 4 common hashes, load time 0.155 seconds 
+mkiv lua stats  > font engine: otf 3.111, afm 1.513, tfm 1.000, 15 instances, 7 shared in backend, 3 common vectors, 4 common hashes, load time 0.131 seconds 
 mkiv lua stats  > pdf annotations: 77 links (77 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
-mkiv lua stats  > used engine: luatex version 1.1 with functionality level 7127, banner: this is luatex, version 1.10.0 (tex live 2019/debian)
-mkiv lua stats  > control sequences: 45572 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 90 MB (ctx: 90 MB), hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 0.503 seconds, 5 processed pages, 5 shipped pages, 9.940 pages/second
+mkiv lua stats  > used engine: luatex version: 1.12, functionality level: 7306, banner: this is luatex, version 1.12.0 (tex live 2020/debian)
+mkiv lua stats  > control sequences: 46213 of 65536 + 100000
+mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 97 MB, ctx: 96 MB, max: unknown MB, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 0.399 seconds, 5 processed pages, 5 shipped pages, 12.531 pages/second
 
