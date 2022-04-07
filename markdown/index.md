@@ -7,7 +7,7 @@ Dr. Stefanos Georgiou
 
 >  **Keywords**:  Performance Researcher, Back-End, DevOps, Automations, and Integrations
 
->  **Contact details**: first name 1316 at gmail dot com, sgeorgiou at name at borocard dot com
+>  **Get in touch**: first name 1316 at gmail dot com, sgeorgiou at borocard dot com
 
 >  **About me**: Passionated with [coding](https://stefanos1316.github.io/programmers_blog/), research, and automation of cumbersome tasks.
 Knows about Green and Energy-Efficient Computing, and Mining Software Repositories. Enjoys working on the command-line and writing scripts.
