@@ -43,7 +43,6 @@ mv img/* web/
 
 rm -rf tools
 rm -rf styles
-rm Makefile
 rm -rf markdown
 rm -rf README.md
 rm -rf resume.tuc
