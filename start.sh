@@ -51,8 +51,6 @@ rm -rf img
 shopt -s extglob
 rm -rf !(web)
 
-# Moving pdf to web
-mv index.pdf web
 mv web/* ./ && rm -rf web/
 
 git add .
