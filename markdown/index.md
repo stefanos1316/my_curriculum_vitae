@@ -3,17 +3,17 @@ Dr. Stefanos Georgiou
 
 ----
 
->  **Location preference**: Remote position
+>  **Location**: In Budapest but prefer remote positions
 
->  **Keywords**:  Performance Researcher, Back-End, DevOps, Automations, and Integrations
+>  **Keywords**:  Back-End, DevOps, Automations, Integrations, and Performance Researcher
 
->  **Get in touch**: first name 1316 at gmail dot com, sgeorgiou at borocard dot com
+>  **Get in touch**: first name 1316 at gmail dot com, sgeorgiou at borocard dot com, Tel: +36 70 624 1550
 
 >  **About me**: Passionated with [coding](https://stefanos1316.github.io/programmers_blog/), research, and automation of cumbersome tasks.
 Knows about Green and Energy-Efficient Computing, and Mining Software Repositories. Enjoys working on the command-line and writing scripts.
 On free time, he is sporting, reading books, and [travelling](https://stefanos1316.github.io/my_blog/index.html). 
 
->	*NOTE*  Please consider wathcing the online CV that has diagrams and links https://stefanos1316.github.io/my_curriculum_vitae/index.html
+>  **View as**: [PDF](index.pdf)[DOCX](index.docx)[RFT](index.rtf) 
 
 ----
 
@@ -44,11 +44,10 @@ WORK
 :   **Back-end developer and DevOps:** [Borocard](http://www.borocard.com/) (Remote position)
 
     Coordinating the development of a savings management mobile application.
-    Start as **part time** and became **full time** since Feb 2022.
 
     * Developing server via [NodeJS](https://nodejs.org/en/) to host appliaction and manage its clients.
 
-    * Build project management on JIRA and Trello for the external collaborators.
+    * Build project management on JIRA and Trello for external collaborators.
 
     * Used [Stripe](https://stripe.com/en-hu) and [Belvo](https://belvo.com/) to manage user's savings.
 
