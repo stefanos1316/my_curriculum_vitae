@@ -4,8 +4,8 @@ utilitydata.comment={
  ["escape"]="[===[ ... ]===]",
  ["file"]="index",
  ["format"]="cont-en",
- ["stamp"]="2020.03.10 14:44",
- ["version"]=0x1.4f5c28f5c28f6p+0,
+ ["stamp"]="2021.03.05 19:11",
+ ["version"]=0x1.51eb851eb851fp+0,
 }
 
 if not utilitydata.job then utilitydata.job = { } end
@@ -19,7 +19,7 @@ if not utilitydata.job.variables then utilitydata.job.variables = { } end
 
 utilitydata.job.variables.collected={
  ["macros"]={},
- ["randomseed"]=0x1.b7e5ae000004bp-3,
+ ["randomseed"]=0x1.af00769p-2,
  ["sectionblockorder"]={},
 }
 

@@ -13,6 +13,8 @@ Dr. Stefanos Georgiou
 Knows about Green and Energy-Efficient Computing, and Mining Software Repositories. Enjoys working on the command-line and writing scripts.
 On free time, he is sporting, reading books, and [travelling](https://stefanos1316.github.io/my_blog/index.html). 
 
+>	*NOTE*  Please consider wathcing the online CV that has diagrams and links https://stefanos1316.github.io/my_curriculum_vitae/index.html
+
 ----
 
 EDUCATION
@@ -46,11 +48,15 @@ WORK
 
     * Developing server via [NodeJS](https://nodejs.org/en/) to host appliaction and manage its clients.
 
-    * Used [Stripe](https://stripe.com/en-hu) and [Belvo](https://belvo.com/) to manage user savings.
+    * Build project management on JIRA and Trello for the external collaborators.
 
-    * Developed mechanisms to automate logs and configs storage on the cloud.
+    * Used [Stripe](https://stripe.com/en-hu) and [Belvo](https://belvo.com/) to manage user's savings.
+
+    * Developed crons to automate logs/configs storage on the cloud and database sanitization.
 
     * Manage the AWS hosting and [Mongo Atlas](https://account.mongodb.com/account/login) for production server.
+	
+    * Developed Ansible scripts to manage the AWS resources remotely.
 
     * Creating [pre-commit hooks](https://pre-commit.com/hooks) to maintaine source code quality.
 

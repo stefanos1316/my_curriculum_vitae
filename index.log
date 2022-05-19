@@ -1,6 +1,6 @@
 open source     > level 1, order 1, name '/usr/share/texmf/tex/context/base/mkiv/cont-yes.mkiv'
 system          > 
-system          > ConTeXt  ver: 2020.03.10 14:44 MKIV beta  fmt: 2022.4.7  int: english/english
+system          > ConTeXt  ver: 2021.03.05 19:11 MKIV  fmt: 2022.5.9  int: english/english
 system          > 
 system          > 'cont-new.mkiv' loaded
 open source     > level 2, order 2, name '/usr/share/texmf/tex/context/base/mkiv/cont-new.mkiv'
@@ -16,8 +16,10 @@ close source    > level 3, order 4, name '/usr/share/texmf/tex/context/fonts/mki
 structure       > sectioning > section @ level 3 : 0.0.1 -> Dr.~Stefanos Georgiou
 structure       > sectioning > subsection @ level 4 : 0.0.1.1 -> EDUCATION
 structure       > sectioning > subsection @ level 4 : 0.0.1.2 -> WORK
+backend         > xmp > using file '/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml'
+pages           > flushing realpage 1, userpage 1, subpage 1
 
-Overfull \hbox (10.04007pt too wide) in paragraph at lines 198--201
+Overfull \hbox (11.05956pt too wide) in paragraph at lines 203--206
  []<10: texgyreheros-bold @ 11.0pt> Back-end de-vel-oper, De-vOps, and In-te-gra-tions: All-Can-Code Inc. Greek Branch 
 
 \hbox(11.62192+4.51962)x483.69687, glue set - 1.0, direction TLT
@@ -35,10 +37,8 @@ Overfull \hbox (10.04007pt too wide) in paragraph at lines 198--201
 .<10: texgyreheros-bold @ 11.0pt> B
 .etc.
 
-backend         > xmp > using file '/usr/share/texmf/tex/context/base/mkiv/lpdf-pdx.xml'
-pages           > flushing realpage 1, userpage 1, subpage 1
 
-Overfull \hbox (5.0299pt too wide) in paragraph at lines 202--207
+Overfull \hbox (5.0299pt too wide) in paragraph at lines 207--212
  []<1: texgyreheros-regular @ 11.0pt> Sup-ported the prod-uct that fa-cil-i-tates fast web-sites de-vel-op-ment (by us-ing <10: texgyreheros-bold @ 11.0pt> Blockly<1: texgyreheros-regular @ 11.0pt> )
 
 \hbox(8.21819+2.40935)x483.69687, glue set - 1.0, direction TLT
@@ -91,10 +91,10 @@ system          > stop used files
 
 system          > start commandline options
 
-system          > currentrun="1"
+system          > currentrun="2"
 system          > fulljobname="web/index.tex"
 system          > input="web/index.tex"
-system          > kindofrun="1"
+system          > kindofrun="2"
 system          > maxnofruns="9"
 system          > result="web/index.pdf"
 system          > texmfbinpath="/usr/bin"
@@ -116,26 +116,26 @@ modules         > stop used modules
 
 
 mkiv lua stats  > used config file: /usr/share/texmf/web2c/texmfcnf.lua;/usr/share/texlive/texmf-dist/web2c/texmfcnf.lua
-mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/sgeorgiou/.texlive2020/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
-mkiv lua stats  > resource resolver: loadtime 0.009 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 16 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 450 modules (0.136 sec), 93 tables (0.008 sec), 543 chunks (0.144 sec)
-mkiv lua stats  > traced context: maxstack: 1398, freed: 0, unreachable: 1398
-mkiv lua stats  > cleaned up reserved nodes: 65 nodes, 9 lists of 442
+mkiv lua stats  > used cache path: readable: '/var/lib/texmf/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442' | readable+writable: '/home/sgeorgiou/.texlive2021/texmf-var/luatex-cache/context/b47c3d3cee7cb6c86268d0595268c442'
+mkiv lua stats  > resource resolver: loadtime 0.008 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 16 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 454 modules (0.125 sec), 96 tables (0.007 sec), 550 chunks (0.132 sec)
+mkiv lua stats  > traced context: maxstack: 1420, freed: 0, unreachable: 1420
+mkiv lua stats  > cleaned up reserved nodes: 66 nodes, 9 lists of 442
 mkiv lua stats  > node memory usage: 14 attribute, 4 attribute_list, 1 glue, 51 glue_spec, 3 kern, 2 penalty, 2 temp, 2 user_defined
-mkiv lua stats  > node list callback tasks: 8 unique task lists, 7 instances (re)created, 702 calls
+mkiv lua stats  > node list callback tasks: 8 unique task lists, 7 instances (re)created, 709 calls
 mkiv lua stats  > used backend: pdf (backend for directly generating pdf output)
 mkiv lua stats  > jobdata time: 0.001 seconds saving, 0.000 seconds loading
-mkiv lua stats  > callbacks: internal: 1345, file: 783, direct: 2, late: 64, function 1286, total: 3480 (1740 per page)
-mkiv lua stats  > randomizer: resumed with value 0.21479354798794
+mkiv lua stats  > callbacks: internal: 1359, file: 717, direct: 2, late: 64, function 1288, total: 3430 (1143 per page)
+mkiv lua stats  > randomizer: resumed with value 0.42090020421892
 mkiv lua stats  > result saved in file: web/index.pdf.pdf, compresslevel 3, objectcompresslevel 1
 mkiv lua stats  > loaded patterns: en::1, load time: 0.000
 mkiv lua stats  > interactive elements: 43 references, 16 destinations
 mkiv lua stats  > loaded fonts: 6 files: latinmodern-math.otf, lmmono10-regular.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > font engine: otf 3.111, afm 1.513, tfm 1.000, 15 instances, 7 shared in backend, 3 common vectors, 4 common hashes, load time 0.126 seconds 
+mkiv lua stats  > font engine: otf 3.113, afm 1.513, tfm 1.000, 15 instances, 7 shared in backend, 3 common vectors, 4 common hashes, load time 0.110 seconds 
 mkiv lua stats  > pdf annotations: 43 links (43 unique), 0 special
 mkiv lua stats  > used platform: linux-64, type: unix, binary subtree: usr
-mkiv lua stats  > used engine: luatex version: 1.12, functionality level: 7306, banner: this is luatex, version 1.12.0 (tex live 2020/debian)
-mkiv lua stats  > control sequences: 46213 of 65536 + 100000
-mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 90 MB, ctx: 89 MB, max: unknown MB, hash chars: min(64,40), symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 0.365 seconds, 3 processed pages, 3 shipped pages, 8.219 pages/second
+mkiv lua stats  > used engine: luatex version: 1.14, functionality level: 7439, banner: this is luatex, version 1.14.0 (tex live 2022/dev/debian)
+mkiv lua stats  > used hash slots: 46839 of 65536 + 200000
+mkiv lua stats  > lua properties: engine: lua 5.3, used memory: 94 MB, ctx: 94 MB, max: unknown MB, hash chars: min(64,40), symbol mask: utf (τεχ)
+mkiv lua stats  > runtime: 0.335 seconds, 3 processed pages, 3 shipped pages, 8.955 pages/second
 
