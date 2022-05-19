@@ -13,7 +13,7 @@ Dr. Stefanos Georgiou
 Knows about Green and Energy-Efficient Computing, and Mining Software Repositories. Enjoys working on the command-line and writing scripts.
 On free time, he is sporting, reading books, and [travelling](https://stefanos1316.github.io/my_blog/index.html). 
 
->  **View as**: [PDF](index.pdf)[DOCX](index.docx)[RFT](index.rtf) 
+>  **View as**: [[PDF]](index.pdf) [[DOCX]](index.docx) [[RFT]](index.rtf) 
 
 ----
 

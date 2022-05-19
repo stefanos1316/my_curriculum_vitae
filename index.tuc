@@ -19,7 +19,7 @@ if not utilitydata.job.variables then utilitydata.job.variables = { } end
 
 utilitydata.job.variables.collected={
  ["macros"]={},
- ["randomseed"]=0x1.af00769p-2,
+ ["randomseed"]=0x1.8898ca9p-2,
  ["sectionblockorder"]={},
 }
 
@@ -43,7 +43,7 @@ if not utilitydata.job.passes then utilitydata.job.passes = { } end
 
 utilitydata.job.passes.collected={
  ["itemgroup:itemize:1"]={
-  { 5, 0 },
+  { 7, 0 },
  },
  ["itemgroup:itemize:2"]={
   { 2, 0 },
@@ -158,7 +158,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 5, 2, 1, 4, 2 },
+  { 0, 7, 2, 1, 4, 2 },
   { 0, 5, 0, 3 },
  },
  ["itemgroup:itemize:note"]={
@@ -377,7 +377,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["internal"]=15,
    ["order"]=11,
-   ["realpage"]=2,
+   ["realpage"]=3,
    ["section"]=4,
   },
   ["titledata"]={
@@ -439,8 +439,8 @@ if not utilitydata.structures.references then utilitydata.structures.references 
 
 utilitydata.structures.references.referred={
  { 1, 1 },
- { 2, 14 },
- { 3, 40 },
+ { 2, 17 },
+ { 3, 38 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end

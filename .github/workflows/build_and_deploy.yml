@@ -21,7 +21,7 @@ jobs:
         pip install "notebook==4.2" requests jupyter_cms jupyter_dashboards
     - name: Build new content 🛎️
       run: |
-        make    
+        make
     - name: Deploy to branch gh-pages 🚀
       uses: stefanos1316/my_curriculum_vitae@master
       with:
