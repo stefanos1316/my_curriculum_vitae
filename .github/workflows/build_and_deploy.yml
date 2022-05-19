@@ -22,8 +22,7 @@ jobs:
     - name: Build new content 🛎️
       run: |
         make
-        make pdf
-        ls
+        mv index.pdf web
     - name: Deploy to branch gh-pages 🚀
       uses: stefanos1316/my_curriculum_vitae@master
       with:
