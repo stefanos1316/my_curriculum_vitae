@@ -7,11 +7,14 @@ Dr. Stefanos Georgiou
 
 >  **Keywords**:  Back-End, DevOps, Automations, Integrations, and Performance Researcher
 
->  **Get in touch**: first name 1316 at gmail dot com, sgeorgiou at borocard dot com, Tel: +36 70 624 1550
+>  **Get in touch**: firstname at simpletechs dot com, sgeorgiou at borocard dot com, Tel: +36 70 624 1550
 
 >  **About me**: Passionated with [coding](https://stefanos1316.github.io/programmers_blog/), research, and automation of cumbersome tasks.
 Knows about Green and Energy-Efficient Computing, and Mining Software Repositories. Enjoys working on the command-line and writing scripts.
 On free time, he is sporting, reading books, and [travelling](https://stefanos1316.github.io/my_blog/index.html). 
+
+>  **NOTE**:Please consider wathcing the online CV that has diagrams and
+links https://stefanos1316.github.io/my_curriculum_vitae/index.html
 
 >  **View as**: [[PDF]](index.pdf) [[DOCX]](index.docx) [[RFT]](index.rtf) 
 
@@ -40,8 +43,16 @@ EDUCATION
 
 WORK
 ----
-2021 -- currently
-:   **Back-end developer and DevOps:** [Borocard](http://www.borocard.com/) (Remote position)
+Jul 2022 -- currently
+:  **Back-end developer** @ [SimpleTechs](https://www.simpletechs.net/) (Remote position)
+    
+    * Developing applications with TypeScript and via [NestJS](https://nestjs.com/) frameworks.
+
+    * Using Postgres as database and [Prisma client](https://www.prisma.io/client) to manage database access.
+
+
+Feb 2021 -- Jul 2022
+:   **Back-end developer and DevOps:** @ [Borocard](http://www.borocard.com/) (Remote position)
 
     Coordinating the development of a savings management mobile application.
 
@@ -59,7 +70,7 @@ WORK
 
     * Creating [pre-commit hooks](https://pre-commit.com/hooks) to maintaine source code quality.
 
-2021 -- 2022
+Feb 2021 -- Feb 2022
 :   **PostDoctoral, Electrical and Computer Engineering**
 
     Working as a **full time** researcher for the Software Analytics and Evolution Lab at Queen's University, Canada
@@ -68,15 +79,15 @@ WORK
     
     * Assisting PhD and Master students in their research projects.
 
-2020 -- 2021
-:   **Software Developer** [Greek Free, Open Source Software](https://gfoss.eu/)
+Dec 2020 -- Feb 2021
+:   **Software Developer** @ [Greek Free, Open Source Software](https://gfoss.eu/)
 
     Developing a privacy-preserving epidemic dosimeter based on contact tracing (**full time**). [Proof](gfoss_2020.pdf) [Repository](https://github.com/eellak/epidose.git)
     
     * Developing [Python](https://www.python.org/), [Shell](https://www.gnu.org/software/bash/), and [Ansible](https://www.ansible.com/) scripts on a Raspberry Pi Zero
 
-2019 -- 2020
-:   **Back-end developer, DevOps, and Integrations:** [AllCanCode Inc. Greek Branch](https://www.allcancode.com/)
+Jan 2019 -- May 2020
+:   **Back-end developer, DevOps, and Integrations:** @ [AllCanCode Inc. Greek Branch](https://www.allcancode.com/)
 
     Supported the product that facilitates fast web-sites development (by using [Blockly](https://developers.google.com/blockly)) on Desktop that can be exported in smart-phones as well (**part time**).
  
@@ -88,7 +99,7 @@ WORK
 
     * Integration of [Bitrise](https://www.bitrise.io/) system in the product to allow platform users to export their Desktop applications to Android and iOS through the [Cordova](https://cordova.apache.org/) wrapper.
 
-2016 -- 2019
+Jan 2016 -- Jan 2019
 :   **Proposals writing:** [Singular Logic S.A.](https://portal.singularlogic.eu/en)
 
     Proposals writing for the European Projects Department as **part time**. [Proof](singular_logic_2016-2019.pdf)
