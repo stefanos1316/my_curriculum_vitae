@@ -25,12 +25,12 @@ EDUCATION
 2022-present
 :   **MSc, Palinka Maaster Consulting**; Hungarian University of Agriculture and Life Science
 
-    Still in progress
+    *Still in progress
+
 2016-2021
 :   **PhD, Computer Science**; Athens University of Economics and Business
 
     *Energy and Run-Time Performance Practices in Software Engineering*; [Thesis](phd_thesis.pdf)
- 
 
 2013-2015
 :   **MSc, Pervasive Computing and Communications for Sustainable Development (PERCCOM)**; Triple Master of Science
