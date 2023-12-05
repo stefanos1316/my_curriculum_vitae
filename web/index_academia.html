@@ -6,12 +6,166 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
   <title>index_academia</title>
   <style>
+    html {
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      overflow-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 12px;
+      }
+      h1 {
+        font-size: 1.8em;
+      }
+    }
+    @media print {
+      html {
+        background-color: white;
+      }
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    svg {
+      height: auto;
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, Consolas, 'Lucida Console', monospace;
+      font-size: 85%;
+      margin: 0;
+      hyphens: manual;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+      overflow-wrap: normal;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC ul {
+      padding-left: 1.3em;
+    }
+    #TOC > ul {
+      padding-left: 0;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
-    span.underline{text-decoration: underline;}
-    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.columns{display: flex; gap: min(4vw, 1.5em);}
+    div.column{flex: auto; overflow-x: auto;}
     div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
-    ul.task-list{list-style: none;}
+    /* The extra [class] is a hack that increases specificity enough to
+       override a similar rule in reveal.js */
+    ul.task-list[class]{list-style: none;}
+    ul.task-list li input[type="checkbox"] {
+      font-size: inherit;
+      width: 0.8em;
+      margin: 0 0.8em 0.2em -1.6em;
+      vertical-align: middle;
+    }
+    .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
   <style type="text/css">
   /*
@@ -111,144 +265,294 @@
       width: 100%;
   }
   </style>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
 </head>
 <body>
 <h1 id="stefanos-georgiou">Stefanos Georgiou</h1>
 <hr />
 <blockquote>
-<p><strong>Contact details</strong>: first name 1316 at gmail dot com, sgeorgiou at name at borocard dot com</p>
+<p><strong>Contact details</strong>: first name 1316 at gmail dot com,
+sgeorgiou at name at borocard dot com</p>
 </blockquote>
 <blockquote>
-<p><strong>About me</strong>: I am passionated with research, <a href="https://stefanos1316.github.io/programmers_blog/">coding</a>, integrating new technologies, and automating cumbersome tasks. My research interests lie to Green and Energy-Efficient Computing, Mining Software Repositories, and Machine Learning. I enjoy working on the command-line and especially with Linux systems. I love to create small indepentant componets and tools to facilitate different daily functionalities. On my free time, I enjoy sporting, reading books, and <a href="https://stefanos1316.github.io/my_blog/index.html">travelling</a>.</p>
+<p><strong>About me</strong>: I am passionated with research, <a
+href="https://stefanos1316.github.io/programmers_blog/">coding</a>,
+integrating new technologies, and automating cumbersome tasks. My
+research interests lie to Green and Energy-Efficient Computing, Mining
+Software Repositories, and Machine Learning. I enjoy working on the
+command-line and especially with Linux systems. I love to create small
+indepentant componets and tools to facilitate different daily
+functionalities. On my free time, I enjoy sporting, reading books, and
+<a
+href="https://stefanos1316.github.io/my_blog/index.html">travelling</a>.</p>
 </blockquote>
 <hr />
 <h2 id="education">Education</h2>
 <dl>
 <dt>2021-2022</dt>
-<dd><p><strong>PostDoctoral, Electrical and Computer Engineering</strong>; Queen’s University</p>
+<dd>
+<p><strong>PostDoctoral, Electrical and Computer Engineering</strong>;
+Queen’s University</p>
 <p>Lab name: Software Evolution and Analytics Lab</p>
-<p>Lab’s head: <a href="https://www.ece.queensu.ca/people/Y-Zou/">Prof. Ying (Jenny) Zou</a></p>
+<p>Lab’s head: <a
+href="https://www.ece.queensu.ca/people/Y-Zou/">Prof. Ying (Jenny)
+Zou</a></p>
 </dd>
 <dt>2016-2021</dt>
-<dd><p><strong>PhD, Computer Science</strong>; Athens University of Economics and Business</p>
-<p>Thesis title: <em>Energy and Run-Time Performance Practices in Software Engineering</em>; <a href="phd_thesis.pdf">Thesis</a></p>
-<p>PhD advisors: (Main) <a href="https://www2.dmst.aueb.gr/dds/">Prof. Diomidis Spinellis</a>, <a href="https://www.balab.aueb.gr/panos-panagiotis-louridas.html">Prof. Panos Louridas</a>, and <a href="http://www.cs.man.ac.uk/~rizos/">Rizos Sakellariou</a></p>
+<dd>
+<p><strong>PhD, Computer Science</strong>; Athens University of
+Economics and Business</p>
+<p>Thesis title: <em>Energy and Run-Time Performance Practices in
+Software Engineering</em>; <a href="phd_thesis.pdf">Thesis</a></p>
+<p>PhD advisors: (Main) <a
+href="https://www2.dmst.aueb.gr/dds/">Prof. Diomidis Spinellis</a>, <a
+href="https://www.balab.aueb.gr/panos-panagiotis-louridas.html">Prof. Panos
+Louridas</a>, and <a href="http://www.cs.man.ac.uk/~rizos/">Rizos
+Sakellariou</a></p>
 </dd>
 <dt>2013-2015</dt>
-<dd><p><strong>MSc, Pervasive Computing and Communications for Sustainable Development (PERCCOM)</strong>; Erasmus Mundus Joint Master Degree</p>
-<p>ITMO University of Saint-Petersburg (Russia) Thesis title: <em>Implementating Green IT Approach for Transferring Big Data over Parallel Data Links</em>; <a href="msc_thesis.pdf">Thesis</a></p>
-<p>Lulea University of Technology (Sweden) Semester 3: <em>Resource Efficient Pervasive Computing Systems and Communications</em> <a href="msc_lulea.pdf">Degree</a></p>
-<p>Lappeenranta University of Technology (Finland) Semester 2: <em>Smart Software and Services</em> <a href="msc_lappeenranta.pdf">Degree</a></p>
-<p>Unversity of Lorraine (France) Semester 1: <em>Sustainable Computer Network Engineering</em> <a href="msc_lorraine.pdf">Degree</a></p>
+<dd>
+<p><strong>MSc, Pervasive Computing and Communications for Sustainable
+Development (PERCCOM)</strong>; Erasmus Mundus Joint Master Degree</p>
+<p>ITMO University of Saint-Petersburg (Russia) Thesis title:
+<em>Implementating Green IT Approach for Transferring Big Data over
+Parallel Data Links</em>; <a href="msc_thesis.pdf">Thesis</a></p>
+<p>Lulea University of Technology (Sweden) Semester 3: <em>Resource
+Efficient Pervasive Computing Systems and Communications</em> <a
+href="msc_lulea.pdf">Degree</a></p>
+<p>Lappeenranta University of Technology (Finland) Semester 2: <em>Smart
+Software and Services</em> <a href="msc_lappeenranta.pdf">Degree</a></p>
+<p>Unversity of Lorraine (France) Semester 1: <em>Sustainable Computer
+Network Engineering</em> <a href="msc_lorraine.pdf">Degree</a></p>
 </dd>
 <dt>2008-2013</dt>
-<dd><p><strong>BSc, Networks and Systems Programming</strong>; University of Cyprus</p>
-<p>Thesis title: <em>Implementation and Evaluation of the Biologically – Inspired AntHocNet Routing Protocol in Sensor Network</em>; <a href="bsc_cyprus.pdf">Degree</a></p>
+<dd>
+<p><strong>BSc, Networks and Systems Programming</strong>; University of
+Cyprus</p>
+<p>Thesis title: <em>Implementation and Evaluation of the Biologically –
+Inspired AntHocNet Routing Protocol in Sensor Network</em>; <a
+href="bsc_cyprus.pdf">Degree</a></p>
 </dd>
 </dl>
 <h2 id="research-publications">Research Publications</h2>
 <ul>
 <li>Conference Papers
 <ul>
-<li><strong>Stefanos Georgiou</strong>*, Maria Kechagia, Tushar Sharma, Federica Sarro, and Jenny Zou. Green AI: Do Deep Learning Frameworks Have Different Costs? In 44th International Conference on Software Engineering: Technical Track, ICSE ’22. New York, NY, USA, May 2022. Association for Computing Machinery. <br /> [<a href="GKSSZ22.pdf">Paper</a>] [<a href="GKSSZ22.bib">BibTex</a>]</li>
-<li><strong>Stefanos Georgiou</strong>, Maria Kechagia Panos Louridas, and Diomidis Spinellis. What Are Your Programming Language’s Energy-Delay Implications? In 15th International Conference on Mining Software Repositories: Technical Track, MSR ’18. New York, NY, USA, May 2018. Association for Computing Machinery. <br /> [<a href="GKLS18.pdf">Paper</a>] [<a href="GKLS18.bib">BibTex</a>] [<a href="https://www.slideshare.net/GeorgiouStefanos/what-are-your-programming-languages-energydelay-implications-106251480">Presentation</a>] [<a href="https://github.com/stefanos1316/Rosetta_Code_Data_Set">Data-set</a>]</li>
-<li><strong>Stefanos Georgiou</strong>, Maria Kechagia, and Diomidis Spinellis. Analyzing Programming Languages’ Energy Consumption: An Empirical Study. In PCI 2017: Proceedings of the 21st Pan-Hellenic Conference on Informatics, ACM International Conference Proceeding Series. ACM Press, September 2017. <br/> [<a href="GKS17.pdf">Paper</a>] [<a href="GKS17.bib">BibTex</a>] [<a href="https://www.slideshare.net/GeorgiouStefanos/programming-languages-energy-consumption-an-empirical-study">Presentation</a>] [<a href="https://github.com/stefanos1316/Rosetta_Code_Data_Set">Data-Set</a>]</li>
+<li><strong>Stefanos Georgiou</strong>*, Maria Kechagia, Tushar Sharma,
+Federica Sarro, and Jenny Zou. Green AI: Do Deep Learning Frameworks
+Have Different Costs? In 44th International Conference on Software
+Engineering: Technical Track, ICSE ’22. New York, NY, USA, May 2022.
+Association for Computing Machinery. <br /> [<a
+href="GKSSZ22.pdf">Paper</a>] [<a href="GKSSZ22.bib">BibTex</a>]</li>
+<li><strong>Stefanos Georgiou</strong>, Maria Kechagia Panos Louridas,
+and Diomidis Spinellis. What Are Your Programming Language’s
+Energy-Delay Implications? In 15th International Conference on Mining
+Software Repositories: Technical Track, MSR ’18. New York, NY, USA, May
+2018. Association for Computing Machinery. <br /> [<a
+href="GKLS18.pdf">Paper</a>] [<a href="GKLS18.bib">BibTex</a>] [<a
+href="https://www.slideshare.net/GeorgiouStefanos/what-are-your-programming-languages-energydelay-implications-106251480">Presentation</a>]
+[<a
+href="https://github.com/stefanos1316/Rosetta_Code_Data_Set">Data-set</a>]</li>
+<li><strong>Stefanos Georgiou</strong>, Maria Kechagia, and Diomidis
+Spinellis. Analyzing Programming Languages’ Energy Consumption: An
+Empirical Study. In PCI 2017: Proceedings of the 21st Pan-Hellenic
+Conference on Informatics, ACM International Conference Proceeding
+Series. ACM Press, September 2017. <br/> [<a href="GKS17.pdf">Paper</a>]
+[<a href="GKS17.bib">BibTex</a>] [<a
+href="https://www.slideshare.net/GeorgiouStefanos/programming-languages-energy-consumption-an-empirical-study">Presentation</a>]
+[<a
+href="https://github.com/stefanos1316/Rosetta_Code_Data_Set">Data-Set</a>]</li>
 </ul></li>
 <li>Journal Articles
 <ul>
-<li><strong>Stefanos Georgiou</strong>, Dimitris Mitropoulos, and Diomidis Spinellis. Energy-Efficient Computing in a Secure Environment. Submitted in July 2020 for review in ACM Transaction of Computer Systems.</li>
-<li><strong>Stefanos Georgiou</strong> and Diomidis Spinellis. Energy-Delay Investigation of Remote Inter-Process Communication Technologies. Accepted for publication in Elsevier Journal of Systems and Software 2019. <br /> [<a href="GS19.pdf">Preprint</a>] [<a href="GS19.bib">BibTex</a>]</li>
-<li><strong>Stefanos Georgiou</strong>, Stamatia Rizou, and Diomidis Spinellis. Software Development Life Cycle for Energy-Efficiency: Techniques and Tools. Accepted for publication in ACM Computing Surveys 2019. <br /> [<a href="GRS19.pdf">Preprint</a>] [<a href="GRS19.bib">BibTex</a>]</li>
+<li><strong>Stefanos Georgiou</strong>, Dimitris Mitropoulos, and
+Diomidis Spinellis. Energy-Efficient Computing in a Secure Environment.
+Submitted in July 2020 for review in ACM Transaction of Computer
+Systems.</li>
+<li><strong>Stefanos Georgiou</strong> and Diomidis Spinellis.
+Energy-Delay Investigation of Remote Inter-Process Communication
+Technologies. Accepted for publication in Elsevier Journal of Systems
+and Software 2019. <br /> [<a href="GS19.pdf">Preprint</a>] [<a
+href="GS19.bib">BibTex</a>]</li>
+<li><strong>Stefanos Georgiou</strong>, Stamatia Rizou, and Diomidis
+Spinellis. Software Development Life Cycle for Energy-Efficiency:
+Techniques and Tools. Accepted for publication in ACM Computing Surveys
+2019. <br /> [<a href="GRS19.pdf">Preprint</a>] [<a
+href="GRS19.bib">BibTex</a>]</li>
 </ul></li>
 </ul>
 <h2 id="organization-services">Organization Services</h2>
 <dl>
 <dt><em>Program Committee</em></dt>
-<dd>EASE 2022 for the Research Track
+<dd>
+EASE 2022 for the Research Track
 </dd>
-<dd>ISEC 2022 for the Doctoral Symposium
+<dd>
+ISEC 2022 for the Doctoral Symposium
 </dd>
-<dd>ESEC/FSE 2021 for the Student Research Competition
+<dd>
+ESEC/FSE 2021 for the Student Research Competition
 </dd>
-<dd>ASE 2020 for the International Workshop on Sustainable Software Engineering
+<dd>
+ASE 2020 for the International Workshop on Sustainable Software
+Engineering
 </dd>
 <dt><em>Reviewer</em></dt>
-<dd>Journals submitted to Software: Practices and Experience
+<dd>
+Journals submitted to Software: Practices and Experience
 </dd>
-<dd>Journals submitted to ACM Computing Surveys (CSUR)
+<dd>
+Journals submitted to ACM Computing Surveys (CSUR)
 </dd>
-<dd>Research papers submitted to ESEC/FSE
+<dd>
+Research papers submitted to ESEC/FSE
 </dd>
 <dt><em>Co-reviewer</em></dt>
-<dd>Conference papers submitted to ICSE-SEIP, MSR, OSS, ICPC, ICCS, SANER, FSE, ASE, ICMSE and SATToSE
+<dd>
+Conference papers submitted to ICSE-SEIP, MSR, OSS, ICPC, ICCS, SANER,
+FSE, ASE, ICMSE and SATToSE
 </dd>
 </dl>
 <h2 id="invited-talks">Invited Talks</h2>
 <dl>
 <dt>Tutorials</dt>
-<dd><em>How to improve your CI/CD process</em> presented on 5th of July 2019 at BALab of Athens University of Economics and Business in Athens, Greece. <a href="https://aueb-balab.github.io/courses/tools/ci_cd_with_gitlab-p.html#/">Presentation</a>
+<dd>
+<em>How to improve your CI/CD process</em> presented on 5th of July 2019
+at BALab of Athens University of Economics and Business in Athens,
+Greece. <a
+href="https://aueb-balab.github.io/courses/tools/ci_cd_with_gitlab-p.html#/">Presentation</a>
 </dd>
-<dd><em>Travis CI with CV template tutorial</em> presented on 7th of June 2018 at ITMO Univesity of Saint Petersburg for PERCCOM Master students in Saint-Petersburg, Russia. <a href="https://aueb-balab.github.io/courses/tools/travis_ci_cv_template-p.html#/">Presentation</a>
+<dd>
+<em>Travis CI with CV template tutorial</em> presented on 7th of June
+2018 at ITMO Univesity of Saint Petersburg for PERCCOM Master students
+in Saint-Petersburg, Russia. <a
+href="https://aueb-balab.github.io/courses/tools/travis_ci_cv_template-p.html#/">Presentation</a>
 </dd>
 <dt>Research</dt>
-<dd><em>Saving Energy in Software Development by Making the Right Choices</em> presented on the 4th of March 2022 at Sustainable Software Engineering lecture of TU Delft. <a href="https://tudelft.zoom.us/rec/play/5hMydhFhbQjzQonYH6CuSdD3iIGGd6nqEFmYbuT8gd_-0c0uS9L5cgzCbtHnW1bhbE5ZBUP_Wi5tsu2-.a5o7ggYccw7UJ65R?continueMode=true&amp;_x_zm_rtaid=vsffdTXoSwOo6_1ITMqcVg.1646419616427.8eaf7f4a43123fd65c05f4005b1c483d&amp;_x_zm_rhtaid=587">Presentation</a> <a href="https://docs.google.com/presentation/d/1mywyQ8ydxHYrbRYdSJhAiQnJnSYD3DXe/edit#slide=id.p1">Slides</a>
+<dd>
+<em>Saving Energy in Software Development by Making the Right
+Choices</em> presented on the 4th of March 2022 at Sustainable Software
+Engineering lecture of TU Delft. <a
+href="https://tudelft.zoom.us/rec/play/5hMydhFhbQjzQonYH6CuSdD3iIGGd6nqEFmYbuT8gd_-0c0uS9L5cgzCbtHnW1bhbE5ZBUP_Wi5tsu2-.a5o7ggYccw7UJ65R?continueMode=true&amp;_x_zm_rtaid=vsffdTXoSwOo6_1ITMqcVg.1646419616427.8eaf7f4a43123fd65c05f4005b1c483d&amp;_x_zm_rhtaid=587">Presentation</a>
+<a
+href="https://docs.google.com/presentation/d/1mywyQ8ydxHYrbRYdSJhAiQnJnSYD3DXe/edit#slide=id.p1">Slides</a>
 </dd>
-<dd><em>What are your programming language’s energy-delay implications?</em> presented on the 12th of June 2018 at PERCCOM’s Summer School in Lappeenranta, Finland. <a href="perccom_summer_school_2018.pdf">Proof</a>
+<dd>
+<em>What are your programming language’s energy-delay implications?</em>
+presented on the 12th of June 2018 at PERCCOM’s Summer School in
+Lappeenranta, Finland. <a
+href="perccom_summer_school_2018.pdf">Proof</a>
 </dd>
 </dl>
 <h2 id="teaching-experience">Teaching Experience</h2>
-<p>Having weekly meetings with five PhD students and two Master students to assist and advise them on their research studies (at Queen’s University from 2021 to 2023)</p>
-<p>Assisting my PhD advisor at Programming II course (Winter Semester of 2016, 2017, and 2018) by giving tutorial and Lab sessions in Java [<a href="https://github.com/AUEB-BALab/courses">Repository</a>]</p>
-<p>Gave Java lectures and tutorials for the 1st and 2nd Coding Boot Camp in Athens, Greece (Oct. 2017 - May 2018) <br /> [<a href="https://github.com/codeandwork/courses">Repository</a>] [<a href="boot_camp_athens_2016_2017.pdf">Proof</a>]</p>
+<p>Having weekly meetings with five PhD students and two Master students
+to assist and advise them on their research studies (at Queen’s
+University from 2021 to 2023)</p>
+<p>Assisting my PhD advisor at Programming II course (Winter Semester of
+2016, 2017, and 2018) by giving tutorial and Lab sessions in Java [<a
+href="https://github.com/AUEB-BALab/courses">Repository</a>]</p>
+<p>Gave Java lectures and tutorials for the 1st and 2nd Coding Boot Camp
+in Athens, Greece (Oct. 2017 - May 2018) <br /> [<a
+href="https://github.com/codeandwork/courses">Repository</a>] [<a
+href="boot_camp_athens_2016_2017.pdf">Proof</a>]</p>
 <h2 id="experience-from-industry">Experience from Industry</h2>
 <dl>
 <dt>Feb 2021-currently</dt>
-<dd><p><strong>Back-end developer and DevOps:</strong> <a href="http://www.borocard.com/">Boro</a></p>
-<p>Coordinating the development of a savings management mobile application.</p>
+<dd>
+<p><strong>Back-end developer and DevOps:</strong> <a
+href="http://www.borocard.com/">Boro</a></p>
+<p>Coordinating the development of a savings management mobile
+application.</p>
 <dl>
 <dt><em>Responsibilities</em></dt>
-<dd><p>Developing server via NodeJS and MongoDB to host appliaction and manage its clients.</p>
+<dd>
+<p>Developing server via NodeJS and MongoDB to host appliaction and
+manage its clients.</p>
 </dd>
-<dd><p>Created the CI pipeline of the back-end repository.</p>
+<dd>
+<p>Created the CI pipeline of the back-end repository.</p>
 </dd>
-<dd><p>Manage the AWS hosting of the server.</p>
+<dd>
+<p>Manage the AWS hosting of the server.</p>
 </dd>
-<dd><p>Established all pre-commit hooks to check commits source code quality.</p>
+<dd>
+<p>Established all pre-commit hooks to check commits source code
+quality.</p>
 </dd>
 </dl>
 </dd>
 <dt>Sep 2020-Feb 2021</dt>
-<dd><p><strong>Software Developer</strong> <a href="https://gfoss.eu/">Greek Free, Open Source Software</a></p>
-<p>Developing a privacy-preserving epidemic dosimeter based on contact tracing. <a href="gfoss_2020.pdf">Proof</a> <a href="https://github.com/eellak/epidose.git">Repository</a></p>
+<dd>
+<p><strong>Software Developer</strong> <a href="https://gfoss.eu/">Greek
+Free, Open Source Software</a></p>
+<p>Developing a privacy-preserving epidemic dosimeter based on contact
+tracing. <a href="gfoss_2020.pdf">Proof</a> <a
+href="https://github.com/eellak/epidose.git">Repository</a></p>
 <dl>
 <dt><em>Responsibilities</em></dt>
-<dd><p>Developing <a href="https://www.python.org/">Python</a>, <a href="https://www.gnu.org/software/bash/">Shell</a>, and <a href="https://www.ansible.com/">Ansible</a> scripts on a Raspberry Pi Zero</p>
+<dd>
+<p>Developing <a href="https://www.python.org/">Python</a>, <a
+href="https://www.gnu.org/software/bash/">Shell</a>, and <a
+href="https://www.ansible.com/">Ansible</a> scripts on a Raspberry Pi
+Zero</p>
 </dd>
-<dd><p>Extented testing for the correct functionality of the device</p>
+<dd>
+<p>Extented testing for the correct functionality of the device</p>
 </dd>
 </dl>
 </dd>
 <dt>Jan 2019-Apr 2020</dt>
-<dd><p><strong>Back-end developer, DevOps, and Integrations:</strong> <a href="https://www.allcancode.com/">AllCanCode Inc. Greek Branch</a></p>
-<p>Supported the product development that facilitates fast web-sites development (by using <a href="https://developers.google.com/blockly">Blockly</a>) on Desktop that can be exported in smart-phones as well.</p>
+<dd>
+<p><strong>Back-end developer, DevOps, and Integrations:</strong> <a
+href="https://www.allcancode.com/">AllCanCode Inc. Greek Branch</a></p>
+<p>Supported the product development that facilitates fast web-sites
+development (by using <a
+href="https://developers.google.com/blockly">Blockly</a>) on Desktop
+that can be exported in smart-phones as well.</p>
 <dl>
 <dt><em>Responsibilities</em></dt>
-<dd><p>Development of API end-points in JavaScript (<a href="https://nodejs.org/en/">Node.JS</a>) and <a href="https://www.mongodb.com/">MongoDB</a> for the server platform (product) and customer products</p>
+<dd>
+<p>Development of API end-points in JavaScript (<a
+href="https://nodejs.org/en/">Node.JS</a>) and <a
+href="https://www.mongodb.com/">MongoDB</a> for the server platform
+(product) and customer products</p>
 </dd>
-<dd><p>Creation of the CI system for the product (in GitLab) to perform back-end and front-end testing (through <a href="https://mochajs.org/">Mocha</a> and <a href="https://www.cypress.io/">Cypress</a> frameworks, respectively) and CD to auto-deploy product (for specific push branches) on Google’s App Engine (Aurora, Beta, and Production) using the <a href="https://cloud.google.com/appengine/docs/flexible">Flex environment</a></p>
+<dd>
+<p>Creation of the CI system for the product (in GitLab) to perform
+back-end and front-end testing (through <a
+href="https://mochajs.org/">Mocha</a> and <a
+href="https://www.cypress.io/">Cypress</a> frameworks, respectively) and
+CD to auto-deploy product (for specific push branches) on Google’s App
+Engine (Aurora, Beta, and Production) using the <a
+href="https://cloud.google.com/appengine/docs/flexible">Flex
+environment</a></p>
 </dd>
-<dd><p>Migration of monolithic product to micro-services using <a href="https://firebase.google.com/docs/hosting">Firebase hosting</a>, <a href="https://firebase.google.com/docs/functions">Cloud Functions</a>, and <a href="https://cloud.google.com/run">Cloud Run</a></p>
+<dd>
+<p>Migration of monolithic product to micro-services using <a
+href="https://firebase.google.com/docs/hosting">Firebase hosting</a>, <a
+href="https://firebase.google.com/docs/functions">Cloud Functions</a>,
+and <a href="https://cloud.google.com/run">Cloud Run</a></p>
 </dd>
-<dd><p>Integration of <a href="https://www.bitrise.io/">Bitrise</a> system in the product to allow platform users in exporting their Desktop applications to Android and iOS smart-phones through the <a href="https://cordova.apache.org/">Cordova</a> wrapper</p>
+<dd>
+<p>Integration of <a href="https://www.bitrise.io/">Bitrise</a> system
+in the product to allow platform users in exporting their Desktop
+applications to Android and iOS smart-phones through the <a
+href="https://cordova.apache.org/">Cordova</a> wrapper</p>
 </dd>
 </dl>
 </dd>
 <dt>Jan 2016-2019</dt>
-<dd><p><strong>Proposals writing:</strong> <a href="https://portal.singularlogic.eu/en">Singular Logic S.A.</a></p>
-<p>Proposals writing for the European Projects Department. <a href="singular_logic_2016-2019.pdf">Proof</a></p>
+<dd>
+<p><strong>Proposals writing:</strong> <a
+href="https://portal.singularlogic.eu/en">Singular Logic S.A.</a></p>
+<p>Proposals writing for the European Projects Department. <a
+href="singular_logic_2016-2019.pdf">Proof</a></p>
 <dl>
 <dt><em>Responsibilities</em></dt>
-<dd><p>Writing research proposals for Horizon 2020</p>
+<dd>
+<p>Writing research proposals for Horizon 2020</p>
 </dd>
 </dl>
 </dd>
@@ -256,49 +560,89 @@
 <h2 id="technical-experience">Technical Experience</h2>
 <dl>
 <dt><em>Back-End</em></dt>
-<dd>BASH and SHELL (Often automating cumbersome and time consuming tasks)
+<dd>
+BASH and SHELL (Often automating cumbersome and time consuming tasks)
 </dd>
-<dd>NodeJS (Fan of KOA and Express, prefer Mocha-Chai, like to use Native Addons for performance)
+<dd>
+NodeJS (Fan of KOA and Express, prefer Mocha-Chai, like to use Native
+Addons for performance)
 </dd>
-<dd>Java (Was also teaching it at the Athens University of Economics and Business)
+<dd>
+Java (Was also teaching it at the Athens University of Economics and
+Business)
 </dd>
-<dd>Python (No need to read tutorials, feeling confy to code anytime)
+<dd>
+Python (No need to read tutorials, feeling confy to code anytime)
 </dd>
-<dd>C (First language to learn and impressed by its performance)
+<dd>
+C (First language to learn and impressed by its performance)
 </dd>
-<dd>C++ (Second to learn, but as soon as I learned Java I stopped using it)
+<dd>
+C++ (Second to learn, but as soon as I learned Java I stopped using it)
 </dd>
-<dd>MongoDB (<a href="mongodb_m001,pdf">Basics</a>, <a href="mongodb_m121.pdf">Aggregations</a>, <a href="mongodb_m220.pdf">JavaScript</a>, and <a href="mongodb_m201.pdf">Performance</a>)
+<dd>
+MongoDB (<a href="mongodb_m001,pdf">Basics</a>, <a
+href="mongodb_m121.pdf">Aggregations</a>, <a
+href="mongodb_m220.pdf">JavaScript</a>, and <a
+href="mongodb_m201.pdf">Performance</a>)
 </dd>
 <dt><em>DevOps</em></dt>
-<dd>Continuous Integration and Deployment (Big fan of CI/CD Travis, GitLab, and GitHub Actions)
+<dd>
+Continuous Integration and Deployment (Big fan of CI/CD Travis, GitLab,
+and GitHub Actions)
 </dd>
-<dd>Code Quality (Coveralls, maven-plugins, Style-Checkers, Reports, Prettier, and pre-commit hooks)
+<dd>
+Code Quality (Coveralls, maven-plugins, Style-Checkers, Reports,
+Prettier, and pre-commit hooks)
 </dd>
-<dd>Hosting (Firebase, AWS, and Google App Engine)
+<dd>
+Hosting (Firebase, AWS, and Google App Engine)
 </dd>
-<dd>Mobile CI/CD (Bitrise with Cordova wrapper for mobile apps)
+<dd>
+Mobile CI/CD (Bitrise with Cordova wrapper for mobile apps)
 </dd>
-<dd>Configuration Management (Ansible because it uses YAML)
+<dd>
+Configuration Management (Ansible because it uses YAML)
 </dd>
 <dt><em>Projects</em></dt>
-<dd>Epidose: A privacy-preserving epidemic dosimeter based on contact tracing <a href="https://github.com/eellak/epidose">Repository</a>
+<dd>
+Epidose: A privacy-preserving epidemic dosimeter based on contact
+tracing <a href="https://github.com/eellak/epidose">Repository</a>
 </dd>
-<dd>Exam Questionnaire Scanner: <a href="https://github.com/AntonisGkortzis/ExamQuestionnaireScanner">Repository</a>
+<dd>
+Exam Questionnaire Scanner: <a
+href="https://github.com/AntonisGkortzis/ExamQuestionnaireScanner">Repository</a>
 </dd>
-<dd>Measuring Energy Consumption: <a href="https://github.com/stefanos1316/SEMTs_Comparisson">Software</a> and <a href="https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/">Hardware</a> tools
+<dd>
+Measuring Energy Consumption: <a
+href="https://github.com/stefanos1316/SEMTs_Comparisson">Software</a>
+and <a
+href="https://stefanos1316.github.io/courses/tools/measuring_energy_consumption_direct_approach-p.html#/">Hardware</a>
+tools
 </dd>
-<dd>Programming II website: <a href="https://github.com/stefanos1316/courses">Repository</a>
+<dd>
+Programming II website: <a
+href="https://github.com/stefanos1316/courses">Repository</a>
 </dd>
-<dd>Rosetta Code Experiement: <a href="https://github.com/stefanos1316/Rosetta_Code_Data_Set">Repository</a>
+<dd>
+Rosetta Code Experiement: <a
+href="https://github.com/stefanos1316/Rosetta_Code_Data_Set">Repository</a>
 </dd>
-<dd>Validate Links: <a href="https://github.com/stefanos1316/validateLinks">Repository</a>
+<dd>
+Validate Links: <a
+href="https://github.com/stefanos1316/validateLinks">Repository</a>
 </dd>
 <dt><em>Certificates</em></dt>
-<dd>Unix Tools: <a href="unix_tools_edx.pdf">Data, Software, and Production Engineering</a>
+<dd>
+Unix Tools: <a href="unix_tools_edx.pdf">Data, Software, and Production
+Engineering</a>
 </dd>
 <dt><em>Course Completion</em></dt>
-<dd>MongoDB: <a href="mongodb_m001.pdf">Basics</a>, <a href="mongodb_m121.pdf">Aggregation</a>, <a href="mongodb_m220.pdf">JavaScript</a>, and <a href="mongodb_m201.pdf">Performance</a>
+<dd>
+MongoDB: <a href="mongodb_m001.pdf">Basics</a>, <a
+href="mongodb_m121.pdf">Aggregation</a>, <a
+href="mongodb_m220.pdf">JavaScript</a>, and <a
+href="mongodb_m201.pdf">Performance</a>
 </dd>
 </dl>
 <script
@@ -314,14 +658,20 @@
 <script>
     GitHubCalendar(".calendar", "stefanos1316", { responsive: true });
 </script>
-<h2 id="grands-awards-achievements-languages-and-living-abroad">Grands, Awards, Achievements, Languages, and Living Abroad</h2>
+<h2 id="grands-awards-achievements-languages-and-living-abroad">Grands,
+Awards, Achievements, Languages, and Living Abroad</h2>
 <ul>
 <li>Grands and awards:
 <ul>
-<li><a href="arctic_code_contributor.jpg">Arctic Code Vault Contributor</a></li>
-<li>Mentored younger researcher <a href="fse19.pdf">who won 2nd place</a> in SRC ESEC/FSE ’19.</li>
-<li>Best paper award from the 15th Annual DMST Student Conference (2018)</li>
-<li>Marie Skłodowska-Curie funds, <a href="https://portal.singularlogic.eu/en/eu-project/12374/seneca">SENECA</a> (2016-2019)</li>
+<li><a href="arctic_code_contributor.jpg">Arctic Code Vault
+Contributor</a></li>
+<li>Mentored younger researcher <a href="fse19.pdf">who won 2nd
+place</a> in SRC ESEC/FSE ’19.</li>
+<li>Best paper award from the 15th Annual DMST Student Conference
+(2018)</li>
+<li>Marie Skłodowska-Curie funds, <a
+href="https://portal.singularlogic.eu/en/eu-project/12374/seneca">SENECA</a>
+(2016-2019)</li>
 <li>Erasmus Mundus Masters Scholarship, PERCCOM (2013-2015)</li>
 </ul></li>
 <li>Human Languages:
@@ -333,12 +683,18 @@
 <li>Living Abroad:
 <ul>
 <li>Born in Gyula, Hungary but grown up in Nicosia, Cyprus.</li>
-<li>Ate baguettes and drunk wine in Lorraine, France (Fall Semester of 2013)</li>
-<li>Attended to many sauna parties in Lappeenranta, Finland (Spring Semester of 2014)</li>
-<li>Fish ice-cold beers from lakes in Lulea, Sweden (Fall Semeseter of 2014)</li>
-<li>Drunk vodka and ate borsh in Saint-Petersburg, Russia (Spring Semester of 2015)</li>
-<li>Teaching in Athens and visiting islands in Greece (Fall Semester of 2016 till now)</li>
-<li>Biked in Delft, the Netherlands for my PhD secondment (Half month of Sept. 2017)</li>
+<li>Ate baguettes and drunk wine in Lorraine, France (Fall Semester of
+2013)</li>
+<li>Attended to many sauna parties in Lappeenranta, Finland (Spring
+Semester of 2014)</li>
+<li>Fish ice-cold beers from lakes in Lulea, Sweden (Fall Semeseter of
+2014)</li>
+<li>Drunk vodka and ate borsh in Saint-Petersburg, Russia (Spring
+Semester of 2015)</li>
+<li>Teaching in Athens and visiting islands in Greece (Fall Semester of
+2016 till now)</li>
+<li>Biked in Delft, the Netherlands for my PhD secondment (Half month of
+Sept. 2017)</li>
 </ul></li>
 </ul>
 <h2 id="my-academic-genealogy-tree">My Academic Genealogy Tree</h2>

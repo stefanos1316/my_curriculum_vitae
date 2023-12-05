@@ -22,6 +22,10 @@ links https://stefanos1316.github.io/my_curriculum_vitae/index.html
 
 EDUCATION
 ---------
+2022-present
+:   **MSc, Palinka Maaster Consulting**; Hungarian University of Agriculture and Life Science
+
+    Still in progress
 2016-2021
 :   **PhD, Computer Science**; Athens University of Economics and Business
 
@@ -48,7 +52,7 @@ Jul 2022 -- currently
     
     * Developing applications with TypeScript and via [NestJS](https://nestjs.com/) frameworks.
 
-    * Using Postgres as database and [Prisma client](https://www.prisma.io/client) to manage database access.
+    * Using Postgres as database, GQL, and [Prisma client](https://www.prisma.io/client) to manage database access.
 
 
 Feb 2021 -- Jul 2022
