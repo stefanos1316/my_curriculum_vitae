@@ -18,7 +18,7 @@ links https://stefanos1316.github.io/my_curriculum_vitae/index.html
 
 ----
 
-EDUCATION
+Education
 ---------
 2022-2024
 :   **MSc, Palinka Maaster Consulting**; Hungarian University of Agriculture and Life Science
@@ -59,7 +59,7 @@ EDUCATION
 Research Publications
 ---------------------
 * Conference Papers
-     * Guoliang Zhao, __Stefanos Georgiou__, Safwat Hassan, Ying Zou, Derek Truong, Toby Corbin. Enhancing performance bug prediction using performance code metrics. In 21st International Conference on Mining Software Repositories: Technical Track, MSR '24.
+     * Guoliang Zhao, __Stefanos Georgiou__, Safwat Hassan, Ying Zou, Derek Truong, Toby Corbin. Enhancing performance bug prediction using performance code metrics. In 21st International Conference on Mining Software Repositories: Technical Track, MSR '24. <br />
      * __Stefanos Georgiou__*, Maria Kechagia, Tushar Sharma, Federica Sarro, and Jenny Zou. Green AI: Do Deep Learning Frameworks Have Different Costs? In 44th International Conference on Software Engineering: Technical Track, ICSE '22. <br />
 [[Paper](GKSSZ22.pdf)] [[BibTex](GKSSZ22.bib)]
      * __Stefanos Georgiou__, Maria Kechagia Panos Louridas, and Diomidis Spinellis. What Are Your Programming Language’s Energy-Delay Implications? In 15th International Conference on Mining Software Repositories: Technical Track, MSR '18. <br /> 

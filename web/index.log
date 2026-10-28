@@ -14,8 +14,8 @@ close source    > level 2, order 3, name '/usr/local/texlive/2023/texmf-dist/tex
 mathematics     > tweak > 'LatinModernMath-Regular', size 6.89996, math size 3, version 'Version 1.959' found, version 'Version 1.958' expected
 structures      > bookmark: Dr. Stefanos Georgiou
 structure       > sectioning > chapter @ level 2 : 0.1 -> Dr.~Stefanos Georgiou
-structures      > bookmark: EDUCATION
-structure       > sectioning > section @ level 3 : 0.1.1 -> EDUCATION
+structures      > bookmark: Education
+structure       > sectioning > section @ level 3 : 0.1.1 -> Education
 structures      > bookmark: Research Publications
 structure       > sectioning > section @ level 3 : 0.1.2 -> Research Publications
 backend         > xmp > using file '/usr/local/texlive/2023/texmf-dist/tex/context/base/mkiv/lpdf-pdx.xml'
@@ -46,10 +46,10 @@ system          > start used files
 system          > text: index
 system          > stop used files
 system          > start used files
-system          >    1: filename=publ-imp-default.lua filetype=lua foundname=/usr/local/texlive/2023/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua fullname=/usr/local/texlive/2023/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
+system          >    1: filename=publ-imp-default.lua filetype=scripts foundname=/usr/local/texlive/2023/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua fullname=/usr/local/texlive/2023/texmf-dist/tex/context/base/mkiv/publ-imp-default.lua usedmethod=database
 system          >    2: filename=cont-new.mkxl filetype=tex foundname=/usr/local/texlive/2023/texmf-dist/tex/context/base/mkxl/cont-new.mkxl fullname=/usr/local/texlive/2023/texmf-dist/tex/context/base/mkxl/cont-new.mkxl usedmethod=database
-system          >    3: filename=lang-exc.lua filetype=lua foundname=/usr/local/texlive/2023/texmf-dist/tex/context/base/mkiv/lang-exc.lua fullname=/usr/local/texlive/2023/texmf-dist/tex/context/base/mkiv/lang-exc.lua usedmethod=database
-system          >    4: filename=lang-us.lua filetype=lua foundname=/usr/local/texlive/2023/texmf-dist/tex/context/patterns/mkiv/lang-us.lua fullname=/usr/local/texlive/2023/texmf-dist/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
+system          >    3: filename=lang-exc.lua filetype=scripts foundname=/usr/local/texlive/2023/texmf-dist/tex/context/base/mkiv/lang-exc.lua fullname=/usr/local/texlive/2023/texmf-dist/tex/context/base/mkiv/lang-exc.lua usedmethod=database
+system          >    4: filename=lang-us.lua filetype=scripts foundname=/usr/local/texlive/2023/texmf-dist/tex/context/patterns/mkiv/lang-us.lua fullname=/usr/local/texlive/2023/texmf-dist/tex/context/patterns/mkiv/lang-us.lua usedmethod=database
 system          >    5: filename=/Users/sgeorgiou/GitHub/my_curriculum_vitae/web/index.tex format=tex foundname=/Users/sgeorgiou/GitHub/my_curriculum_vitae/web/index.tex fullname=/Users/sgeorgiou/GitHub/my_curriculum_vitae/web/index.tex usedmethod=direct
 system          >    6: filename=type-imp-texgyre.mkiv filetype=tex foundname=/usr/local/texlive/2023/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv fullname=/usr/local/texlive/2023/texmf-dist/tex/context/fonts/mkiv/type-imp-texgyre.mkiv usedmethod=database
 system          >    7: filename=lm.lfg filetype=tex foundname=/usr/local/texlive/2023/texmf-dist/tex/context/fonts/mkiv/lm.lfg fullname=/usr/local/texlive/2023/texmf-dist/tex/context/fonts/mkiv/lm.lfg usedmethod=database
@@ -64,10 +64,10 @@ system          >   15: filename=texgyreheros-bolditalic filetype=otf format=otf
 system          >   16: filename=lmmono10-regular filetype=otf format=otf foundname=/usr/local/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf fullname=/usr/local/texlive/2023/texmf-dist/fonts/opentype/public/lm/lmmono10-regular.otf usedmethod=database
 system          > stop used files
 system          > start commandline options
-system          > currentrun="1"
+system          > currentrun="2"
 system          > fulljobname="./index.tex"
 system          > input="./index.tex"
-system          > kindofrun="1"
+system          > kindofrun="2"
 system          > maxnofruns="9"
 system          > result="index.pdf"
 system          > texmfbinpath="/Library/TeX/texbin"
@@ -88,24 +88,24 @@ system          >   min     150000   10000000     150000     150000    2000000  
 system          >   set     500000   10000000     250000     250000   50000000   10000000   10000000     100000       2000      10000     100000     500000     100000        250        250        250
 system          >   stp     100000    1000000     100000     100000     500000     250000    1000000      10000        250       1000      10000      10000        250        250         50         25
 system          > 
-system          >   mem     150000     961524     150000               2000000    1000000    1000000      10000        500       1000      20000      10000    6803856         96       1200        320
-system          >   all    2400000     961524    2400000              18000000    8000000    1000000     320000      16000      72000      80000     160000    6803856         96      28800      10240
+system          >   mem     150000     961513     150000               2000000    1000000    1000000      10000        500       1000      20000      10000    6803832         96       1200        320
+system          >   all    2400000     961513    2400000              18000000    8000000    1000000     320000      16000      72000      80000     160000    6803832         96      28800      10240
 system          > 
 system          >   ini    2145258     910561          0      48090          0     527005                                                                                       0                      
-system          >   ptr      50085                  9955      50069                582379          0          0          0          0          0          0         13          0         28          7
-system          >   top      50086                740853     131074      54212     577118        398         38          5         12         41        468        250        250         50         10
+system          >   ptr      50084                  9954      50068                582378          0          0          0          0          0          0         13          0         28          7
+system          >   top      50085                740853     131074      54212     577118        398         38          5         12         41        468        250        250         50         10
 system          >   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 system          > 
 system          >   current input type    : initial
 system          > 
-system          >   approximate memory    : 43840836 (41 MB)
+system          >   approximate memory    : 43840801 (41 MB)
 system          > 
 system          >   expansion depth       : min: 10000, max: 1000000, set: 10000, top: 8
 system          > 
 system          >   luabytecode registers : 1008
 system          >   luabytecode bytes     : 16144 (0 MB)
-system          >   luastate bytes now    : 101973471 (97 MB)
-system          >   luastate bytes max    : 103647874 (98 MB)
+system          >   luastate bytes now    : 101989628 (97 MB)
+system          >   luastate bytes max    : 103650017 (98 MB)
 system          > 
 system          >   file callbacks        : 987
 system          >   saved callbacks       : 3317
@@ -128,8 +128,8 @@ system          >   backend callbacks     : 0
 system          > 
 mkiv lua stats  > used config file: selfautoparent:/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable+writable: '/Users/sgeorgiou/.texlive2023/texmf-var/luametatex-cache/context/1b4da46d1f340757f9984eae810b1464'
-mkiv lua stats  > resource resolver: loadtime 0.069 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 16 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 508 modules (0.198 sec), 105 tables (0.008 sec), 613 chunks (0.206 sec)
+mkiv lua stats  > resource resolver: loadtime 0.084 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 16 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 508 modules (0.217 sec), 105 tables (0.008 sec), 613 chunks (0.224 sec)
 mkiv lua stats  > traced context: maxstack: 1676, freed: 0, unreachable: 1676
 mkiv lua stats  > cleaned up reserved nodes: 79 nodes, 7 lists of 435
 mkiv lua stats  > node memory usage: 9 attribute, 1 glue, 209 gluespec, 3 kern, 645 mathspec, 2 penalty, 2 temp
@@ -143,14 +143,14 @@ mkiv lua stats  > randomizer: resumed with value 0.32244937967103
 mkiv lua stats  > loaded patterns: en::1, load time: 0.000
 mkiv lua stats  > interactive elements: 80 references, 29 destinations
 mkiv lua stats  > loaded fonts: 6 files: latinmodern-math.otf, lmmono10-regular.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
-mkiv lua stats  > font engine: otf 3.133, afm 1.513, tfm 1.000, 13 instances, 5 shared in backend, 3 common vectors, 2 common hashes, load time 0.154 seconds 
-mkiv lua stats  > math tweaking time: 0.034 seconds, 12 math goodie tables
+mkiv lua stats  > font engine: otf 3.133, afm 1.513, tfm 1.000, 13 instances, 5 shared in backend, 3 common vectors, 2 common hashes, load time 0.166 seconds 
+mkiv lua stats  > math tweaking time: 0.035 seconds, 12 math goodie tables
 mkiv lua stats  > pdf annotations: 80 links (80 unique), 0 special
 mkiv lua stats  > font embedding time: 0.004 seconds, 5 fonts
 mkiv lua stats  > result saved in file: index.pdf.pdf, compresslevel 1, objectcompresslevel 3
 mkiv lua stats  > positions: 4 collected, 0 deltas, 0 shared partials, 0 partial entries
 mkiv lua stats  > used platform: osx-arm, type: unix, binary subtree: bin
 mkiv lua stats  > used engine: luametatex version: 2.1006, functionality level: 20230224, format id: 686, compiler: gcc
-mkiv lua stats  > tex properties: 740853 hash slots used of 2097152, 50069 control sequences, approximate memory usage: 41 MB
+mkiv lua stats  > tex properties: 740853 hash slots used of 2097152, 50068 control sequences, approximate memory usage: 41 MB
 mkiv lua stats  > lua properties: engine: lua 5.4, used memory: 101 MB, ctx: 97 MB, max: 98 MB, symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 0.489 seconds, 5 processed pages, 5 shipped pages, 10.219 pages/second
+mkiv lua stats  > runtime: 0.539 seconds, 5 processed pages, 5 shipped pages, 9.275 pages/second

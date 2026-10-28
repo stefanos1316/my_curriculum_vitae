@@ -279,9 +279,9 @@ utilitydata.structures.lists.collected={
    ["view"]="fit",
   },
   ["titledata"]={
-   ["bookmark"]="EDUCATION",
+   ["bookmark"]="Education",
    ["label"]="section",
-   ["title"]="EDUCATION",
+   ["title"]="Education",
   },
  },
  {
