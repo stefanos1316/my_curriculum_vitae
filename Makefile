@@ -8,16 +8,30 @@ STYLE=chmduquesne
 
 all: html pdf docx rtf
 
-pdf: init
-	for f in $(IN_DIR)/*.md; do \
+.PHONY: check-context
+check-context:
+	@command -v context >/dev/null 2>&1 || { \
+		echo "Error: ConTeXt (context) is required to build PDFs. See README.md for installation and PATH setup." >&2; \
+		exit 1; \
+	}
+
+pdf: check-context init
+	set -e; for f in $(IN_DIR)/*.md; do \
 		FILE_NAME=`basename $$f | sed 's/.md//g'`; \
 		echo $$FILE_NAME.pdf; \
 		pandoc --standalone --template $(STYLES_DIR)/$(STYLE).tex \
 			--from markdown --to context \
 			--variable papersize=A4 \
 			--output $(OUT_DIR)/$$FILE_NAME.tex $$f > /dev/null; \
-		context $(OUT_DIR)/$$FILE_NAME.tex \
-			--result=$(OUT_DIR)/$$FILE_NAME.pdf > $(OUT_DIR)/context_$$FILE_NAME.log 2>&1; \
+		(cd $(OUT_DIR) && context $$FILE_NAME.tex \
+			--result=$$FILE_NAME.pdf) > $(OUT_DIR)/context_$$FILE_NAME.log 2>&1 || { \
+			cat $(OUT_DIR)/context_$$FILE_NAME.log >&2; \
+			exit 1; \
+		}; \
+		if [ ! -s $(OUT_DIR)/$$FILE_NAME.pdf ]; then \
+			echo "Error: ConTeXt did not produce $(OUT_DIR)/$$FILE_NAME.pdf. See $(OUT_DIR)/context_$$FILE_NAME.log." >&2; \
+			exit 1; \
+		fi; \
 	done
 
 html: init

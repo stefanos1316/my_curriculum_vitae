@@ -12,6 +12,41 @@ Original source of:
 * [Markdown CV](https://github.com/mszep/pandoc_resume.git)
 * [GitHub's Activity Overview](https://github.com/IonicaBizau/github-calendar.git)
 
+Building locally
+================
+
+Run `make` to generate HTML, PDF, DOCX, and RTF files in `web/`.
+Pandoc is required for all formats; PDF generation also requires ConTeXt
+(`context`) because the PDF template uses ConTeXt rather than LaTeX.
+Run `make html` to build only the website without ConTeXt.
+
+On macOS, install Pandoc with `brew install pandoc` and install a TeX
+distribution that includes ConTeXt, such as the full
+[MacTeX distribution](https://www.tug.org/mactex/).
+Ensure Homebrew's binary directory and `/Library/TeX/texbin` are on your
+shell's `PATH`. For example, after configuring Homebrew, add this to
+`~/.zprofile` and open a new terminal:
+
+```sh
+export PATH="/Library/TeX/texbin:$PATH"
+```
+
+Verify the tools with `pandoc --version` and `context --version` before
+running `make`. If ConTeXt reports an unknown `mtx-context.lua` script,
+run `mtxrun --generate` to refresh its file database, then check again.
+
+On Debian/Ubuntu, install the build dependencies with:
+
+```sh
+sudo apt-get update
+sudo apt-get install pandoc context
+```
+
+An exit code of 127 with `context: command not found` means ConTeXt is
+missing or not on `PATH`. Other ConTeXt failures are printed during the
+build and saved in `web/context_<name>.log`. The PDF build stops at the
+first failed conversion.
+
 
 Illustrate Page
 ===============
@@ -23,4 +58,3 @@ Contact
 =======
 
 sgeorgiou(at)aueb.gr, sgeorgiou(at).singularlogic.eu, and stefanos1316(at)gmail.com
-
