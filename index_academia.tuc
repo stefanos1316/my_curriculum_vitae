@@ -4,8 +4,8 @@ utilitydata.comment={
  ["escape"]="[===[ ... ]===]",
  ["file"]="index_academia",
  ["format"]="cont-en",
- ["stamp"]="2021.03.05 19:11",
- ["version"]=0x1.51eb851eb851fp+0,
+ ["stamp"]="2023.03.10 12:15",
+ ["version"]=0x1.547ae147ae148p+0,
 }
 
 if not utilitydata.job then utilitydata.job = { } end
@@ -19,7 +19,7 @@ if not utilitydata.job.variables then utilitydata.job.variables = { } end
 
 utilitydata.job.variables.collected={
  ["macros"]={},
- ["randomseed"]=0x1.a832a03p-2,
+ ["randomseed"]=0x1.5936d1af4cb13p-1,
  ["sectionblockorder"]={},
 }
 
@@ -36,6 +36,13 @@ if not utilitydata.job then utilitydata.job = { } end
 if not utilitydata.job.positions then utilitydata.job.positions = { } end
 
 utilitydata.job.positions.collected={
+ ["shared"]={
+  ["x_h_d"]={},
+  ["x_h_d_hs"]={},
+  ["x_y_w_h"]={},
+  ["y_w_h_d"]={},
+ },
+ ["user"]={},
 }
 
 if not utilitydata.job then utilitydata.job = { } end
@@ -171,7 +178,7 @@ if not utilitydata.structures.counters then utilitydata.structures.counters = { 
 
 utilitydata.structures.counters.collected={
  ["chemical"]={
-  { 0 },
+  { 0, 0 },
  },
  ["combination"]={
   { 0 },
@@ -180,32 +187,32 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["figure"]={
-  { 0 },
+  { 0, 0 },
  },
  ["footnote"]={
   { 0 },
  },
  ["formula"]={
-  { 0 },
+  { 0, 0 },
  },
  ["graphic"]={
-  { 0 },
+  { 0, 0 },
  },
  ["intermezzo"]={
-  { 0 },
+  { 0, 0 },
  },
  ["itemgroup:itemize"]={
-  { 0, 2, 3 },
+  { 0, 0, 2, 3 },
   { 0, 3, 0, 3, 0, 0, 5, 0, 3, 0, 7 },
  },
  ["itemgroup:itemize:note"]={
-  { 0 },
+  { 0, 0 },
  },
  ["linenote"]={
   { 0 },
  },
  ["paragraph"]={
-  { 0 },
+  { 0, 0 },
  },
  ["realpage"]={
   { 5 },
@@ -214,7 +221,7 @@ utilitydata.structures.counters.collected={
   { 5 },
  },
  ["table"]={
-  { 0 },
+  { 0, 0 },
  },
  ["textnote:note"]={
   { 0 },
@@ -237,9 +244,11 @@ utilitydata.structures.lists.collected={
    ["realpage"]=1,
    ["reference"]="stefanos-georgiou",
    ["section"]=1,
+   ["view"]="fit",
   },
   ["titledata"]={
-   ["label"]="section",
+   ["bookmark"]="Stefanos Georgiou",
+   ["label"]="chapter",
    ["title"]="Stefanos Georgiou",
   },
  },
@@ -252,19 +261,23 @@ utilitydata.structures.lists.collected={
    ["realpage"]=1,
    ["reference"]="education",
    ["section"]=2,
+   ["view"]="fit",
   },
   ["titledata"]={
-   ["label"]="subsection",
+   ["bookmark"]="Education",
+   ["label"]="section",
    ["title"]="Education",
   },
  },
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=3,
    ["order"]=1,
    ["realpage"]=1,
    ["section"]=2,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="2021-2022",
@@ -273,10 +286,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=4,
    ["order"]=2,
    ["realpage"]=1,
    ["section"]=2,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="2016-2021",
@@ -285,10 +300,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=5,
    ["order"]=3,
    ["realpage"]=1,
    ["section"]=2,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="2013-2015",
@@ -297,10 +314,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=6,
    ["order"]=4,
    ["realpage"]=1,
    ["section"]=2,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="2008-2013",
@@ -315,9 +334,11 @@ utilitydata.structures.lists.collected={
    ["realpage"]=1,
    ["reference"]="research-publications",
    ["section"]=3,
+   ["view"]="fit",
   },
   ["titledata"]={
-   ["label"]="subsection",
+   ["bookmark"]="Research Publications",
+   ["label"]="section",
    ["title"]="Research Publications",
   },
  },
@@ -330,19 +351,23 @@ utilitydata.structures.lists.collected={
    ["realpage"]=2,
    ["reference"]="organization-services",
    ["section"]=4,
+   ["view"]="fit",
   },
   ["titledata"]={
-   ["label"]="subsection",
+   ["bookmark"]="Organization Services",
+   ["label"]="section",
    ["title"]="Organization Services",
   },
  },
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=9,
    ["order"]=5,
    ["realpage"]=2,
    ["section"]=4,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="{\\em Program Committee}",
@@ -351,10 +376,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=10,
    ["order"]=6,
    ["realpage"]=2,
    ["section"]=4,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="{\\em Reviewer}",
@@ -363,10 +390,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=11,
    ["order"]=7,
    ["realpage"]=2,
    ["section"]=4,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="{\\em Co-reviewer}",
@@ -381,19 +410,23 @@ utilitydata.structures.lists.collected={
    ["realpage"]=2,
    ["reference"]="invited-talks",
    ["section"]=5,
+   ["view"]="fit",
   },
   ["titledata"]={
-   ["label"]="subsection",
+   ["bookmark"]="Invited Talks",
+   ["label"]="section",
    ["title"]="Invited Talks",
   },
  },
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=13,
    ["order"]=8,
    ["realpage"]=2,
    ["section"]=5,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="Tutorials",
@@ -402,10 +435,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=14,
    ["order"]=9,
-   ["realpage"]=3,
+   ["realpage"]=2,
    ["section"]=5,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="Research",
@@ -420,9 +455,11 @@ utilitydata.structures.lists.collected={
    ["realpage"]=3,
    ["reference"]="teaching-experience",
    ["section"]=6,
+   ["view"]="fit",
   },
   ["titledata"]={
-   ["label"]="subsection",
+   ["bookmark"]="Teaching Experience",
+   ["label"]="section",
    ["title"]="Teaching Experience",
   },
  },
@@ -435,19 +472,23 @@ utilitydata.structures.lists.collected={
    ["realpage"]=3,
    ["reference"]="experience-from-industry",
    ["section"]=7,
+   ["view"]="fit",
   },
   ["titledata"]={
-   ["label"]="subsection",
+   ["bookmark"]="Experience from Industry",
+   ["label"]="section",
    ["title"]="Experience from Industry",
   },
  },
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=17,
    ["order"]=10,
    ["realpage"]=3,
    ["section"]=7,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="Feb 2021-currently",
@@ -456,10 +497,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=18,
    ["order"]=11,
    ["realpage"]=3,
    ["section"]=7,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="{\\em Responsibilities}",
@@ -468,10 +511,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=19,
    ["order"]=12,
    ["realpage"]=3,
    ["section"]=7,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="Sep 2020-Feb 2021",
@@ -480,10 +525,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=20,
    ["order"]=13,
    ["realpage"]=3,
    ["section"]=7,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="{\\em Responsibilities}",
@@ -492,10 +539,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=21,
    ["order"]=14,
    ["realpage"]=3,
    ["section"]=7,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="Jan 2019-Apr 2020",
@@ -504,10 +553,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=22,
    ["order"]=15,
    ["realpage"]=3,
    ["section"]=7,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="{\\em Responsibilities}",
@@ -516,10 +567,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=23,
    ["order"]=16,
    ["realpage"]=4,
    ["section"]=7,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="Jan 2016-2019",
@@ -528,10 +581,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=24,
    ["order"]=17,
    ["realpage"]=4,
    ["section"]=7,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="{\\em Responsibilities}",
@@ -546,19 +601,23 @@ utilitydata.structures.lists.collected={
    ["realpage"]=4,
    ["reference"]="technical-experience",
    ["section"]=8,
+   ["view"]="fit",
   },
   ["titledata"]={
-   ["label"]="subsection",
+   ["bookmark"]="Technical Experience",
+   ["label"]="section",
    ["title"]="Technical Experience",
   },
  },
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=26,
    ["order"]=18,
    ["realpage"]=4,
    ["section"]=8,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="{\\em Back-End}",
@@ -567,10 +626,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=27,
    ["order"]=19,
    ["realpage"]=4,
    ["section"]=8,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="{\\em DevOps}",
@@ -579,10 +640,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=28,
    ["order"]=20,
    ["realpage"]=4,
    ["section"]=8,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="{\\em Projects}",
@@ -591,10 +654,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=29,
    ["order"]=21,
    ["realpage"]=4,
    ["section"]=8,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="{\\em Certificates}",
@@ -603,10 +668,12 @@ utilitydata.structures.lists.collected={
  {
   ["metadata"]=15,
   ["references"]={
+   ["block"]="bodypart",
    ["internal"]=30,
    ["order"]=22,
    ["realpage"]=4,
    ["section"]=8,
+   ["view"]="fit",
   },
   ["titledata"]={
    ["title"]="{\\em Course Completion}",
@@ -618,12 +685,14 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=31,
-   ["realpage"]=4,
+   ["realpage"]=5,
    ["reference"]="grands-awards-achievements-languages-and-living-abroad",
    ["section"]=9,
+   ["view"]="fit",
   },
   ["titledata"]={
-   ["label"]="subsection",
+   ["bookmark"]="Grands, Awards, Achievements, Languages, and Living Abroad",
+   ["label"]="section",
    ["title"]="Grands, Awards, Achievements, Languages, and Living Abroad",
   },
  },
@@ -636,9 +705,11 @@ utilitydata.structures.lists.collected={
    ["realpage"]=5,
    ["reference"]="my-academic-genealogy-tree",
    ["section"]=10,
+   ["view"]="fit",
   },
   ["titledata"]={
-   ["label"]="subsection",
+   ["bookmark"]="My Academic Genealogy Tree",
+   ["label"]="section",
    ["title"]="My Academic Genealogy Tree",
   },
  },
@@ -696,10 +767,16 @@ if not utilitydata.structures.references then utilitydata.structures.references 
 
 utilitydata.structures.references.referred={
  { 1, 1 },
- { 2, 13 },
- { 3, 29 },
+ { 2, 15 },
+ { 3, 31 },
  { 4, 52 },
  { 5, 72 },
+}
+
+if not utilitydata.job then utilitydata.job = { } end
+if not utilitydata.job.parwrappers then utilitydata.job.parwrappers = { } end
+
+utilitydata.job.parwrappers.collected={
 }
 
 if not utilitydata.job then utilitydata.job = { } end
@@ -751,23 +828,23 @@ utilitydata.job.embedded.collected={
 
 utilitydata.job.packed={
  ["index"]={
-  { 0, 0, 1 },
-  { 0, 0, 1, 1 },
-  { 0, 0, 1, 2 },
-  { 0, 0, 1, 3 },
-  { 0, 0, 1, 4 },
-  { 0, 0, 1, 5 },
-  { 0, 0, 1, 6 },
-  { 0, 0, 1, 7 },
-  { 0, 0, 1, 8 },
-  { 0, 0, 1, 9 },
+  { 0, 1 },
+  { 0, 1, 1 },
+  { 0, 1, 2 },
+  { 0, 1, 3 },
+  { 0, 1, 4 },
+  { 0, 1, 5 },
+  { 0, 1, 6 },
+  { 0, 1, 7 },
+  { 0, 1, 8 },
+  { 0, 1, 9 },
   {
-   ["catcodes"]=8,
+   ["catcodes"]=9,
    ["coding"]="tex",
    ["increment"]="yes",
    ["kind"]="section",
-   ["level"]=3,
-   ["name"]="section",
+   ["level"]=2,
+   ["name"]="chapter",
   },
   {
    ["block"]="bodypart",
@@ -779,12 +856,12 @@ utilitydata.job.packed={
    ["set"]="all",
   },
   {
-   ["catcodes"]=8,
+   ["catcodes"]=9,
    ["coding"]="tex",
    ["increment"]="yes",
    ["kind"]="section",
-   ["level"]=4,
-   ["name"]="subsection",
+   ["level"]=3,
+   ["name"]="section",
   },
   {
    ["block"]="bodypart",
@@ -796,9 +873,9 @@ utilitydata.job.packed={
    ["set"]="all",
   },
   {
-   ["catcodes"]=8,
+   ["catcodes"]=9,
    ["kind"]="construction",
-   ["level"]=4,
+   ["level"]=3,
    ["name"]="description",
   },
   {
