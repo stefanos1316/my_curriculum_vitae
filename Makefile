@@ -24,7 +24,7 @@ pdf: check-context init
 			--variable papersize=A4 \
 			--output $(OUT_DIR)/$$FILE_NAME.tex $$f > /dev/null; \
 		(cd $(OUT_DIR) && context $$FILE_NAME.tex \
-			--result=$$FILE_NAME.pdf) > $(OUT_DIR)/context_$$FILE_NAME.log 2>&1 || { \
+			--result=$$FILE_NAME) > $(OUT_DIR)/context_$$FILE_NAME.log 2>&1 || { \
 			cat $(OUT_DIR)/context_$$FILE_NAME.log >&2; \
 			exit 1; \
 		}; \
