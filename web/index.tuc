@@ -230,10 +230,10 @@ utilitydata.structures.counters.collected={
   { 0, 0 },
  },
  ["realpage"]={
-  { 5 },
+  { 6 },
  },
  ["subpage"]={
-  { 5 },
+  { 6 },
  },
  ["table"]={
   { 0, 0 },
@@ -242,7 +242,7 @@ utilitydata.structures.counters.collected={
   { 0 },
  },
  ["userpage"]={
-  { 5 },
+  { 6 },
  },
 }
 
@@ -346,7 +346,7 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=7,
    ["order"]=5,
-   ["realpage"]=1,
+   ["realpage"]=2,
    ["section"]=2,
    ["view"]="fit",
   },
@@ -377,7 +377,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=9,
-   ["realpage"]=2,
+   ["realpage"]=3,
    ["reference"]="organization-services",
    ["section"]=4,
    ["view"]="fit",
@@ -394,7 +394,7 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=10,
    ["order"]=6,
-   ["realpage"]=2,
+   ["realpage"]=3,
    ["section"]=4,
    ["view"]="fit",
   },
@@ -498,7 +498,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=17,
-   ["realpage"]=3,
+   ["realpage"]=4,
    ["reference"]="developer-working-experience",
    ["section"]=7,
    ["view"]="fit",
@@ -515,7 +515,7 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=18,
    ["order"]=11,
-   ["realpage"]=3,
+   ["realpage"]=4,
    ["section"]=7,
    ["view"]="fit",
   },
@@ -599,7 +599,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=24,
-   ["realpage"]=4,
+   ["realpage"]=5,
    ["reference"]="tech-skillset",
    ["section"]=8,
    ["view"]="fit",
@@ -616,7 +616,7 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=25,
    ["order"]=17,
-   ["realpage"]=4,
+   ["realpage"]=5,
    ["section"]=8,
    ["view"]="fit",
   },
@@ -659,14 +659,14 @@ utilitydata.structures.lists.collected={
    ["block"]="bodypart",
    ["internal"]=28,
    ["realpage"]=5,
-   ["reference"]="recognitions-and-languages",
+   ["reference"]="recognitions-and-language",
    ["section"]=9,
    ["view"]="fit",
   },
   ["titledata"]={
-   ["bookmark"]="RECOGNITIONS AND LANGUAGES",
+   ["bookmark"]="Recognitions and Language",
    ["label"]="section",
-   ["title"]="RECOGNITIONS AND LANGUAGES",
+   ["title"]="Recognitions and Language",
   },
  },
  {
@@ -675,7 +675,7 @@ utilitydata.structures.lists.collected={
   ["references"]={
    ["block"]="bodypart",
    ["internal"]=29,
-   ["realpage"]=5,
+   ["realpage"]=6,
    ["reference"]="my-academic-genealogy-tree",
    ["section"]=10,
    ["view"]="fit",
@@ -727,6 +727,13 @@ utilitydata.structures.pages.collected={
   ["prefixdata"]=25,
   ["state"]="start",
  },
+ {
+  ["block"]="bodypart",
+  ["number"]=6,
+  ["numberdata"]=24,
+  ["prefixdata"]=25,
+  ["state"]="start",
+ },
 }
 
 if not utilitydata.structures then utilitydata.structures = { } end
@@ -740,10 +747,10 @@ if not utilitydata.structures.references then utilitydata.structures.references 
 
 utilitydata.structures.references.referred={
  { 1, 1 },
- { 2, 17 },
- { 3, 31 },
- { 4, 43 },
- { 5, 70 },
+ { 2, 15 },
+ { 3, 32 },
+ { 4, 40 },
+ { 5, 71 },
 }
 
 if not utilitydata.job then utilitydata.job = { } end

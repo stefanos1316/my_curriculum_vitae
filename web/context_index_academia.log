@@ -48,14 +48,14 @@ pages           > flushing realpage 5, userpage 5, subpage 5
 close source    > level 1, order 3, name './index_academia.tex'
 mkiv lua stats  > used config file: selfautoparent:/texmf-dist/web2c/texmfcnf.lua
 mkiv lua stats  > used cache path: readable+writable: '/Users/sgeorgiou/.texlive2023/texmf-var/luametatex-cache/context/1b4da46d1f340757f9984eae810b1464'
-mkiv lua stats  > resource resolver: loadtime 0.090 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 16 found files, scanned paths: <none>
-mkiv lua stats  > stored bytecode data: 508 modules (0.226 sec), 105 tables (0.008 sec), 613 chunks (0.235 sec)
+mkiv lua stats  > resource resolver: loadtime 0.076 seconds, 0 scans with scantime 0.000 seconds, 0 shared scans, 16 found files, scanned paths: <none>
+mkiv lua stats  > stored bytecode data: 508 modules (0.212 sec), 105 tables (0.008 sec), 613 chunks (0.219 sec)
 mkiv lua stats  > traced context: maxstack: 1676, freed: 0, unreachable: 1676
 mkiv lua stats  > cleaned up reserved nodes: 79 nodes, 7 lists of 435
 mkiv lua stats  > node memory usage: 9 attribute, 1 glue, 174 gluespec, 3 kern, 645 mathspec, 2 penalty, 2 temp
 mkiv lua stats  > node list callback tasks: 13 unique task lists, 9 instances (re)created, 1405 calls
 mkiv lua stats  > h-node processing time: 0.011 seconds including kernel
-mkiv lua stats  > driver time: 0.016 seconds 
+mkiv lua stats  > driver time: 0.017 seconds 
 mkiv lua stats  > used backend: pdf
 mkiv lua stats  > jobdata time: 0.002 seconds saving, 0.001 seconds loading
 mkiv lua stats  > callbacks: file: 932, saved: 3007, direct: 2, function: 2594, value: 7, message: 0, bytecode: 613, late 0, total: 7155 (1431 per page)
@@ -64,7 +64,7 @@ mkiv lua stats  > loaded patterns: en::1, load time: 0.000
 mkiv lua stats  > interactive elements: 77 references, 32 destinations
 mkiv lua stats  > loaded fonts: 6 files: latinmodern-math.otf, lmmono10-regular.otf, texgyreheros-bold.otf, texgyreheros-bolditalic.otf, texgyreheros-italic.otf, texgyreheros-regular.otf
 mkiv lua stats  > font engine: otf 3.133, afm 1.513, tfm 1.000, 13 instances, 5 shared in backend, 3 common vectors, 2 common hashes, load time 0.163 seconds 
-mkiv lua stats  > math tweaking time: 0.036 seconds, 12 math goodie tables
+mkiv lua stats  > math tweaking time: 0.035 seconds, 12 math goodie tables
 mkiv lua stats  > pdf annotations: 77 links (77 unique), 0 special
 mkiv lua stats  > font embedding time: 0.005 seconds, 5 fonts
 mkiv lua stats  > result saved in file: index_academia.pdf, compresslevel 1, objectcompresslevel 3
@@ -73,6 +73,6 @@ mkiv lua stats  > used platform: osx-arm, type: unix, binary subtree: bin
 mkiv lua stats  > used engine: luametatex version: 2.1006, functionality level: 20230224, format id: 686, compiler: gcc
 mkiv lua stats  > tex properties: 740853 hash slots used of 2097152, 50069 control sequences, approximate memory usage: 41 MB
 mkiv lua stats  > lua properties: engine: lua 5.4, used memory: 101 MB, ctx: 97 MB, max: 98 MB, symbol mask: utf (τεχ)
-mkiv lua stats  > runtime: 0.564 seconds, 5 processed pages, 5 shipped pages, 8.868 pages/second
-system          | total runtime: 0.584 seconds of 0.712 seconds
+mkiv lua stats  > runtime: 0.563 seconds, 5 processed pages, 5 shipped pages, 8.877 pages/second
+system          | total runtime: 0.585 seconds of 0.698 seconds
 

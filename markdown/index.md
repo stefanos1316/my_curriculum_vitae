@@ -9,7 +9,7 @@ Dr. Stefanos Georgiou
 
 >  **Get in touch**: firstname at simpletechs dot com, stefanos at simpletechs dot net, Tel: +36 70 624 1550
 
->  **About me**: I am passionated with research, [coding](https://stefanos1316.github.io/programmers_blog/), integrating new technologies, and automating cumbersome tasks. My research interests lie to Green and Energy-Efficient Computing, Mining Software Repositories, and Machine Learning. I enjoy working on the command-line and especially with Linux systems. I love to create small indepentant componets and tools to facilitate different daily functionalities. On my free time, I enjoy sporting, reading books, and [travelling](https://stefanos1316.github.io/my_blog/index.html). 
+>  **About me**: I am passionate about research, [coding](https://stefanos1316.github.io/programmers_blog/), exploring emerging technologies, and automating repetitive and time-consuming tasks. My research interests include Green and Energy-Efficient Computing, Mining Software Repositories, and Machine Learning. I enjoy working at the command line, particularly in Linux environments, and developing small, independent components and tools that simplify everyday tasks and improve productivity. I am always eager to learn, experiment with new technologies, and build practical solutions to real-world problems. In my free time, I enjoy sports, reading books, and [travelling](https://stefanos1316.github.io/my_blog/index.html).
 
 >  **NOTE**:Please consider wathcing the online CV that has diagrams and
 links https://stefanos1316.github.io/my_curriculum_vitae/index.html
@@ -60,23 +60,27 @@ Research Publications
 ---------------------
 * Conference Papers
      * Guoliang Zhao, __Stefanos Georgiou__, Safwat Hassan, Ying Zou, Derek Truong, Toby Corbin. Enhancing performance bug prediction using performance code metrics. In 21st International Conference on Mining Software Repositories: Technical Track, MSR '24. <br />
+    [[Link](https://dl.acm.org/doi/10.1145/3643991.3644920)]
      * __Stefanos Georgiou__*, Maria Kechagia, Tushar Sharma, Federica Sarro, and Jenny Zou. Green AI: Do Deep Learning Frameworks Have Different Costs? In 44th International Conference on Software Engineering: Technical Track, ICSE '22. <br />
-[[Paper](GKSSZ22.pdf)] [[BibTex](GKSSZ22.bib)]
+    [[Link](https://dl.acm.org/doi/10.1145/3510003.3510221)] [[Presentation](https://docs.google.com/presentation/d/1BXNIetdg40schlPwB_kQo8PYz1JUMmhH/edit?slide=id.g124f8e2a59c_0_122#slide=id.g124f8e2a59c_0_122)] [[Data-set](https://github.com/stefanos1316/ICSE_2022_artifact)]
      * __Stefanos Georgiou__, Maria Kechagia Panos Louridas, and Diomidis Spinellis. What Are Your Programming Language’s Energy-Delay Implications? In 15th International Conference on Mining Software Repositories: Technical Track, MSR '18. <br /> 
-[[Paper](GKLS18.pdf)] [[BibTex](GKLS18.bib)] [[Presentation](https://www.slideshare.net/GeorgiouStefanos/what-are-your-programming-languages-energydelay-implications-106251480)] [[Data-set](https://github.com/stefanos1316/Rosetta_Code_Data_Set)]
+    [[Link](https://dl.acm.org/doi/10.1145/3196398.3196414)] [[Presentation](https://www.slideshare.net/GeorgiouStefanos/what-are-your-programming-languages-energydelay-implications-106251480)] [[Data-set](https://github.com/stefanos1316/Rosetta_Code_Data_Set)]
      * __Stefanos Georgiou__, Maria Kechagia, and Diomidis Spinellis. Analyzing Programming Languages' Energy Consumption: An Empirical Study. In PCI 2017: Proceedings of the 21st Pan-Hellenic Conference on Informatics, ACM International Conference Proceeding Series. ACM Press, September 2017. <br/>
-[[Paper](GKS17.pdf)] [[BibTex](GKS17.bib)] [[Presentation](https://www.slideshare.net/GeorgiouStefanos/programming-languages-energy-consumption-an-empirical-study)] [[Data-Set](https://github.com/stefanos1316/Rosetta_Code_Data_Set)]
+    [[Link](https://dl.acm.org/doi/10.1145/3139367.3139418)] [[Presentation](https://www.slideshare.net/GeorgiouStefanos/programming-languages-energy-consumption-an-empirical-study)] [[Data-Set](https://github.com/stefanos1316/Rosetta_Code_Data_Set)]
 
 * Journal Articles
      * Tushar Sharma, Maria Kechagia, __Stefanos Georgiou__, Rohit Tiwari, Indira Vats, Hadi Moazen, Federica Sarro. A survey on machine learning techniques for source code analysis. Accpeted for publication in Elsevier Journal of Systems and Software 2024. <br />
      * Shayan Noei, Heng Li, __Stefanos Georgiou__, Ying Zou. An empirical study of refactoring rhythms and tactics in the software development process. Accepted for publication in Transactions on Software Engineering.
+     [[Link](https://dl.acm.org/doi/10.1109/TSE.2023.3326775)]
      * Maram Assi, Safwat Hassan, __Stefanos Georgiou__, Ying Zou. Predicting the change impact of resolving defects by leveraging the topics of issue reports in open source software systems. Accepted for publication in Transactions on Software Engineering and Methodology 2023. <br />
+     [[Link](https://dl.acm.org/doi/full/10.1145/3593802)]
      * Tushar Sharma, __Stefanos Georgiou__, Maria Kechagia, Taher A Ghaleb, Federica Sarro. Investigating developers’ perception on software testability and its effects. Accepted for publication in Empirical Software Engineering 2023. <br />
+    [[Link](https://www.springerprofessional.de/en/investigating-developers-perception-on-software-testability-and-/26040288)]
      * __Stefanos Georgiou__, Dimitris Mitropoulos, and Diomidis Spinellis. Energy-Efficient Computing in a Secure Environment. Submitted in July 2020 for review in ACM Transaction of Computer Systems. <br />
      * __Stefanos Georgiou__ and Diomidis Spinellis. Energy-Delay Investigation of Remote Inter-Process Communication Technologies. Accepted for publication in Elsevier Journal of Systems and Software 2019. <br />
-[[Preprint](GS19.pdf)] [[BibTex](GS19.bib)]
+    [[Link](https://www.sciencedirect.com/science/article/abs/pii/S0164121219302808)]
      * __Stefanos Georgiou__, Stamatia Rizou, and Diomidis Spinellis. Software Development Life Cycle for Energy-Efficiency: Techniques and Tools. Accepted for publication in ACM Computing Surveys 2019. <br />
-[[Preprint](GRS19.pdf)] [[BibTex](GRS19.bib)]
+    [[Link](https://dl.acm.org/doi/10.1145/3337773)]
 
 
 Organization Services
@@ -224,8 +228,8 @@ TECH SKILLSET
 </script>
 
 
-RECOGNITIONS AND LANGUAGES
---------------------------------------------
+Recognitions and Language
+--------------------------
 * Grands and awards:
      * [Arctic Code Vault Contributor](arctic_code_contributor.jpg)
      * Mentored younger researcher [who won 2nd place](fse19.pdf) in SRC ESEC/FSE '19.
