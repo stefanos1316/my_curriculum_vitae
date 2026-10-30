@@ -6,8 +6,11 @@ on:
   pull_request:
     branches: [ master ]
 
+permissions:
+  contents: read
+
 jobs:
-  build-and-deploy:
+  build:
     runs-on: ubuntu-latest
     steps:
     - uses: actions/checkout@master
@@ -22,7 +25,30 @@ jobs:
     - name: Build new content 🛎️
       run: |
         make
-    - name: Deploy to branch gh-pages 🚀
-      uses: stefanos1316/my_curriculum_vitae@master
+    - name: Prepare site assets
+      run: |
+        cp certificates/* degrees/* proofs/* publications/*/* achievements/* img/* web/
+    - name: Upload Pages artifact
+      uses: actions/upload-pages-artifact@v3
       with:
-        github_token: ${{ secrets.TOKEN }}
+        path: web
+
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/master'
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      pages: write
+      id-token: write
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+    - name: Configure Pages
+      uses: actions/configure-pages@v5
+      with:
+        enablement: true
+        token: ${{ secrets.TOKEN }}
+    - name: Deploy to GitHub Pages 🚀
+      id: deployment
+      uses: actions/deploy-pages@v5
