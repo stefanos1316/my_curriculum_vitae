@@ -4,8 +4,17 @@ About the online CV
 ===================
 
 This is a work replicated from this [link](https://github.com/mszep/pandoc_resume), but modified to my own needs.
-In adddion, it automates the build process by creating a new branch on travis and backing it back the Github repository after a success compilation.
-To set-up auto-push from Travis (creates a new branch) consider reading this [tutorial](https://aueb-balab.github.io/courses/tools/travis_ci_cv_template-p.html#/) (Section: Auto-deploying gh-pages with Travis (Linux distros)). 
+GitHub Actions builds the CV and deploys the generated `web/` directory to
+GitHub Pages on pushes to `master`. Pull requests build without deploying.
+
+In **Settings → Pages**, select **GitHub Actions** as the build source.
+The deployment can also enable Pages automatically using the existing
+`TOKEN` Actions secret: this must be a personal access token with the
+`repo` scope (classic) or Pages write permission (fine-grained).
+The `github-pages` environment must allow deployments from `master`.
+Publishing no longer pushes generated files to the `gh-pages` branch.
+If deployment returns `404 Not Found`, verify that Pages is enabled for
+this repository and that `TOKEN` has the required access.
 
 
 Original source of:
